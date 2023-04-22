@@ -1,831 +1,831 @@
-index,Date,Opponent,bat_avg,avg_HR,opp_error,10_game_avg,Loc,W/L,index,Opponent,avg_era_by_team
-0,2013-03-09,American Int'l,0.3143,0.0,1.0,0.0,vs,W,14,American Int'l,3.759463408155133
-1,2013-04-19,Bentley,0.1875,0.0,2.0,0.0,neutral,L,19,Bentley,3.755790329134499
-2,2013-04-20,Bentley,0.2078,0.0,2.5,0.1875,neutral,W,19,Bentley,3.755790329134499
-3,2013-04-20,Bentley,0.2078,0.0,2.5,0.1875,neutral,L,19,Bentley,3.755790329134499
-4,2013-05-07,Bentley,0.2941,0.0,3.0,0.0,at,L,19,Bentley,3.755790329134499
-5,2013-03-09,Caldwell,0.2857,1.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986
-6,2013-02-22,Chestnut Hill,0.3721,0.0,1.0,0.0,vs,W,38,Chestnut Hill,0.0
-7,2013-02-24,Chestnut Hill Coll.,0.4468,0.0,0.0,0.0,vs,W,40,Chestnut Hill Coll.,1.4736842105263157
-8,2013-03-08,Concordia (N.Y.),0.2571,0.0,2.0,0.0,vs,L,28,Concordia (N.Y.),4.4920071047957375
-9,2013-05-05,Felician,0.2787,0.0,2.5,0.0,neutral,W,24,Felician,3.4480151228733456
-10,2013-05-05,Felician,0.2787,0.0,2.5,0.0,neutral,L,24,Felician,3.4480151228733456
-11,2013-04-10,Franklin Pierce,0.2424,0.0,3.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-12,2013-04-24,Franklin Pierce,0.2647,0.0,2.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-13,2013-05-04,Franklin Pierce,0.2,1.0,1.0,0.26470588,neutral,L,15,Franklin Pierce,3.761500606233507
-14,2013-05-18,Franklin Pierce,0.1556,0.0,1.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507
-15,2013-03-24,Le Moyne,0.129,0.0,0.0,0.0,vs,L,34,Le Moyne,3.805714285714286
-16,2013-02-22,LIU Post,0.2647,0.0,3.0,0.0,vs,W,37,LIU Post,3.017142857142857
-17,2013-03-06,Lynn University,0.2857,1.0,1.0,0.0,at,L,43,Lynn University,5.761589403973511
-18,2013-04-26,Mercy,0.2414,2.0,1.5,0.0,neutral,W,47,Mercy,1.966019417475728
-19,2013-02-23,Mercyhurst Univ.,0.1818,3.0,0.0,0.0,vs,W,39,Mercyhurst Univ.,3.0
-20,2013-04-13,Merrimack,0.2576,0.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085
-21,2013-04-14,Merrimack,0.2857,0.0,1.0,0.25757576,neutral,W,2,Merrimack,3.0035206102391085
-22,2013-04-06,New Haven,0.2,0.0,1.5,0.0,neutral,L,13,New Haven,4.561151079136691
-23,2013-04-06,New Haven,0.2,0.0,1.5,0.0,neutral,W,13,New Haven,4.561151079136691
-24,2013-05-16,New Haven,0.2973,0.0,1.0,0.0,at,W,13,New Haven,4.561151079136691
-25,2013-03-05,Nova Southeastern,0.2778,2.0,1.0,0.0,at,W,7,Nova Southeastern,9.376271186440679
-26,2013-05-17,Pace,0.1724,0.0,0.0,0.0,at,W,12,Pace,4.003042777877215
-27,2013-03-16,Queens College,0.3387,1.0,0.0,0.0,at,W,46,Queens College,1.5
-28,2013-03-17,Queens College,0.1887,0.0,1.0,0.33870968,at,W,46,Queens College,1.5
-29,2013-04-03,Saint Anselm,0.4722,1.0,6.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-30,2013-04-04,Saint Anselm,0.25,1.0,4.0,0.47222222,neutral,L,17,Saint Anselm,3.5004222972972974
-31,2013-04-11,Saint Anselm,0.3824,0.0,0.0,0.36111111,neutral,W,17,Saint Anselm,3.5004222972972974
-32,2013-04-02,Saint Michael's,0.2258,1.0,1.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-33,2013-04-17,Saint Michael's,0.2121,0.0,2.0,0.0,at,L,5,Saint Michael's,2.130794701986755
-34,2013-04-30,Saint Michael's,0.3143,2.0,3.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-35,2013-03-23,Saint Rose,0.1912,1.5,2.5,0.0,vs,W,16,Saint Rose,3.690340909090909
-36,2013-04-07,So. Connecticut,0.209,0.5,7.0,0.0,neutral,L,20,So. Connecticut,5.103092783505154
-37,2013-03-28,Stonehill,0.129,0.0,0.0,0.0,at,L,4,Stonehill,3.5595172792100933
-38,2013-03-30,Stonehill College,0.1746,0.0,1.5,0.0,at,L,27,Stonehill College,3.911854103343465
-39,2013-03-30,Stonehill College,0.1746,0.0,1.5,0.0,at,W,27,Stonehill College,3.911854103343465
-40,2013-04-27,UMass Lowell,0.2857,0.0,1.5,0.0,at,W,11,UMass Lowell,3.893805309734513
-41,2013-04-28,UMass Lowell,0.2,0.0,0.0,0.28571429,at,L,11,UMass Lowell,3.893805309734513
-42,2013-03-08,Univ of the Sciences,0.2286,0.0,0.0,0.0,vs,L,44,Univ of the Sciences,4.5
-43,2013-03-03,USciences,0.0769,0.0,1.0,0.0,vs,W,41,USciences,0.0
-44,2013-02-23,West Va. Wesleyan,0.4324,0.0,1.0,0.0,vs,W,29,West Va. Wesleyan,2.3850000000000002
-45,2013-05-19,Wilmington (Del.),0.0968,1.0,3.0,0.0,at,L,21,Wilmington (Del.),4.014740108611326
-46,2013-03-04,Wilmington Univ.,0.2414,0.0,0.0,0.0,vs,W,42,Wilmington Univ.,3.052631578947368
-0,2014-03-23,Adelphi,0.3,0.0,3.0,0.0,at,W,18,Adelphi,3.9623161764705883
-1,2014-05-11,Adelphi,0.1852,0.0,1.0,0.0,neutral,W,18,Adelphi,3.9623161764705883
-2,2014-03-22,Adelphi University,0.1842,0.0,2.0,0.0,at,L,53,Adelphi University,1.9186046511627906
-3,2014-04-06,American Int'l,0.2951,0.5,1.0,0.0,neutral,W,14,American Int'l,3.759463408155133
-4,2014-04-12,Assumption,0.3333,0.5,2.5,0.0,neutral,W,26,Assumption,3.972206781545303
-5,2014-04-13,Assumption,0.2063,0.0,1.0,0.33333333,neutral,L,26,Assumption,3.972206781545303
-6,2014-04-13,Assumption,0.2063,0.0,1.0,0.33333333,neutral,W,26,Assumption,3.972206781545303
-7,2014-03-28,Bentley,0.25,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499
-8,2014-03-29,Bentley,0.2381,0.0,1.0,0.25,at,L,19,Bentley,3.755790329134499
-9,2014-05-07,Bentley,0.3333,0.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499
-10,2014-02-23,Bridgeport,0.2813,0.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-11,2014-02-20,Caldwell,0.2821,0.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986
-12,2014-03-02,Chestnut Hill Coll.,0.3,0.0,2.0,0.0,vs,W,40,Chestnut Hill Coll.,1.4736842105263157
-13,2014-03-04,Dominican (N.Y.),0.3438,0.0,2.0,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898
-14,2014-02-22,Dowling,0.3171,0.0,1.0,0.0,vs,W,1,Dowling,2.576581734898368
-15,2014-03-15,Dowling,0.2059,0.0,2.0,0.0,vs,L,1,Dowling,2.576581734898368
-16,2014-05-17,Dowling,0.1875,0.0,1.0,0.0,vs,L,1,Dowling,2.576581734898368
-17,2014-02-21,Felician,0.1765,0.0,0.0,0.0,vs,L,24,Felician,3.4480151228733456
-18,2014-03-14,Felician,0.325,0.0,1.0,0.0,vs,W,24,Felician,3.4480151228733456
-19,2014-05-15,Felician,0.359,1.0,0.0,0.0,neutral,W,24,Felician,3.4480151228733456
-20,2014-04-01,Franklin Pierce,0.2286,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-21,2014-04-16,Franklin Pierce,0.0417,0.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-22,2014-04-29,Franklin Pierce,0.069,0.0,1.0,0.0,at,L,15,Franklin Pierce,3.761500606233507
-23,2014-03-03,Lynn University,0.1042,0.0,1.0,0.0,at,L,43,Lynn University,5.761589403973511
-24,2014-04-18,Merrimack,0.1818,0.0,1.0,0.0,at,L,2,Merrimack,3.0035206102391085
-25,2014-04-19,Merrimack,0.2647,0.0,2.0,0.18181818,at,L,2,Merrimack,3.0035206102391085
-26,2014-04-24,Merrimack,0.2778,0.0,2.0,0.2238806,at,W,2,Merrimack,3.0035206102391085
-27,2014-03-15,Molloy,0.2222,0.0,0.0,0.0,vs,W,0,Molloy,4.10538286580743
-28,2014-05-09,New Haven,0.3333,1.0,1.0,0.0,neutral,W,13,New Haven,4.561151079136691
-29,2014-03-22,Pace,0.3378,1.0,1.0,0.0,at,W,12,Pace,4.003042777877215
-30,2014-02-21,Pfeiffer,0.3143,0.0,1.0,0.0,vs,L,48,Pfeiffer,9.0
-31,2014-03-07,Post,0.3714,1.0,1.0,0.0,vs,W,52,Post,1.2535714285714286
-32,2014-03-25,Saint Anselm,0.3438,0.0,1.0,0.0,vs,W,17,Saint Anselm,3.5004222972972974
-33,2014-04-03,Saint Anselm,0.2105,0.0,1.0,0.34375,vs,W,17,Saint Anselm,3.5004222972972974
-34,2014-04-10,Saint Anselm,0.325,1.0,2.0,0.21052632,at,W,17,Saint Anselm,3.5004222972972974
-35,2014-03-27,Saint Michael's,0.375,1.0,1.0,0.0,vs,W,5,Saint Michael's,2.130794701986755
-36,2014-04-09,Saint Michael's,0.2333,0.5,1.5,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-37,2014-04-23,Saint Michael's,0.4,0.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-38,2014-03-08,So. Connecticut,0.2857,0.0,2.0,0.0,vs,W,20,So. Connecticut,5.103092783505154
-39,2014-04-08,So. New Hampshire,0.129,1.0,2.0,0.0,at,L,3,So. New Hampshire,4.831858407079646
-40,2014-05-16,So. New Hampshire,0.2414,1.0,2.0,0.0,at,W,3,So. New Hampshire,4.831858407079646
-41,2014-03-07,Southern Connecticut,0.1923,0.0,1.0,0.0,vs,W,51,Southern Connecticut,2.0
-42,2014-04-27,Stonehill,0.1639,0.0,1.5,0.0,neutral,W,4,Stonehill,3.5595172792100933
-43,2014-04-27,Stonehill,0.1639,0.0,1.5,0.0,neutral,L,4,Stonehill,3.5595172792100933
-44,2014-05-04,Stonehill,0.1786,1.0,1.0,0.16393443,neutral,W,4,Stonehill,3.5595172792100933
-45,2014-05-10,Stonehill,0.3333,2.0,2.0,0.17857143,neutral,W,4,Stonehill,3.5595172792100933
-46,2014-05-03,U of Bridgeport,0.3443,0.5,1.0,0.0,at,W,54,U of Bridgeport,4.5
-47,2014-05-17,Wilmington (Del.),0.2188,0.0,2.0,0.0,at,W,21,Wilmington (Del.),4.014740108611326
-48,2014-03-04,Wilmington Univ.,0.4054,1.0,0.0,0.0,vs,W,42,Wilmington Univ.,3.052631578947368
-0,2015-04-13,American Int'l,0.3148,1.5,2.5,0.0,neutral,W,14,American Int'l,3.759463408155133
-1,2015-03-15,Assumption,0.2308,0.0,1.0,0.0,vs,W,26,Assumption,3.972206781545303
-2,2015-04-18,Assumption,0.4526,2.5,1.0,0.0,at,W,26,Assumption,3.972206781545303
-3,2015-04-19,Assumption,0.4318,0.0,1.0,0.45263158,at,W,26,Assumption,3.972206781545303
-4,2015-04-04,Bentley,0.3256,3.0,2.0,0.0,at,L,19,Bentley,3.755790329134499
-5,2015-04-06,Bentley,0.3235,1.0,2.0,0.3255814,at,W,19,Bentley,3.755790329134499
-6,2015-04-26,Bentley,0.3333,0.0,4.0,0.0,neutral,W,19,Bentley,3.755790329134499
-7,2015-02-20,Felician,0.25,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456
-8,2015-03-05,Felician,0.1875,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456
-9,2015-03-25,Franklin Pierce,0.125,1.0,2.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-10,2015-04-08,Franklin Pierce,0.1579,0.0,1.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507
-11,2015-04-22,Franklin Pierce,0.2069,1.0,2.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507
-12,2015-05-16,Franklin Pierce,0.1429,0.0,2.0,0.0,at,L,15,Franklin Pierce,3.761500606233507
-13,2015-03-07,LIU Post,0.3662,0.5,2.5,0.0,vs,W,37,LIU Post,3.017142857142857
-14,2015-03-04,Lynn University,0.3611,0.0,2.0,0.0,at,L,43,Lynn University,5.761589403973511
-15,2015-02-21,Mercy,0.0435,0.0,1.0,0.0,vs,W,47,Mercy,1.966019417475728
-16,2015-02-21,Mercy College,0.3095,1.0,0.0,0.0,vs,W,56,Mercy College,2.4064171122994655
-17,2015-03-16,Merrimack,0.25,1.0,2.0,0.0,vs,W,2,Merrimack,3.0035206102391085
-18,2015-04-25,Merrimack,0.3016,0.0,2.5,0.0,neutral,W,2,Merrimack,3.0035206102391085
-19,2015-04-26,Merrimack,0.3478,0.0,3.0,0.3015873,neutral,L,2,Merrimack,3.0035206102391085
-20,2015-02-13,Nova Southeastern,0.2286,0.0,2.0,0.0,at,L,7,Nova Southeastern,9.376271186440679
-21,2015-02-14,Nova Southeastern,0.2286,0.0,5.0,0.22857143,at,L,7,Nova Southeastern,9.376271186440679
-22,2015-02-15,Nova Southeastern,0.1563,1.0,2.0,0.22857143,at,L,7,Nova Southeastern,9.376271186440679
-23,2015-03-04,Post,0.25,0.0,1.0,0.0,vs,W,52,Post,1.2535714285714286
-24,2015-04-11,Saint Anselm,0.2,1.0,2.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-25,2015-04-16,Saint Anselm,0.4146,3.0,3.0,0.2,neutral,W,17,Saint Anselm,3.5004222972972974
-26,2015-04-21,Saint Anselm,0.3548,0.0,0.0,0.32394366,neutral,W,17,Saint Anselm,3.5004222972972974
-27,2015-04-14,Saint Michael's,0.2414,1.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-28,2015-04-23,Saint Michael's,0.3684,2.0,0.0,0.24137931,at,W,5,Saint Michael's,2.130794701986755
-29,2015-05-15,St. Thomas Aquinas,0.3333,1.0,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981
-30,2015-04-11,Stonehill,0.2,0.0,1.0,0.0,at,W,4,Stonehill,3.5595172792100933
-31,2015-05-01,Stonehill,0.303,0.0,0.0,0.0,at,W,4,Stonehill,3.5595172792100933
-32,2015-05-05,Stonehill,0.1429,0.0,2.0,0.3030303,neutral,L,4,Stonehill,3.5595172792100933
-33,2015-05-02,Stonehill College,0.2029,0.0,2.0,0.0,at,L,27,Stonehill College,3.911854103343465
-34,2015-02-20,U. of Bridgeport,0.3429,1.0,1.0,0.0,vs,W,55,U. of Bridgeport,1.0
-35,2015-02-22,U. of Bridgeport,0.2647,1.0,1.0,0.34285714,vs,W,55,U. of Bridgeport,1.0
-36,2015-05-14,Wilmington,0.1765,1.0,1.0,0.0,vs,L,58,Wilmington,3.0
-37,2015-03-05,Wilmington (DE),0.1875,0.0,0.0,0.0,vs,L,57,Wilmington (DE),1.0666666666666667
-0,2016-03-14,Adelphi,0.2903,0.0,1.0,0.0,vs,W,18,Adelphi,3.9623161764705883
-1,2016-04-10,Adelphi,0.25,1.0,2.5,0.0,neutral,W,18,Adelphi,3.9623161764705883
-2,2016-04-03,American Int'l,0.4143,0.0,1.5,0.0,at,W,14,American Int'l,3.759463408155133
-3,2016-04-16,Assumption,0.3889,2.0,1.5,0.0,neutral,W,26,Assumption,3.972206781545303
-4,2016-04-17,Assumption,0.3125,0.0,0.0,0.38888889,neutral,W,26,Assumption,3.972206781545303
-5,2016-03-26,Bentley,0.209,0.0,2.0,0.0,at,W,19,Bentley,3.755790329134499
-6,2016-03-29,Bentley,0.2162,1.0,0.0,0.20895522,at,W,19,Bentley,3.755790329134499
-7,2016-05-22,Bridgeport,0.3333,0.0,0.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-8,2016-03-13,Caldwell,0.481,1.0,0.5,0.0,vs,W,45,Caldwell,1.3029490616621986
-9,2016-02-26,Dominican College NY,0.3077,2.0,1.0,0.0,vs,W,59,Dominican College NY,5.0625
-10,2016-05-19,Dowling,0.1818,0.0,0.0,0.0,vs,L,1,Dowling,2.576581734898368
-11,2016-03-05,Felician,0.2131,0.0,0.5,0.0,at,W,24,Felician,3.4480151228733456
-12,2016-03-06,Felician,0.3235,0.5,2.0,0.21311475,at,W,24,Felician,3.4480151228733456
-13,2016-05-21,Felician,0.413,2.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456
-14,2016-03-30,Franklin Pierce,0.1471,1.0,3.0,0.0,at,L,15,Franklin Pierce,3.761500606233507
-15,2016-04-13,Franklin Pierce,0.1765,0.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-16,2016-04-27,Franklin Pierce,0.1,0.0,4.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507
-17,2016-05-23,Franklin Pierce,0.2131,0.5,0.0,0.0,at,L,15,Franklin Pierce,3.761500606233507
-18,2016-05-23,Franklin Pierce,0.2131,0.5,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-19,2016-03-19,Lynn,0.2222,1.0,2.0,0.0,at,L,31,Lynn,5.594594594594595
-20,2016-02-28,Mercy,0.3793,1.0,0.0,0.0,vs,W,47,Mercy,1.966019417475728
-21,2016-04-23,Merrimack,0.413,1.0,2.0,0.0,at,W,2,Merrimack,3.0035206102391085
-22,2016-04-24,Merrimack,0.3243,2.5,0.0,0.41304348,at,W,2,Merrimack,3.0035206102391085
-23,2016-05-10,Merrimack,0.303,1.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085
-24,2016-05-20,Molloy,0.325,2.0,3.0,0.0,vs,W,0,Molloy,4.10538286580743
-25,2016-03-12,Molloy College,0.413,3.0,1.0,0.0,vs,W,61,Molloy College,6.0
-26,2016-03-15,Nova Southeastern,0.2121,1.0,5.0,0.0,at,L,7,Nova Southeastern,9.376271186440679
-27,2016-02-27,Nyack College,0.3415,1.0,3.0,0.0,vs,W,60,Nyack College,0.0
-28,2016-04-09,Pace,0.3077,1.0,0.5,0.0,neutral,W,12,Pace,4.003042777877215
-29,2016-05-13,Pace,0.303,0.0,1.0,0.0,vs,W,12,Pace,4.003042777877215
-30,2016-04-08,Post,0.2069,0.0,1.0,0.0,neutral,W,52,Post,1.2535714285714286
-31,2016-03-23,Saint Anselm,0.2222,1.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974
-32,2016-04-15,Saint Anselm,0.2258,1.0,0.0,0.0,at,W,17,Saint Anselm,3.5004222972972974
-33,2016-04-29,Saint Anselm,0.3784,4.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974
-34,2016-03-31,Saint Michael's,0.4211,3.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-35,2016-04-19,Saint Michael's,0.2941,2.0,2.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-36,2016-05-03,Saint Michael's,0.3824,2.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-37,2016-05-12,Saint Rose,0.3333,2.0,0.0,0.0,vs,W,16,Saint Rose,3.690340909090909
-38,2016-05-14,Saint Rose,0.2647,0.0,1.0,0.33333333,vs,W,16,Saint Rose,3.690340909090909
-39,2016-03-18,So. Connecticut,0.3721,0.0,1.0,0.0,vs,W,20,So. Connecticut,5.103092783505154
-40,2016-04-22,So. Connecticut,0.3182,1.5,1.0,0.0,neutral,W,20,So. Connecticut,5.103092783505154
-41,2016-05-22,St. Thomas Aquinas,0.3333,0.0,0.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981
-42,2016-04-30,Stonehill,0.3375,1.0,0.5,0.0,neutral,L,4,Stonehill,3.5595172792100933
-43,2016-04-30,Stonehill,0.3375,1.0,0.5,0.0,neutral,W,4,Stonehill,3.5595172792100933
-44,2016-05-01,Stonehill,0.303,0.0,2.0,0.3375,neutral,W,4,Stonehill,3.5595172792100933
-45,2016-02-27,Wilmington (DE),0.1429,0.0,2.0,0.0,vs,W,57,Wilmington (DE),1.0666666666666667
-0,2017-04-29,Assumption,0.321,1.0,2.0,0.0,at,W,26,Assumption,3.972206781545303
-1,2017-04-30,Assumption,0.25,0.0,2.0,0.32098765,at,W,26,Assumption,3.972206781545303
-2,2017-04-22,Bentley,0.2712,0.5,0.0,0.0,neutral,W,19,Bentley,3.755790329134499
-3,2017-04-23,Bentley,0.2759,0.0,3.0,0.27118644,neutral,W,19,Bentley,3.755790329134499
-4,2017-05-09,Bentley,0.2059,0.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499
-5,2017-03-11,Bloomfield,0.2931,0.0,1.5,0.0,vs,W,23,Bloomfield,1.9156626506024097
-6,2017-02-26,Bridgeport,0.1071,2.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-7,2017-04-13,Bridgeport,0.125,0.0,1.0,0.0,neutral,W,49,Bridgeport,2.6724890829694328
-8,2017-03-12,Caldwell,0.2813,1.0,2.0,0.0,vs,W,45,Caldwell,1.3029490616621986
-9,2017-05-21,Felician,0.2647,4.0,0.0,0.0,at,W,24,Felician,3.4480151228733456
-10,2017-04-05,Franklin Pierce,0.1071,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-11,2017-04-18,Franklin Pierce,0.2581,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-12,2017-05-02,Franklin Pierce,0.1667,0.0,0.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-13,2017-05-12,Franklin Pierce,0.2,0.0,1.0,0.16666667,vs,L,15,Franklin Pierce,3.761500606233507
-14,2017-02-23,LIU Post,0.1724,0.0,2.0,0.0,vs,L,37,LIU Post,3.017142857142857
-15,2017-05-19,LIU Post,0.4359,3.0,3.0,0.0,neutral,W,37,LIU Post,3.017142857142857
-16,2017-02-25,Mercy,0.4773,2.0,0.0,0.0,vs,W,47,Mercy,1.966019417475728
-17,2017-02-24,Mercy College,0.2703,2.0,1.0,0.0,vs,W,56,Mercy College,2.4064171122994655
-18,2017-05-04,Merrimack,0.2414,1.0,0.0,0.0,neutral,W,2,Merrimack,3.0035206102391085
-19,2017-05-06,Merrimack,0.3288,3.5,1.0,0.24137931,neutral,W,2,Merrimack,3.0035206102391085
-20,2017-04-09,New Haven,0.2174,0.0,2.5,0.0,neutral,W,13,New Haven,4.561151079136691
-21,2017-04-09,New Haven,0.2174,0.0,2.5,0.0,neutral,L,13,New Haven,4.561151079136691
-22,2017-05-11,New Haven,0.1786,1.0,0.0,0.0,at,W,13,New Haven,4.561151079136691
-23,2017-05-12,New Haven,0.1563,0.0,2.0,0.17857143,at,L,13,New Haven,4.561151079136691
-24,2017-03-15,Nova Southeastern,0.2708,1.0,1.0,0.0,at,W,7,Nova Southeastern,9.376271186440679
-25,2017-03-13,Palm Beach Atl.,0.2727,0.0,0.0,0.0,at,W,64,Palm Beach Atl.,3.0
-26,2017-02-25,Queens (N.Y.),0.2069,1.0,0.0,0.0,vs,W,62,Queens (N.Y.),3.571428571428571
-27,2017-04-02,Saint Anselm,0.2394,0.0,0.5,0.0,vs,W,17,Saint Anselm,3.5004222972972974
-28,2017-04-27,Saint Anselm,0.3714,3.0,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-29,2017-04-12,Saint Michael's,0.2632,3.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-30,2017-04-28,Saint Michael's,0.2656,1.5,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-31,2017-03-25,Saint Rose,0.2381,0.0,0.5,0.0,vs,W,16,Saint Rose,3.690340909090909
-32,2017-03-18,Saint Thomas Aquinas,0.1897,0.0,2.0,0.0,vs,W,65,Saint Thomas Aquinas,3.5
-33,2017-03-18,Saint Thomas Aquinas,0.1897,0.0,2.0,0.0,vs,L,65,Saint Thomas Aquinas,3.5
-34,2017-03-03,Shippensburg,0.2647,1.0,3.0,0.0,at,L,63,Shippensburg,9.487951807228916
-35,2017-03-04,Shippensburg,0.3333,1.0,5.0,0.26470588,at,L,63,Shippensburg,9.487951807228916
-36,2017-03-05,Shippensburg,0.2794,0.5,0.5,0.30487805,at,W,63,Shippensburg,9.487951807228916
-37,2017-04-08,Southern Conn. State,0.2879,0.5,2.0,0.0,at,W,66,Southern Conn. State,3.5
-38,2017-05-20,St. Thomas Aquinas,0.1563,0.0,2.0,0.0,at,L,33,St. Thomas Aquinas,3.807285546415981
-39,2017-05-22,St. Thomas Aquinas,0.1875,2.0,0.0,0.15625,neutral,L,33,St. Thomas Aquinas,3.807285546415981
-40,2017-03-26,Stonehill College,0.2836,0.5,2.0,0.0,vs,W,27,Stonehill College,3.911854103343465
-41,2017-03-26,Stonehill College,0.2836,0.5,2.0,0.0,vs,L,27,Stonehill College,3.911854103343465
-42,2017-04-15,Stonehill College,0.3919,0.5,2.0,0.0,at,W,27,Stonehill College,3.911854103343465
-43,2017-04-17,Stonehill College,0.129,0.0,1.0,0.39189189,at,L,27,Stonehill College,3.911854103343465
-0,2018-04-08,American Int'l,0.2727,0.5,3.0,0.0,neutral,W,14,American Int'l,3.759463408155133
-1,2018-04-08,American Int'l,0.2727,0.5,3.0,0.0,neutral,L,14,American Int'l,3.759463408155133
-2,2018-04-18,Assumption,0.4098,1.0,0.5,0.0,neutral,W,26,Assumption,3.972206781545303
-3,2018-05-04,Assumption,0.3529,2.0,1.0,0.0,neutral,W,26,Assumption,3.972206781545303
-4,2018-05-26,Augustana,0.129,1.0,3.0,0.0,vs,L,70,Augustana,6.88235294117647
-5,2018-05-31,Augustana,0.2,0.0,1.0,0.12903226,vs,L,70,Augustana,6.88235294117647
-6,2018-03-30,Bentley,0.2821,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499
-7,2018-03-31,Bentley,0.3587,1.0,0.0,0.28205128,at,W,19,Bentley,3.755790329134499
-8,2018-03-31,Bentley,0.3587,1.0,0.0,0.28205128,at,L,19,Bentley,3.755790329134499
-9,2018-05-08,Bentley,0.2258,1.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499
-10,2018-03-09,Bloomfield,0.2353,0.0,1.0,0.0,vs,W,23,Bloomfield,1.9156626506024097
-11,2018-02-22,Bridgeport,0.3611,1.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-12,2018-04-07,Bridgeport,0.3148,2.0,0.5,0.0,neutral,W,49,Bridgeport,2.6724890829694328
-13,2018-03-12,Eckerd College,0.1034,0.0,2.0,0.0,at,L,67,Eckerd College,10.125
-14,2018-02-23,Felician,0.1935,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456
-15,2018-03-28,Franklin Pierce,0.2895,2.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-16,2018-04-11,Franklin Pierce,0.2273,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-17,2018-04-24,Franklin Pierce,0.4286,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-18,2018-05-17,Franklin Pierce,0.2727,1.0,0.0,0.0,vs,W,15,Franklin Pierce,3.761500606233507
-19,2018-02-25,Le Moyne,0.3429,0.0,0.0,0.0,vs,W,34,Le Moyne,3.805714285714286
-20,2018-05-11,Le Moyne,0.303,1.0,2.0,0.0,at,W,34,Le Moyne,3.805714285714286
-21,2018-02-24,LIU Post,0.2941,2.0,2.0,0.0,vs,W,37,LIU Post,3.017142857142857
-22,2018-02-24,Mercy College,0.4103,4.0,1.0,0.0,vs,W,56,Mercy College,2.4064171122994655
-23,2018-04-27,Merrimack,0.2143,0.0,1.0,0.0,neutral,W,2,Merrimack,3.0035206102391085
-24,2018-05-11,Merrimack,0.25,0.0,2.0,0.0,neutral,L,2,Merrimack,3.0035206102391085
-25,2018-04-28,Merrimack College,0.2568,0.5,2.5,0.0,at,L,69,Merrimack College,5.884615384615385
-26,2018-04-28,Merrimack College,0.2568,0.5,2.5,0.0,at,W,69,Merrimack College,5.884615384615385
-27,2018-04-29,Merrimack College,0.3333,1.0,1.0,0.25675676,at,W,69,Merrimack College,5.884615384615385
-28,2018-03-11,New Haven,0.2703,0.0,4.0,0.0,vs,L,13,New Haven,4.561151079136691
-29,2018-05-10,New Haven,0.3077,0.0,1.0,0.0,neutral,L,13,New Haven,4.561151079136691
-30,2018-05-18,New Haven,0.2703,0.0,0.0,0.30769231,vs,W,13,New Haven,4.561151079136691
-31,2018-03-13,Nova Southeastern,0.1429,0.0,4.0,0.0,at,L,7,Nova Southeastern,9.376271186440679
-32,2018-03-24,Pace University,0.1356,0.5,1.0,0.0,at,L,68,Pace University,2.8125
-33,2018-04-21,Saint Anselm,0.3846,0.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974
-34,2018-04-22,Saint Anselm,0.3158,0.5,1.5,0.38461538,at,W,17,Saint Anselm,3.5004222972972974
-35,2018-03-03,Saint Michael's,0.3548,0.5,0.5,0.0,vs,W,5,Saint Michael's,2.130794701986755
-36,2018-04-04,Saint Michael's,0.2895,0.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-37,2018-05-01,Saint Michael's,0.2295,0.5,0.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-38,2018-05-01,Saint Michael's,0.2295,0.5,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-39,2018-05-27,Southern Indiana,0.2581,0.0,0.0,0.0,vs,W,71,Southern Indiana,0.0
-40,2018-03-17,St. Thomas Aquinas,0.2321,1.5,1.0,0.0,vs,L,33,St. Thomas Aquinas,3.807285546415981
-41,2018-03-17,St. Thomas Aquinas,0.2321,1.5,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981
-42,2018-03-18,St. Thomas Aquinas,0.1429,2.0,1.0,0.23214286,vs,L,33,St. Thomas Aquinas,3.807285546415981
-43,2018-05-20,St. Thomas Aquinas,0.2813,1.0,0.0,0.0,neutral,W,33,St. Thomas Aquinas,3.807285546415981
-44,2018-05-21,St. Thomas Aquinas,0.2632,1.0,0.0,0.28125,vs,W,33,St. Thomas Aquinas,3.807285546415981
-45,2018-04-13,Stonehill,0.3243,0.0,0.0,0.0,neutral,W,4,Stonehill,3.5595172792100933
-46,2018-04-14,Stonehill,0.3151,2.0,0.5,0.32432432,neutral,W,4,Stonehill,3.5595172792100933
-47,2018-04-14,Stonehill,0.3151,2.0,0.5,0.32432432,neutral,L,4,Stonehill,3.5595172792100933
-48,2018-05-30,UC San Diego,0.25,2.0,0.0,0.0,vs,W,72,UC San Diego,4.0
-49,2018-03-04,West Chester,0.2353,0.0,2.5,0.0,vs,L,36,West Chester,10.50761421319797
-50,2018-03-10,Wilmington (Del.),0.3226,0.0,0.0,0.0,vs,W,21,Wilmington (Del.),4.014740108611326
-0,2019-03-16,Adelphi,0.2813,0.0,2.0,0.0,vs,W,18,Adelphi,3.9623161764705883
-1,2019-03-15,American Int'l,0.3514,0.0,0.0,0.0,vs,W,14,American Int'l,3.759463408155133
-2,2019-03-15,American Int'l,0.3514,0.0,0.0,0.0,vs,L,14,American Int'l,3.759463408155133
-3,2019-04-27,Assumption,0.2917,0.5,0.5,0.0,at,W,26,Assumption,3.972206781545303
-4,2019-04-28,Assumption,0.1818,0.0,2.0,0.29166667,at,L,26,Assumption,3.972206781545303
-5,2019-05-16,Assumption,0.3056,1.0,2.0,0.0,neutral,W,26,Assumption,3.972206781545303
-6,2019-04-18,Bentley,0.125,0.0,0.0,0.0,neutral,L,19,Bentley,3.755790329134499
-7,2019-04-19,Bentley,0.2368,0.0,0.0,0.125,neutral,L,19,Bentley,3.755790329134499
-8,2019-04-23,Bentley,0.2069,1.0,2.0,0.18571429,neutral,W,19,Bentley,3.755790329134499
-9,2019-02-23,Bridgeport,0.2581,0.0,2.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-10,2019-03-10,Caldwell,0.3636,0.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986
-11,2019-02-23,Concordia New York,0.3148,2.0,1.0,0.0,vs,W,74,Concordia New York,3.2142857142857144
-12,2019-02-08,CSU San Bernardino,0.2,4.0,1.0,0.0,at,W,73,CSU San Bernardino,6.230769230769231
-13,2019-02-09,CSU San Bernardino,0.2031,0.5,2.5,0.2,at,L,73,CSU San Bernardino,6.230769230769231
-14,2019-05-17,Felician,0.2432,0.0,0.0,0.0,at,W,24,Felician,3.4480151228733456
-15,2019-04-02,Franklin Pierce,0.3784,0.0,0.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-16,2019-04-16,Franklin Pierce,0.1351,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-17,2019-04-30,Franklin Pierce,0.3846,0.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-18,2019-05-07,Franklin Pierce,0.1875,1.0,1.0,0.38461538,neutral,L,15,Franklin Pierce,3.761500606233507
-19,2019-04-07,Le Moyne,0.1786,0.0,0.5,0.0,neutral,W,34,Le Moyne,3.805714285714286
-20,2019-04-07,Le Moyne,0.1786,0.0,0.5,0.0,neutral,L,34,Le Moyne,3.805714285714286
-21,2019-02-21,LIU Post,0.1724,1.0,0.0,0.0,vs,W,37,LIU Post,3.017142857142857
-22,2019-05-17,LIU Post,0.3077,2.0,1.0,0.0,neutral,L,37,LIU Post,3.017142857142857
-23,2019-05-18,LIU Post,0.3485,1.5,0.5,0.30769231,neutral,W,37,LIU Post,3.017142857142857
-24,2019-05-18,LIU Post,0.3485,1.5,0.5,0.30769231,at,W,37,LIU Post,3.017142857142857
-25,2019-02-22,Mercy,0.2333,1.0,3.0,0.0,vs,W,47,Mercy,1.966019417475728
-26,2019-03-01,Merrimack,0.1944,0.0,3.0,0.0,vs,W,2,Merrimack,3.0035206102391085
-27,2019-03-03,Merrimack,0.2593,1.0,2.0,0.19444444,vs,L,2,Merrimack,3.0035206102391085
-28,2019-03-03,Merrimack,0.2593,1.0,2.0,0.19444444,vs,W,2,Merrimack,3.0035206102391085
-29,2019-05-02,Merrimack,0.2353,1.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085
-30,2019-05-04,Merrimack,0.2857,0.5,1.0,0.23529412,neutral,W,2,Merrimack,3.0035206102391085
-31,2019-03-12,Molloy,0.2258,0.0,0.0,0.0,vs,W,0,Molloy,4.10538286580743
-32,2019-03-24,New Haven,0.1692,0.0,2.0,0.0,at,L,13,New Haven,4.561151079136691
-33,2019-03-24,New Haven,0.1692,0.0,2.0,0.0,at,W,13,New Haven,4.561151079136691
-34,2019-03-13,Nova Southeastern,0.3333,0.0,7.0,0.0,at,L,7,Nova Southeastern,9.376271186440679
-35,2019-05-24,NYIT,0.3333,2.0,4.0,0.0,neutral,L,77,NYIT,9.0
-36,2019-03-11,Post,0.2593,0.0,0.5,0.0,vs,W,52,Post,1.2535714285714286
-37,2019-03-30,Saint Anselm,0.2985,1.0,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-38,2019-03-31,Saint Anselm,0.2667,0.0,2.0,0.29850746,neutral,W,17,Saint Anselm,3.5004222972972974
-39,2019-04-11,Saint Michael's,0.325,0.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-40,2019-04-24,Saint Michael's,0.3243,2.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-41,2019-04-06,Saint Rose,0.2951,0.5,0.0,0.0,neutral,W,16,Saint Rose,3.690340909090909
-42,2019-04-05,Southern Conn. St.,0.2632,2.0,2.0,0.0,neutral,W,76,Southern Conn. St.,4.0344827586206895
-43,2019-05-25,Southern N.H.,0.2857,1.0,1.0,0.0,at,W,78,Southern N.H.,3.0
-44,2019-03-29,St. Michael's,0.3103,0.0,3.0,0.0,neutral,W,75,St. Michael's,0.7941176470588236
-45,2019-02-24,St. Thomas Aquinas,0.25,0.0,2.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981
-46,2019-04-13,Stonehill,0.2381,0.0,1.5,0.0,at,L,4,Stonehill,3.5595172792100933
-47,2019-04-13,Stonehill,0.2381,0.0,1.5,0.0,at,W,4,Stonehill,3.5595172792100933
-48,2019-04-14,Stonehill,0.2857,0.0,1.0,0.23809524,at,W,4,Stonehill,3.5595172792100933
-0,2020-03-07,Adelphi University,0.1667,0.0,2.0,0.0,at,L,53,Adelphi University,1.9186046511627906
-1,2020-03-08,Adelphi University,0.1897,0.5,0.0,0.16666667,at,W,53,Adelphi University,1.9186046511627906
-2,2020-02-23,Bridgeport,0.3333,2.0,0.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-3,2020-02-14,Colorado Mesa,0.2,0.0,1.0,0.0,at,L,79,Colorado Mesa,14.25
-4,2020-02-15,Colorado Mesa,0.2432,0.0,3.0,0.2,at,L,79,Colorado Mesa,14.25
-5,2020-02-16,Colorado Mesa,0.2941,0.0,0.0,0.2238806,at,L,79,Colorado Mesa,14.25
-6,2020-02-22,Dominican (N.Y.),0.4935,1.5,0.5,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898
-7,2020-02-22,Dominican (N.Y.),0.4935,1.5,0.5,0.0,at,W,50,Dominican (N.Y.),5.26530612244898
-8,2020-02-21,Felician,0.2632,2.0,1.0,0.0,vs,W,24,Felician,3.4480151228733456
-9,2020-02-21,Mercy,0.3636,0.0,1.0,0.0,vs,W,47,Mercy,1.966019417475728
-10,2020-02-29,New York Tech,0.2667,0.0,1.0,0.0,at,W,80,New York Tech,1.44
-11,2020-03-01,New York Tech,0.2,1.0,1.5,0.26666667,at,W,80,New York Tech,1.44
-12,2020-03-10,Pace,0.325,1.0,0.0,0.0,at,W,12,Pace,4.003042777877215
-13,2020-03-09,Queens (NY),0.3429,1.0,1.0,0.0,at,W,81,Queens (NY),3.0
-0,2021-05-21,Adelphi,0.3333,3.0,0.5,0.0,neutral,W,18,Adelphi,3.9623161764705883
-1,2021-05-21,Adelphi,0.3333,3.0,0.5,0.0,at,W,18,Adelphi,3.9623161764705883
-2,2021-05-07,Assumption,0.3088,0.0,2.5,0.0,at,W,26,Assumption,3.972206781545303
-3,2021-05-08,Assumption,0.2419,0.0,1.0,0.30882353,at,L,26,Assumption,3.972206781545303
-4,2021-05-08,Assumption,0.2419,0.0,1.0,0.30882353,vs,L,26,Assumption,3.972206781545303
-5,2021-05-13,Assumption,0.2647,0.0,0.0,0.27692308,neutral,W,26,Assumption,3.972206781545303
-6,2021-04-24,Bentley,0.3065,0.5,3.0,0.0,neutral,W,19,Bentley,3.755790329134499
-7,2021-04-24,Bentley,0.3065,0.5,3.0,0.0,neutral,L,19,Bentley,3.755790329134499
-8,2021-04-25,Bentley,0.2658,1.0,4.0,0.30645161,neutral,L,19,Bentley,3.755790329134499
-9,2021-04-25,Bentley,0.2658,1.0,4.0,0.30645161,neutral,W,19,Bentley,3.755790329134499
-10,2021-05-27,Dominican (N.Y.),0.2581,2.0,0.0,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898
-11,2021-05-01,Franklin Pierce,0.3438,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-12,2021-05-02,Franklin Pierce,0.2951,1.0,2.0,0.34375,neutral,L,15,Franklin Pierce,3.761500606233507
-13,2021-05-02,Franklin Pierce,0.2951,1.0,2.0,0.34375,neutral,W,15,Franklin Pierce,3.761500606233507
-14,2021-05-16,Franklin Pierce,0.2368,1.5,1.5,0.0,neutral,L,15,Franklin Pierce,3.761500606233507
-15,2021-05-16,Franklin Pierce,0.2368,1.5,1.5,0.0,at,W,15,Franklin Pierce,3.761500606233507
-16,2021-05-17,Franklin Pierce,0.4,4.0,1.0,0.23684211,neutral,W,15,Franklin Pierce,3.761500606233507
-17,2021-05-28,Franklin Pierce,0.3421,2.0,4.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-18,2021-05-29,Molloy,0.3714,2.0,1.0,0.0,vs,W,0,Molloy,4.10538286580743
-19,2021-05-31,Molloy,0.2353,1.0,3.0,0.37142857,vs,L,0,Molloy,4.10538286580743
-20,2021-06-01,Molloy,0.35,1.0,1.0,0.30434783,vs,W,0,Molloy,4.10538286580743
-21,2021-04-09,Saint Anselm,0.3333,0.5,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-22,2021-04-10,Saint Anselm,0.3846,2.5,0.5,0.33333333,neutral,W,17,Saint Anselm,3.5004222972972974
-23,2021-04-17,Saint Michael's,0.3919,0.5,0.5,0.0,at,W,5,Saint Michael's,2.130794701986755
-24,2021-04-18,Saint Michael's,0.3951,0.5,0.5,0.39189189,at,W,5,Saint Michael's,2.130794701986755
-25,2021-06-06,Seton Hill,0.125,0.0,1.0,0.0,vs,L,82,Seton Hill,4.5
-26,2021-03-25,Stonehill,0.2295,1.5,0.5,0.0,at,W,4,Stonehill,3.5595172792100933
-27,2021-03-27,Stonehill,0.3125,1.0,0.5,0.2295082,at,W,4,Stonehill,3.5595172792100933
-28,2021-06-08,Wingate,0.2571,1.0,0.0,0.0,vs,L,83,Wingate,3.0
-0,2022-03-20,Adelphi,0.1692,0.0,1.0,0.0,at,W,18,Adelphi,3.9623161764705883
-1,2022-03-20,Adelphi,0.1692,0.0,1.0,0.0,at,L,18,Adelphi,3.9623161764705883
-2,2022-03-21,Adelphi,0.3125,1.0,1.0,0.16923077,at,L,18,Adelphi,3.9623161764705883
-3,2022-05-13,Adelphi,0.2571,0.0,6.0,0.0,neutral,W,18,Adelphi,3.9623161764705883
-4,2022-06-05,Angelo State,0.2059,2.0,3.0,0.0,vs,L,85,Angelo State,7.0
-5,2022-03-14,Assumption,0.3421,2.0,1.0,0.0,neutral,W,26,Assumption,3.972206781545303
-6,2022-05-06,Assumption,0.2951,1.5,1.0,0.0,neutral,W,26,Assumption,3.972206781545303
-7,2022-05-07,Assumption,0.3091,0.5,1.5,0.29508197,neutral,W,26,Assumption,3.972206781545303
-8,2022-05-14,Assumption,0.2958,2.0,2.0,0.30172414,vs,L,26,Assumption,3.972206781545303
-9,2022-05-14,Assumption,0.2958,2.0,2.0,0.30172414,vs,W,26,Assumption,3.972206781545303
-10,2022-04-21,Bentley,0.4375,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499
-11,2022-04-22,Bentley,0.3571,1.0,0.0,0.4375,at,W,19,Bentley,3.755790329134499
-12,2022-04-23,Bentley,0.3438,0.0,1.0,0.4,at,W,19,Bentley,3.755790329134499
-13,2022-04-05,Bridgeport,0.1429,0.0,0.0,0.0,at,W,49,Bridgeport,2.6724890829694328
-14,2022-04-26,Bridgeport,0.2571,1.0,2.0,0.0,at,W,49,Bridgeport,2.6724890829694328
-15,2022-02-24,Felician,0.2,1.0,3.0,0.0,vs,L,24,Felician,3.4480151228733456
-16,2022-03-05,Felician,0.3563,3.5,3.0,0.2,at,W,24,Felician,3.4480151228733456
-17,2022-03-06,Felician,0.2121,0.0,1.0,0.31623932,at,L,24,Felician,3.4480151228733456
-18,2022-04-29,Franklin Pierce,0.1613,1.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-19,2022-04-30,Franklin Pierce,0.2264,0.0,1.0,0.16129032,at,L,15,Franklin Pierce,3.761500606233507
-20,2022-04-30,Franklin Pierce,0.2264,0.0,1.0,0.16129032,at,W,15,Franklin Pierce,3.761500606233507
-21,2022-05-01,Franklin Pierce,0.413,2.0,0.0,0.20238095,at,W,15,Franklin Pierce,3.761500606233507
-22,2022-05-12,Le Moyne,0.3529,1.0,2.0,0.0,vs,W,34,Le Moyne,3.805714285714286
-23,2022-02-26,Mercy College,0.4028,1.5,0.5,0.0,vs,W,56,Mercy College,2.4064171122994655
-24,2022-05-27,Molloy,0.2424,1.5,2.5,0.0,neutral,L,0,Molloy,4.10538286580743
-25,2022-05-27,Molloy,0.2424,1.5,2.5,0.0,at,W,0,Molloy,4.10538286580743
-26,2022-05-29,Molloy,0.2571,2.0,2.0,0.24242424,vs,W,0,Molloy,4.10538286580743
-27,2022-04-02,New Haven,0.3333,1.0,1.5,0.0,at,W,13,New Haven,4.561151079136691
-28,2022-04-02,New Haven,0.3333,1.0,1.5,0.0,at,L,13,New Haven,4.561151079136691
-29,2022-03-11,Nyack,0.3333,3.0,1.5,0.0,neutral,W,84,Nyack,1.0
-30,2022-02-25,Queens (N.Y.),0.3333,2.0,1.0,0.0,vs,W,62,Queens (N.Y.),3.571428571428571
-31,2022-03-30,Saint Anselm,0.3636,2.0,0.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-32,2022-04-07,Saint Anselm,0.3182,0.0,2.0,0.36363636,at,W,17,Saint Anselm,3.5004222972972974
-33,2022-04-08,Saint Anselm,0.2895,3.0,3.0,0.33766234,at,L,17,Saint Anselm,3.5004222972972974
-34,2022-04-10,Saint Anselm,0.3492,2.0,1.5,0.30487805,at,L,17,Saint Anselm,3.5004222972972974
-35,2022-04-10,Saint Anselm,0.3492,2.0,1.5,0.30487805,at,W,17,Saint Anselm,3.5004222972972974
-36,2022-05-10,Saint Anselm,0.3824,2.0,1.0,0.0,vs,W,17,Saint Anselm,3.5004222972972974
-37,2022-05-20,Southern Conn. St.,0.3718,4.0,0.5,0.0,vs,W,76,Southern Conn. St.,4.0344827586206895
-38,2022-04-15,St. Michael's,0.2931,2.5,0.0,0.0,neutral,W,75,St. Michael's,0.7941176470588236
-39,2022-04-16,St. Michael's,0.381,0.0,1.5,0.29310345,neutral,W,75,St. Michael's,0.7941176470588236
-40,2022-02-27,St. Thomas Aquinas,0.4474,0.0,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981
-41,2022-04-13,St. Thomas Aquinas,0.3947,4.0,1.0,0.0,neutral,W,33,St. Thomas Aquinas,3.807285546415981
-42,2022-04-27,St. Thomas Aquinas,0.2703,2.0,6.0,0.0,at,W,33,St. Thomas Aquinas,3.807285546415981
-43,2022-03-25,Stonehill,0.25,1.0,2.0,0.0,neutral,W,4,Stonehill,3.5595172792100933
-44,2022-03-26,Stonehill,0.3208,1.0,0.5,0.25,neutral,W,4,Stonehill,3.5595172792100933
-45,2022-03-27,Stonehill,0.3,1.0,0.0,0.2962963,neutral,W,4,Stonehill,3.5595172792100933
-46,2022-06-07,West Chester,0.2941,1.0,0.0,0.0,vs,L,36,West Chester,10.50761421319797
-47,2022-05-19,Wilmington (Del.),0.25,2.0,0.0,0.0,vs,W,21,Wilmington (Del.),4.014740108611326
-0,2013-03-09,American Int'l,0.3143,0.0,1.0,0.0,vs,W,14,American Int'l,3.759463408155133
-1,2013-04-19,Bentley,0.1875,0.0,2.0,0.0,neutral,L,19,Bentley,3.755790329134499
-2,2013-04-20,Bentley,0.2078,0.0,2.5,0.1875,neutral,W,19,Bentley,3.755790329134499
-3,2013-04-20,Bentley,0.2078,0.0,2.5,0.1875,neutral,L,19,Bentley,3.755790329134499
-4,2013-05-07,Bentley,0.2941,0.0,3.0,0.0,at,L,19,Bentley,3.755790329134499
-5,2013-03-09,Caldwell,0.2857,1.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986
-6,2013-02-22,Chestnut Hill,0.3721,0.0,1.0,0.0,vs,W,38,Chestnut Hill,0.0
-7,2013-02-24,Chestnut Hill Coll.,0.4468,0.0,0.0,0.0,vs,W,40,Chestnut Hill Coll.,1.4736842105263157
-8,2013-03-08,Concordia (N.Y.),0.2571,0.0,2.0,0.0,vs,L,28,Concordia (N.Y.),4.4920071047957375
-9,2013-05-05,Felician,0.2787,0.0,2.5,0.0,neutral,W,24,Felician,3.4480151228733456
-10,2013-05-05,Felician,0.2787,0.0,2.5,0.0,neutral,L,24,Felician,3.4480151228733456
-11,2013-04-10,Franklin Pierce,0.2424,0.0,3.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-12,2013-04-24,Franklin Pierce,0.2647,0.0,2.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-13,2013-05-04,Franklin Pierce,0.2,1.0,1.0,0.26470588,neutral,L,15,Franklin Pierce,3.761500606233507
-14,2013-05-18,Franklin Pierce,0.1556,0.0,1.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507
-15,2013-03-24,Le Moyne,0.129,0.0,0.0,0.0,vs,L,34,Le Moyne,3.805714285714286
-16,2013-02-22,LIU Post,0.2647,0.0,3.0,0.0,vs,W,37,LIU Post,3.017142857142857
-17,2013-03-06,Lynn University,0.2857,1.0,1.0,0.0,at,L,43,Lynn University,5.761589403973511
-18,2013-04-26,Mercy,0.2414,2.0,1.5,0.0,neutral,W,47,Mercy,1.966019417475728
-19,2013-02-23,Mercyhurst Univ.,0.1818,3.0,0.0,0.0,vs,W,39,Mercyhurst Univ.,3.0
-20,2013-04-13,Merrimack,0.2576,0.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085
-21,2013-04-14,Merrimack,0.2857,0.0,1.0,0.25757576,neutral,W,2,Merrimack,3.0035206102391085
-22,2013-04-06,New Haven,0.2,0.0,1.5,0.0,neutral,L,13,New Haven,4.561151079136691
-23,2013-04-06,New Haven,0.2,0.0,1.5,0.0,neutral,W,13,New Haven,4.561151079136691
-24,2013-05-16,New Haven,0.2973,0.0,1.0,0.0,at,W,13,New Haven,4.561151079136691
-25,2013-03-05,Nova Southeastern,0.2778,2.0,1.0,0.0,at,W,7,Nova Southeastern,9.376271186440679
-26,2013-05-17,Pace,0.1724,0.0,0.0,0.0,at,W,12,Pace,4.003042777877215
-27,2013-03-16,Queens College,0.3387,1.0,0.0,0.0,at,W,46,Queens College,1.5
-28,2013-03-17,Queens College,0.1887,0.0,1.0,0.33870968,at,W,46,Queens College,1.5
-29,2013-04-03,Saint Anselm,0.4722,1.0,6.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-30,2013-04-04,Saint Anselm,0.25,1.0,4.0,0.47222222,neutral,L,17,Saint Anselm,3.5004222972972974
-31,2013-04-11,Saint Anselm,0.3824,0.0,0.0,0.36111111,neutral,W,17,Saint Anselm,3.5004222972972974
-32,2013-04-02,Saint Michael's,0.2258,1.0,1.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-33,2013-04-17,Saint Michael's,0.2121,0.0,2.0,0.0,at,L,5,Saint Michael's,2.130794701986755
-34,2013-04-30,Saint Michael's,0.3143,2.0,3.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-35,2013-03-23,Saint Rose,0.1912,1.5,2.5,0.0,vs,W,16,Saint Rose,3.690340909090909
-36,2013-04-07,So. Connecticut,0.209,0.5,7.0,0.0,neutral,L,20,So. Connecticut,5.103092783505154
-37,2013-03-28,Stonehill,0.129,0.0,0.0,0.0,at,L,4,Stonehill,3.5595172792100933
-38,2013-03-30,Stonehill College,0.1746,0.0,1.5,0.0,at,L,27,Stonehill College,3.911854103343465
-39,2013-03-30,Stonehill College,0.1746,0.0,1.5,0.0,at,W,27,Stonehill College,3.911854103343465
-40,2013-04-27,UMass Lowell,0.2857,0.0,1.5,0.0,at,W,11,UMass Lowell,3.893805309734513
-41,2013-04-28,UMass Lowell,0.2,0.0,0.0,0.28571429,at,L,11,UMass Lowell,3.893805309734513
-42,2013-03-08,Univ of the Sciences,0.2286,0.0,0.0,0.0,vs,L,44,Univ of the Sciences,4.5
-43,2013-03-03,USciences,0.0769,0.0,1.0,0.0,vs,W,41,USciences,0.0
-44,2013-02-23,West Va. Wesleyan,0.4324,0.0,1.0,0.0,vs,W,29,West Va. Wesleyan,2.3850000000000002
-45,2013-05-19,Wilmington (Del.),0.0968,1.0,3.0,0.0,at,L,21,Wilmington (Del.),4.014740108611326
-46,2013-03-04,Wilmington Univ.,0.2414,0.0,0.0,0.0,vs,W,42,Wilmington Univ.,3.052631578947368
-0,2014-03-23,Adelphi,0.3,0.0,3.0,0.0,at,W,18,Adelphi,3.9623161764705883
-1,2014-05-11,Adelphi,0.1852,0.0,1.0,0.0,neutral,W,18,Adelphi,3.9623161764705883
-2,2014-03-22,Adelphi University,0.1842,0.0,2.0,0.0,at,L,53,Adelphi University,1.9186046511627906
-3,2014-04-06,American Int'l,0.2951,0.5,1.0,0.0,neutral,W,14,American Int'l,3.759463408155133
-4,2014-04-12,Assumption,0.3333,0.5,2.5,0.0,neutral,W,26,Assumption,3.972206781545303
-5,2014-04-13,Assumption,0.2063,0.0,1.0,0.33333333,neutral,L,26,Assumption,3.972206781545303
-6,2014-04-13,Assumption,0.2063,0.0,1.0,0.33333333,neutral,W,26,Assumption,3.972206781545303
-7,2014-03-28,Bentley,0.25,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499
-8,2014-03-29,Bentley,0.2381,0.0,1.0,0.25,at,L,19,Bentley,3.755790329134499
-9,2014-05-07,Bentley,0.3333,0.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499
-10,2014-02-23,Bridgeport,0.2813,0.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-11,2014-02-20,Caldwell,0.2821,0.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986
-12,2014-03-02,Chestnut Hill Coll.,0.3,0.0,2.0,0.0,vs,W,40,Chestnut Hill Coll.,1.4736842105263157
-13,2014-03-04,Dominican (N.Y.),0.3438,0.0,2.0,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898
-14,2014-02-22,Dowling,0.3171,0.0,1.0,0.0,vs,W,1,Dowling,2.576581734898368
-15,2014-03-15,Dowling,0.2059,0.0,2.0,0.0,vs,L,1,Dowling,2.576581734898368
-16,2014-05-17,Dowling,0.1875,0.0,1.0,0.0,vs,L,1,Dowling,2.576581734898368
-17,2014-02-21,Felician,0.1765,0.0,0.0,0.0,vs,L,24,Felician,3.4480151228733456
-18,2014-03-14,Felician,0.325,0.0,1.0,0.0,vs,W,24,Felician,3.4480151228733456
-19,2014-05-15,Felician,0.359,1.0,0.0,0.0,neutral,W,24,Felician,3.4480151228733456
-20,2014-04-01,Franklin Pierce,0.2286,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-21,2014-04-16,Franklin Pierce,0.0417,0.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-22,2014-04-29,Franklin Pierce,0.069,0.0,1.0,0.0,at,L,15,Franklin Pierce,3.761500606233507
-23,2014-03-03,Lynn University,0.1042,0.0,1.0,0.0,at,L,43,Lynn University,5.761589403973511
-24,2014-04-18,Merrimack,0.1818,0.0,1.0,0.0,at,L,2,Merrimack,3.0035206102391085
-25,2014-04-19,Merrimack,0.2647,0.0,2.0,0.18181818,at,L,2,Merrimack,3.0035206102391085
-26,2014-04-24,Merrimack,0.2778,0.0,2.0,0.2238806,at,W,2,Merrimack,3.0035206102391085
-27,2014-03-15,Molloy,0.2222,0.0,0.0,0.0,vs,W,0,Molloy,4.10538286580743
-28,2014-05-09,New Haven,0.3333,1.0,1.0,0.0,neutral,W,13,New Haven,4.561151079136691
-29,2014-03-22,Pace,0.3378,1.0,1.0,0.0,at,W,12,Pace,4.003042777877215
-30,2014-02-21,Pfeiffer,0.3143,0.0,1.0,0.0,vs,L,48,Pfeiffer,9.0
-31,2014-03-07,Post,0.3714,1.0,1.0,0.0,vs,W,52,Post,1.2535714285714286
-32,2014-03-25,Saint Anselm,0.3438,0.0,1.0,0.0,vs,W,17,Saint Anselm,3.5004222972972974
-33,2014-04-03,Saint Anselm,0.2105,0.0,1.0,0.34375,vs,W,17,Saint Anselm,3.5004222972972974
-34,2014-04-10,Saint Anselm,0.325,1.0,2.0,0.21052632,at,W,17,Saint Anselm,3.5004222972972974
-35,2014-03-27,Saint Michael's,0.375,1.0,1.0,0.0,vs,W,5,Saint Michael's,2.130794701986755
-36,2014-04-09,Saint Michael's,0.2333,0.5,1.5,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-37,2014-04-23,Saint Michael's,0.4,0.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-38,2014-03-08,So. Connecticut,0.2857,0.0,2.0,0.0,vs,W,20,So. Connecticut,5.103092783505154
-39,2014-04-08,So. New Hampshire,0.129,1.0,2.0,0.0,at,L,3,So. New Hampshire,4.831858407079646
-40,2014-05-16,So. New Hampshire,0.2414,1.0,2.0,0.0,at,W,3,So. New Hampshire,4.831858407079646
-41,2014-03-07,Southern Connecticut,0.1923,0.0,1.0,0.0,vs,W,51,Southern Connecticut,2.0
-42,2014-04-27,Stonehill,0.1639,0.0,1.5,0.0,neutral,W,4,Stonehill,3.5595172792100933
-43,2014-04-27,Stonehill,0.1639,0.0,1.5,0.0,neutral,L,4,Stonehill,3.5595172792100933
-44,2014-05-04,Stonehill,0.1786,1.0,1.0,0.16393443,neutral,W,4,Stonehill,3.5595172792100933
-45,2014-05-10,Stonehill,0.3333,2.0,2.0,0.17857143,neutral,W,4,Stonehill,3.5595172792100933
-46,2014-05-03,U of Bridgeport,0.3443,0.5,1.0,0.0,at,W,54,U of Bridgeport,4.5
-47,2014-05-17,Wilmington (Del.),0.2188,0.0,2.0,0.0,at,W,21,Wilmington (Del.),4.014740108611326
-48,2014-03-04,Wilmington Univ.,0.4054,1.0,0.0,0.0,vs,W,42,Wilmington Univ.,3.052631578947368
-0,2015-04-13,American Int'l,0.3148,1.5,2.5,0.0,neutral,W,14,American Int'l,3.759463408155133
-1,2015-03-15,Assumption,0.2308,0.0,1.0,0.0,vs,W,26,Assumption,3.972206781545303
-2,2015-04-18,Assumption,0.4526,2.5,1.0,0.0,at,W,26,Assumption,3.972206781545303
-3,2015-04-19,Assumption,0.4318,0.0,1.0,0.45263158,at,W,26,Assumption,3.972206781545303
-4,2015-04-04,Bentley,0.3256,3.0,2.0,0.0,at,L,19,Bentley,3.755790329134499
-5,2015-04-06,Bentley,0.3235,1.0,2.0,0.3255814,at,W,19,Bentley,3.755790329134499
-6,2015-04-26,Bentley,0.3333,0.0,4.0,0.0,neutral,W,19,Bentley,3.755790329134499
-7,2015-02-20,Felician,0.25,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456
-8,2015-03-05,Felician,0.1875,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456
-9,2015-03-25,Franklin Pierce,0.125,1.0,2.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-10,2015-04-08,Franklin Pierce,0.1579,0.0,1.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507
-11,2015-04-22,Franklin Pierce,0.2069,1.0,2.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507
-12,2015-05-16,Franklin Pierce,0.1429,0.0,2.0,0.0,at,L,15,Franklin Pierce,3.761500606233507
-13,2015-03-07,LIU Post,0.3662,0.5,2.5,0.0,vs,W,37,LIU Post,3.017142857142857
-14,2015-03-04,Lynn University,0.3611,0.0,2.0,0.0,at,L,43,Lynn University,5.761589403973511
-15,2015-02-21,Mercy,0.0435,0.0,1.0,0.0,vs,W,47,Mercy,1.966019417475728
-16,2015-02-21,Mercy College,0.3095,1.0,0.0,0.0,vs,W,56,Mercy College,2.4064171122994655
-17,2015-03-16,Merrimack,0.25,1.0,2.0,0.0,vs,W,2,Merrimack,3.0035206102391085
-18,2015-04-25,Merrimack,0.3016,0.0,2.5,0.0,neutral,W,2,Merrimack,3.0035206102391085
-19,2015-04-26,Merrimack,0.3478,0.0,3.0,0.3015873,neutral,L,2,Merrimack,3.0035206102391085
-20,2015-02-13,Nova Southeastern,0.2286,0.0,2.0,0.0,at,L,7,Nova Southeastern,9.376271186440679
-21,2015-02-14,Nova Southeastern,0.2286,0.0,5.0,0.22857143,at,L,7,Nova Southeastern,9.376271186440679
-22,2015-02-15,Nova Southeastern,0.1563,1.0,2.0,0.22857143,at,L,7,Nova Southeastern,9.376271186440679
-23,2015-03-04,Post,0.25,0.0,1.0,0.0,vs,W,52,Post,1.2535714285714286
-24,2015-04-11,Saint Anselm,0.2,1.0,2.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-25,2015-04-16,Saint Anselm,0.4146,3.0,3.0,0.2,neutral,W,17,Saint Anselm,3.5004222972972974
-26,2015-04-21,Saint Anselm,0.3548,0.0,0.0,0.32394366,neutral,W,17,Saint Anselm,3.5004222972972974
-27,2015-04-14,Saint Michael's,0.2414,1.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-28,2015-04-23,Saint Michael's,0.3684,2.0,0.0,0.24137931,at,W,5,Saint Michael's,2.130794701986755
-29,2015-05-15,St. Thomas Aquinas,0.3333,1.0,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981
-30,2015-04-11,Stonehill,0.2,0.0,1.0,0.0,at,W,4,Stonehill,3.5595172792100933
-31,2015-05-01,Stonehill,0.303,0.0,0.0,0.0,at,W,4,Stonehill,3.5595172792100933
-32,2015-05-05,Stonehill,0.1429,0.0,2.0,0.3030303,neutral,L,4,Stonehill,3.5595172792100933
-33,2015-05-02,Stonehill College,0.2029,0.0,2.0,0.0,at,L,27,Stonehill College,3.911854103343465
-34,2015-02-20,U. of Bridgeport,0.3429,1.0,1.0,0.0,vs,W,55,U. of Bridgeport,1.0
-35,2015-02-22,U. of Bridgeport,0.2647,1.0,1.0,0.34285714,vs,W,55,U. of Bridgeport,1.0
-36,2015-05-14,Wilmington,0.1765,1.0,1.0,0.0,vs,L,58,Wilmington,3.0
-37,2015-03-05,Wilmington (DE),0.1875,0.0,0.0,0.0,vs,L,57,Wilmington (DE),1.0666666666666667
-0,2016-03-14,Adelphi,0.2903,0.0,1.0,0.0,vs,W,18,Adelphi,3.9623161764705883
-1,2016-04-10,Adelphi,0.25,1.0,2.5,0.0,neutral,W,18,Adelphi,3.9623161764705883
-2,2016-04-03,American Int'l,0.4143,0.0,1.5,0.0,at,W,14,American Int'l,3.759463408155133
-3,2016-04-16,Assumption,0.3889,2.0,1.5,0.0,neutral,W,26,Assumption,3.972206781545303
-4,2016-04-17,Assumption,0.3125,0.0,0.0,0.38888889,neutral,W,26,Assumption,3.972206781545303
-5,2016-03-26,Bentley,0.209,0.0,2.0,0.0,at,W,19,Bentley,3.755790329134499
-6,2016-03-29,Bentley,0.2162,1.0,0.0,0.20895522,at,W,19,Bentley,3.755790329134499
-7,2016-05-22,Bridgeport,0.3333,0.0,0.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-8,2016-03-13,Caldwell,0.481,1.0,0.5,0.0,vs,W,45,Caldwell,1.3029490616621986
-9,2016-02-26,Dominican College NY,0.3077,2.0,1.0,0.0,vs,W,59,Dominican College NY,5.0625
-10,2016-05-19,Dowling,0.1818,0.0,0.0,0.0,vs,L,1,Dowling,2.576581734898368
-11,2016-03-05,Felician,0.2131,0.0,0.5,0.0,at,W,24,Felician,3.4480151228733456
-12,2016-03-06,Felician,0.3235,0.5,2.0,0.21311475,at,W,24,Felician,3.4480151228733456
-13,2016-05-21,Felician,0.413,2.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456
-14,2016-03-30,Franklin Pierce,0.1471,1.0,3.0,0.0,at,L,15,Franklin Pierce,3.761500606233507
-15,2016-04-13,Franklin Pierce,0.1765,0.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-16,2016-04-27,Franklin Pierce,0.1,0.0,4.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507
-17,2016-05-23,Franklin Pierce,0.2131,0.5,0.0,0.0,at,L,15,Franklin Pierce,3.761500606233507
-18,2016-05-23,Franklin Pierce,0.2131,0.5,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-19,2016-03-19,Lynn,0.2222,1.0,2.0,0.0,at,L,31,Lynn,5.594594594594595
-20,2016-02-28,Mercy,0.3793,1.0,0.0,0.0,vs,W,47,Mercy,1.966019417475728
-21,2016-04-23,Merrimack,0.413,1.0,2.0,0.0,at,W,2,Merrimack,3.0035206102391085
-22,2016-04-24,Merrimack,0.3243,2.5,0.0,0.41304348,at,W,2,Merrimack,3.0035206102391085
-23,2016-05-10,Merrimack,0.303,1.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085
-24,2016-05-20,Molloy,0.325,2.0,3.0,0.0,vs,W,0,Molloy,4.10538286580743
-25,2016-03-12,Molloy College,0.413,3.0,1.0,0.0,vs,W,61,Molloy College,6.0
-26,2016-03-15,Nova Southeastern,0.2121,1.0,5.0,0.0,at,L,7,Nova Southeastern,9.376271186440679
-27,2016-02-27,Nyack College,0.3415,1.0,3.0,0.0,vs,W,60,Nyack College,0.0
-28,2016-04-09,Pace,0.3077,1.0,0.5,0.0,neutral,W,12,Pace,4.003042777877215
-29,2016-05-13,Pace,0.303,0.0,1.0,0.0,vs,W,12,Pace,4.003042777877215
-30,2016-04-08,Post,0.2069,0.0,1.0,0.0,neutral,W,52,Post,1.2535714285714286
-31,2016-03-23,Saint Anselm,0.2222,1.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974
-32,2016-04-15,Saint Anselm,0.2258,1.0,0.0,0.0,at,W,17,Saint Anselm,3.5004222972972974
-33,2016-04-29,Saint Anselm,0.3784,4.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974
-34,2016-03-31,Saint Michael's,0.4211,3.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-35,2016-04-19,Saint Michael's,0.2941,2.0,2.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-36,2016-05-03,Saint Michael's,0.3824,2.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-37,2016-05-12,Saint Rose,0.3333,2.0,0.0,0.0,vs,W,16,Saint Rose,3.690340909090909
-38,2016-05-14,Saint Rose,0.2647,0.0,1.0,0.33333333,vs,W,16,Saint Rose,3.690340909090909
-39,2016-03-18,So. Connecticut,0.3721,0.0,1.0,0.0,vs,W,20,So. Connecticut,5.103092783505154
-40,2016-04-22,So. Connecticut,0.3182,1.5,1.0,0.0,neutral,W,20,So. Connecticut,5.103092783505154
-41,2016-05-22,St. Thomas Aquinas,0.3333,0.0,0.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981
-42,2016-04-30,Stonehill,0.3375,1.0,0.5,0.0,neutral,L,4,Stonehill,3.5595172792100933
-43,2016-04-30,Stonehill,0.3375,1.0,0.5,0.0,neutral,W,4,Stonehill,3.5595172792100933
-44,2016-05-01,Stonehill,0.303,0.0,2.0,0.3375,neutral,W,4,Stonehill,3.5595172792100933
-45,2016-02-27,Wilmington (DE),0.1429,0.0,2.0,0.0,vs,W,57,Wilmington (DE),1.0666666666666667
-0,2017-04-29,Assumption,0.321,1.0,2.0,0.0,at,W,26,Assumption,3.972206781545303
-1,2017-04-30,Assumption,0.25,0.0,2.0,0.32098765,at,W,26,Assumption,3.972206781545303
-2,2017-04-22,Bentley,0.2712,0.5,0.0,0.0,neutral,W,19,Bentley,3.755790329134499
-3,2017-04-23,Bentley,0.2759,0.0,3.0,0.27118644,neutral,W,19,Bentley,3.755790329134499
-4,2017-05-09,Bentley,0.2059,0.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499
-5,2017-03-11,Bloomfield,0.2931,0.0,1.5,0.0,vs,W,23,Bloomfield,1.9156626506024097
-6,2017-02-26,Bridgeport,0.1071,2.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-7,2017-04-13,Bridgeport,0.125,0.0,1.0,0.0,neutral,W,49,Bridgeport,2.6724890829694328
-8,2017-03-12,Caldwell,0.2813,1.0,2.0,0.0,vs,W,45,Caldwell,1.3029490616621986
-9,2017-05-21,Felician,0.2647,4.0,0.0,0.0,at,W,24,Felician,3.4480151228733456
-10,2017-04-05,Franklin Pierce,0.1071,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-11,2017-04-18,Franklin Pierce,0.2581,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-12,2017-05-02,Franklin Pierce,0.1667,0.0,0.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-13,2017-05-12,Franklin Pierce,0.2,0.0,1.0,0.16666667,vs,L,15,Franklin Pierce,3.761500606233507
-14,2017-02-23,LIU Post,0.1724,0.0,2.0,0.0,vs,L,37,LIU Post,3.017142857142857
-15,2017-05-19,LIU Post,0.4359,3.0,3.0,0.0,neutral,W,37,LIU Post,3.017142857142857
-16,2017-02-25,Mercy,0.4773,2.0,0.0,0.0,vs,W,47,Mercy,1.966019417475728
-17,2017-02-24,Mercy College,0.2703,2.0,1.0,0.0,vs,W,56,Mercy College,2.4064171122994655
-18,2017-05-04,Merrimack,0.2414,1.0,0.0,0.0,neutral,W,2,Merrimack,3.0035206102391085
-19,2017-05-06,Merrimack,0.3288,3.5,1.0,0.24137931,neutral,W,2,Merrimack,3.0035206102391085
-20,2017-04-09,New Haven,0.2174,0.0,2.5,0.0,neutral,W,13,New Haven,4.561151079136691
-21,2017-04-09,New Haven,0.2174,0.0,2.5,0.0,neutral,L,13,New Haven,4.561151079136691
-22,2017-05-11,New Haven,0.1786,1.0,0.0,0.0,at,W,13,New Haven,4.561151079136691
-23,2017-05-12,New Haven,0.1563,0.0,2.0,0.17857143,at,L,13,New Haven,4.561151079136691
-24,2017-03-15,Nova Southeastern,0.2708,1.0,1.0,0.0,at,W,7,Nova Southeastern,9.376271186440679
-25,2017-03-13,Palm Beach Atl.,0.2727,0.0,0.0,0.0,at,W,64,Palm Beach Atl.,3.0
-26,2017-02-25,Queens (N.Y.),0.2069,1.0,0.0,0.0,vs,W,62,Queens (N.Y.),3.571428571428571
-27,2017-04-02,Saint Anselm,0.2394,0.0,0.5,0.0,vs,W,17,Saint Anselm,3.5004222972972974
-28,2017-04-27,Saint Anselm,0.3714,3.0,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-29,2017-04-12,Saint Michael's,0.2632,3.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-30,2017-04-28,Saint Michael's,0.2656,1.5,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-31,2017-03-25,Saint Rose,0.2381,0.0,0.5,0.0,vs,W,16,Saint Rose,3.690340909090909
-32,2017-03-18,Saint Thomas Aquinas,0.1897,0.0,2.0,0.0,vs,W,65,Saint Thomas Aquinas,3.5
-33,2017-03-18,Saint Thomas Aquinas,0.1897,0.0,2.0,0.0,vs,L,65,Saint Thomas Aquinas,3.5
-34,2017-03-03,Shippensburg,0.2647,1.0,3.0,0.0,at,L,63,Shippensburg,9.487951807228916
-35,2017-03-04,Shippensburg,0.3333,1.0,5.0,0.26470588,at,L,63,Shippensburg,9.487951807228916
-36,2017-03-05,Shippensburg,0.2794,0.5,0.5,0.30487805,at,W,63,Shippensburg,9.487951807228916
-37,2017-04-08,Southern Conn. State,0.2879,0.5,2.0,0.0,at,W,66,Southern Conn. State,3.5
-38,2017-05-20,St. Thomas Aquinas,0.1563,0.0,2.0,0.0,at,L,33,St. Thomas Aquinas,3.807285546415981
-39,2017-05-22,St. Thomas Aquinas,0.1875,2.0,0.0,0.15625,neutral,L,33,St. Thomas Aquinas,3.807285546415981
-40,2017-03-26,Stonehill College,0.2836,0.5,2.0,0.0,vs,W,27,Stonehill College,3.911854103343465
-41,2017-03-26,Stonehill College,0.2836,0.5,2.0,0.0,vs,L,27,Stonehill College,3.911854103343465
-42,2017-04-15,Stonehill College,0.3919,0.5,2.0,0.0,at,W,27,Stonehill College,3.911854103343465
-43,2017-04-17,Stonehill College,0.129,0.0,1.0,0.39189189,at,L,27,Stonehill College,3.911854103343465
-0,2018-04-08,American Int'l,0.2727,0.5,3.0,0.0,neutral,W,14,American Int'l,3.759463408155133
-1,2018-04-08,American Int'l,0.2727,0.5,3.0,0.0,neutral,L,14,American Int'l,3.759463408155133
-2,2018-04-18,Assumption,0.4098,1.0,0.5,0.0,neutral,W,26,Assumption,3.972206781545303
-3,2018-05-04,Assumption,0.3529,2.0,1.0,0.0,neutral,W,26,Assumption,3.972206781545303
-4,2018-05-26,Augustana,0.129,1.0,3.0,0.0,vs,L,70,Augustana,6.88235294117647
-5,2018-05-31,Augustana,0.2,0.0,1.0,0.12903226,vs,L,70,Augustana,6.88235294117647
-6,2018-03-30,Bentley,0.2821,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499
-7,2018-03-31,Bentley,0.3587,1.0,0.0,0.28205128,at,W,19,Bentley,3.755790329134499
-8,2018-03-31,Bentley,0.3587,1.0,0.0,0.28205128,at,L,19,Bentley,3.755790329134499
-9,2018-05-08,Bentley,0.2258,1.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499
-10,2018-03-09,Bloomfield,0.2353,0.0,1.0,0.0,vs,W,23,Bloomfield,1.9156626506024097
-11,2018-02-22,Bridgeport,0.3611,1.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-12,2018-04-07,Bridgeport,0.3148,2.0,0.5,0.0,neutral,W,49,Bridgeport,2.6724890829694328
-13,2018-03-12,Eckerd College,0.1034,0.0,2.0,0.0,at,L,67,Eckerd College,10.125
-14,2018-02-23,Felician,0.1935,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456
-15,2018-03-28,Franklin Pierce,0.2895,2.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-16,2018-04-11,Franklin Pierce,0.2273,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-17,2018-04-24,Franklin Pierce,0.4286,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-18,2018-05-17,Franklin Pierce,0.2727,1.0,0.0,0.0,vs,W,15,Franklin Pierce,3.761500606233507
-19,2018-02-25,Le Moyne,0.3429,0.0,0.0,0.0,vs,W,34,Le Moyne,3.805714285714286
-20,2018-05-11,Le Moyne,0.303,1.0,2.0,0.0,at,W,34,Le Moyne,3.805714285714286
-21,2018-02-24,LIU Post,0.2941,2.0,2.0,0.0,vs,W,37,LIU Post,3.017142857142857
-22,2018-02-24,Mercy College,0.4103,4.0,1.0,0.0,vs,W,56,Mercy College,2.4064171122994655
-23,2018-04-27,Merrimack,0.2143,0.0,1.0,0.0,neutral,W,2,Merrimack,3.0035206102391085
-24,2018-05-11,Merrimack,0.25,0.0,2.0,0.0,neutral,L,2,Merrimack,3.0035206102391085
-25,2018-04-28,Merrimack College,0.2568,0.5,2.5,0.0,at,L,69,Merrimack College,5.884615384615385
-26,2018-04-28,Merrimack College,0.2568,0.5,2.5,0.0,at,W,69,Merrimack College,5.884615384615385
-27,2018-04-29,Merrimack College,0.3333,1.0,1.0,0.25675676,at,W,69,Merrimack College,5.884615384615385
-28,2018-03-11,New Haven,0.2703,0.0,4.0,0.0,vs,L,13,New Haven,4.561151079136691
-29,2018-05-10,New Haven,0.3077,0.0,1.0,0.0,neutral,L,13,New Haven,4.561151079136691
-30,2018-05-18,New Haven,0.2703,0.0,0.0,0.30769231,vs,W,13,New Haven,4.561151079136691
-31,2018-03-13,Nova Southeastern,0.1429,0.0,4.0,0.0,at,L,7,Nova Southeastern,9.376271186440679
-32,2018-03-24,Pace University,0.1356,0.5,1.0,0.0,at,L,68,Pace University,2.8125
-33,2018-04-21,Saint Anselm,0.3846,0.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974
-34,2018-04-22,Saint Anselm,0.3158,0.5,1.5,0.38461538,at,W,17,Saint Anselm,3.5004222972972974
-35,2018-03-03,Saint Michael's,0.3548,0.5,0.5,0.0,vs,W,5,Saint Michael's,2.130794701986755
-36,2018-04-04,Saint Michael's,0.2895,0.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-37,2018-05-01,Saint Michael's,0.2295,0.5,0.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755
-38,2018-05-01,Saint Michael's,0.2295,0.5,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-39,2018-05-27,Southern Indiana,0.2581,0.0,0.0,0.0,vs,W,71,Southern Indiana,0.0
-40,2018-03-17,St. Thomas Aquinas,0.2321,1.5,1.0,0.0,vs,L,33,St. Thomas Aquinas,3.807285546415981
-41,2018-03-17,St. Thomas Aquinas,0.2321,1.5,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981
-42,2018-03-18,St. Thomas Aquinas,0.1429,2.0,1.0,0.23214286,vs,L,33,St. Thomas Aquinas,3.807285546415981
-43,2018-05-20,St. Thomas Aquinas,0.2813,1.0,0.0,0.0,neutral,W,33,St. Thomas Aquinas,3.807285546415981
-44,2018-05-21,St. Thomas Aquinas,0.2632,1.0,0.0,0.28125,vs,W,33,St. Thomas Aquinas,3.807285546415981
-45,2018-04-13,Stonehill,0.3243,0.0,0.0,0.0,neutral,W,4,Stonehill,3.5595172792100933
-46,2018-04-14,Stonehill,0.3151,2.0,0.5,0.32432432,neutral,W,4,Stonehill,3.5595172792100933
-47,2018-04-14,Stonehill,0.3151,2.0,0.5,0.32432432,neutral,L,4,Stonehill,3.5595172792100933
-48,2018-05-30,UC San Diego,0.25,2.0,0.0,0.0,vs,W,72,UC San Diego,4.0
-49,2018-03-04,West Chester,0.2353,0.0,2.5,0.0,vs,L,36,West Chester,10.50761421319797
-50,2018-03-10,Wilmington (Del.),0.3226,0.0,0.0,0.0,vs,W,21,Wilmington (Del.),4.014740108611326
-0,2019-03-16,Adelphi,0.2813,0.0,2.0,0.0,vs,W,18,Adelphi,3.9623161764705883
-1,2019-03-15,American Int'l,0.3514,0.0,0.0,0.0,vs,W,14,American Int'l,3.759463408155133
-2,2019-03-15,American Int'l,0.3514,0.0,0.0,0.0,vs,L,14,American Int'l,3.759463408155133
-3,2019-04-27,Assumption,0.2917,0.5,0.5,0.0,at,W,26,Assumption,3.972206781545303
-4,2019-04-28,Assumption,0.1818,0.0,2.0,0.29166667,at,L,26,Assumption,3.972206781545303
-5,2019-05-16,Assumption,0.3056,1.0,2.0,0.0,neutral,W,26,Assumption,3.972206781545303
-6,2019-04-18,Bentley,0.125,0.0,0.0,0.0,neutral,L,19,Bentley,3.755790329134499
-7,2019-04-19,Bentley,0.2368,0.0,0.0,0.125,neutral,L,19,Bentley,3.755790329134499
-8,2019-04-23,Bentley,0.2069,1.0,2.0,0.18571429,neutral,W,19,Bentley,3.755790329134499
-9,2019-02-23,Bridgeport,0.2581,0.0,2.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-10,2019-03-10,Caldwell,0.3636,0.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986
-11,2019-02-23,Concordia New York,0.3148,2.0,1.0,0.0,vs,W,74,Concordia New York,3.2142857142857144
-12,2019-02-08,CSU San Bernardino,0.2,4.0,1.0,0.0,at,W,73,CSU San Bernardino,6.230769230769231
-13,2019-02-09,CSU San Bernardino,0.2031,0.5,2.5,0.2,at,L,73,CSU San Bernardino,6.230769230769231
-14,2019-05-17,Felician,0.2432,0.0,0.0,0.0,at,W,24,Felician,3.4480151228733456
-15,2019-04-02,Franklin Pierce,0.3784,0.0,0.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-16,2019-04-16,Franklin Pierce,0.1351,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-17,2019-04-30,Franklin Pierce,0.3846,0.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-18,2019-05-07,Franklin Pierce,0.1875,1.0,1.0,0.38461538,neutral,L,15,Franklin Pierce,3.761500606233507
-19,2019-04-07,Le Moyne,0.1786,0.0,0.5,0.0,neutral,W,34,Le Moyne,3.805714285714286
-20,2019-04-07,Le Moyne,0.1786,0.0,0.5,0.0,neutral,L,34,Le Moyne,3.805714285714286
-21,2019-02-21,LIU Post,0.1724,1.0,0.0,0.0,vs,W,37,LIU Post,3.017142857142857
-22,2019-05-17,LIU Post,0.3077,2.0,1.0,0.0,neutral,L,37,LIU Post,3.017142857142857
-23,2019-05-18,LIU Post,0.3485,1.5,0.5,0.30769231,neutral,W,37,LIU Post,3.017142857142857
-24,2019-05-18,LIU Post,0.3485,1.5,0.5,0.30769231,at,W,37,LIU Post,3.017142857142857
-25,2019-02-22,Mercy,0.2333,1.0,3.0,0.0,vs,W,47,Mercy,1.966019417475728
-26,2019-03-01,Merrimack,0.1944,0.0,3.0,0.0,vs,W,2,Merrimack,3.0035206102391085
-27,2019-03-03,Merrimack,0.2593,1.0,2.0,0.19444444,vs,L,2,Merrimack,3.0035206102391085
-28,2019-03-03,Merrimack,0.2593,1.0,2.0,0.19444444,vs,W,2,Merrimack,3.0035206102391085
-29,2019-05-02,Merrimack,0.2353,1.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085
-30,2019-05-04,Merrimack,0.2857,0.5,1.0,0.23529412,neutral,W,2,Merrimack,3.0035206102391085
-31,2019-03-12,Molloy,0.2258,0.0,0.0,0.0,vs,W,0,Molloy,4.10538286580743
-32,2019-03-24,New Haven,0.1692,0.0,2.0,0.0,at,L,13,New Haven,4.561151079136691
-33,2019-03-24,New Haven,0.1692,0.0,2.0,0.0,at,W,13,New Haven,4.561151079136691
-34,2019-03-13,Nova Southeastern,0.3333,0.0,7.0,0.0,at,L,7,Nova Southeastern,9.376271186440679
-35,2019-05-24,NYIT,0.3333,2.0,4.0,0.0,neutral,L,77,NYIT,9.0
-36,2019-03-11,Post,0.2593,0.0,0.5,0.0,vs,W,52,Post,1.2535714285714286
-37,2019-03-30,Saint Anselm,0.2985,1.0,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-38,2019-03-31,Saint Anselm,0.2667,0.0,2.0,0.29850746,neutral,W,17,Saint Anselm,3.5004222972972974
-39,2019-04-11,Saint Michael's,0.325,0.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-40,2019-04-24,Saint Michael's,0.3243,2.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755
-41,2019-04-06,Saint Rose,0.2951,0.5,0.0,0.0,neutral,W,16,Saint Rose,3.690340909090909
-42,2019-04-05,Southern Conn. St.,0.2632,2.0,2.0,0.0,neutral,W,76,Southern Conn. St.,4.0344827586206895
-43,2019-05-25,Southern N.H.,0.2857,1.0,1.0,0.0,at,W,78,Southern N.H.,3.0
-44,2019-03-29,St. Michael's,0.3103,0.0,3.0,0.0,neutral,W,75,St. Michael's,0.7941176470588236
-45,2019-02-24,St. Thomas Aquinas,0.25,0.0,2.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981
-46,2019-04-13,Stonehill,0.2381,0.0,1.5,0.0,at,L,4,Stonehill,3.5595172792100933
-47,2019-04-13,Stonehill,0.2381,0.0,1.5,0.0,at,W,4,Stonehill,3.5595172792100933
-48,2019-04-14,Stonehill,0.2857,0.0,1.0,0.23809524,at,W,4,Stonehill,3.5595172792100933
-0,2020-03-07,Adelphi University,0.1667,0.0,2.0,0.0,at,L,53,Adelphi University,1.9186046511627906
-1,2020-03-08,Adelphi University,0.1897,0.5,0.0,0.16666667,at,W,53,Adelphi University,1.9186046511627906
-2,2020-02-23,Bridgeport,0.3333,2.0,0.0,0.0,vs,W,49,Bridgeport,2.6724890829694328
-3,2020-02-14,Colorado Mesa,0.2,0.0,1.0,0.0,at,L,79,Colorado Mesa,14.25
-4,2020-02-15,Colorado Mesa,0.2432,0.0,3.0,0.2,at,L,79,Colorado Mesa,14.25
-5,2020-02-16,Colorado Mesa,0.2941,0.0,0.0,0.2238806,at,L,79,Colorado Mesa,14.25
-6,2020-02-22,Dominican (N.Y.),0.4935,1.5,0.5,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898
-7,2020-02-22,Dominican (N.Y.),0.4935,1.5,0.5,0.0,at,W,50,Dominican (N.Y.),5.26530612244898
-8,2020-02-21,Felician,0.2632,2.0,1.0,0.0,vs,W,24,Felician,3.4480151228733456
-9,2020-02-21,Mercy,0.3636,0.0,1.0,0.0,vs,W,47,Mercy,1.966019417475728
-10,2020-02-29,New York Tech,0.2667,0.0,1.0,0.0,at,W,80,New York Tech,1.44
-11,2020-03-01,New York Tech,0.2,1.0,1.5,0.26666667,at,W,80,New York Tech,1.44
-12,2020-03-10,Pace,0.325,1.0,0.0,0.0,at,W,12,Pace,4.003042777877215
-13,2020-03-09,Queens (NY),0.3429,1.0,1.0,0.0,at,W,81,Queens (NY),3.0
-0,2021-05-21,Adelphi,0.3333,3.0,0.5,0.0,neutral,W,18,Adelphi,3.9623161764705883
-1,2021-05-21,Adelphi,0.3333,3.0,0.5,0.0,at,W,18,Adelphi,3.9623161764705883
-2,2021-05-07,Assumption,0.3088,0.0,2.5,0.0,at,W,26,Assumption,3.972206781545303
-3,2021-05-08,Assumption,0.2419,0.0,1.0,0.30882353,at,L,26,Assumption,3.972206781545303
-4,2021-05-08,Assumption,0.2419,0.0,1.0,0.30882353,vs,L,26,Assumption,3.972206781545303
-5,2021-05-13,Assumption,0.2647,0.0,0.0,0.27692308,neutral,W,26,Assumption,3.972206781545303
-6,2021-04-24,Bentley,0.3065,0.5,3.0,0.0,neutral,W,19,Bentley,3.755790329134499
-7,2021-04-24,Bentley,0.3065,0.5,3.0,0.0,neutral,L,19,Bentley,3.755790329134499
-8,2021-04-25,Bentley,0.2658,1.0,4.0,0.30645161,neutral,L,19,Bentley,3.755790329134499
-9,2021-04-25,Bentley,0.2658,1.0,4.0,0.30645161,neutral,W,19,Bentley,3.755790329134499
-10,2021-05-27,Dominican (N.Y.),0.2581,2.0,0.0,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898
-11,2021-05-01,Franklin Pierce,0.3438,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507
-12,2021-05-02,Franklin Pierce,0.2951,1.0,2.0,0.34375,neutral,L,15,Franklin Pierce,3.761500606233507
-13,2021-05-02,Franklin Pierce,0.2951,1.0,2.0,0.34375,neutral,W,15,Franklin Pierce,3.761500606233507
-14,2021-05-16,Franklin Pierce,0.2368,1.5,1.5,0.0,neutral,L,15,Franklin Pierce,3.761500606233507
-15,2021-05-16,Franklin Pierce,0.2368,1.5,1.5,0.0,at,W,15,Franklin Pierce,3.761500606233507
-16,2021-05-17,Franklin Pierce,0.4,4.0,1.0,0.23684211,neutral,W,15,Franklin Pierce,3.761500606233507
-17,2021-05-28,Franklin Pierce,0.3421,2.0,4.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-18,2021-05-29,Molloy,0.3714,2.0,1.0,0.0,vs,W,0,Molloy,4.10538286580743
-19,2021-05-31,Molloy,0.2353,1.0,3.0,0.37142857,vs,L,0,Molloy,4.10538286580743
-20,2021-06-01,Molloy,0.35,1.0,1.0,0.30434783,vs,W,0,Molloy,4.10538286580743
-21,2021-04-09,Saint Anselm,0.3333,0.5,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-22,2021-04-10,Saint Anselm,0.3846,2.5,0.5,0.33333333,neutral,W,17,Saint Anselm,3.5004222972972974
-23,2021-04-17,Saint Michael's,0.3919,0.5,0.5,0.0,at,W,5,Saint Michael's,2.130794701986755
-24,2021-04-18,Saint Michael's,0.3951,0.5,0.5,0.39189189,at,W,5,Saint Michael's,2.130794701986755
-25,2021-06-06,Seton Hill,0.125,0.0,1.0,0.0,vs,L,82,Seton Hill,4.5
-26,2021-03-25,Stonehill,0.2295,1.5,0.5,0.0,at,W,4,Stonehill,3.5595172792100933
-27,2021-03-27,Stonehill,0.3125,1.0,0.5,0.2295082,at,W,4,Stonehill,3.5595172792100933
-28,2021-06-08,Wingate,0.2571,1.0,0.0,0.0,vs,L,83,Wingate,3.0
-0,2022-03-20,Adelphi,0.1692,0.0,1.0,0.0,at,W,18,Adelphi,3.9623161764705883
-1,2022-03-20,Adelphi,0.1692,0.0,1.0,0.0,at,L,18,Adelphi,3.9623161764705883
-2,2022-03-21,Adelphi,0.3125,1.0,1.0,0.16923077,at,L,18,Adelphi,3.9623161764705883
-3,2022-05-13,Adelphi,0.2571,0.0,6.0,0.0,neutral,W,18,Adelphi,3.9623161764705883
-4,2022-06-05,Angelo State,0.2059,2.0,3.0,0.0,vs,L,85,Angelo State,7.0
-5,2022-03-14,Assumption,0.3421,2.0,1.0,0.0,neutral,W,26,Assumption,3.972206781545303
-6,2022-05-06,Assumption,0.2951,1.5,1.0,0.0,neutral,W,26,Assumption,3.972206781545303
-7,2022-05-07,Assumption,0.3091,0.5,1.5,0.29508197,neutral,W,26,Assumption,3.972206781545303
-8,2022-05-14,Assumption,0.2958,2.0,2.0,0.30172414,vs,L,26,Assumption,3.972206781545303
-9,2022-05-14,Assumption,0.2958,2.0,2.0,0.30172414,vs,W,26,Assumption,3.972206781545303
-10,2022-04-21,Bentley,0.4375,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499
-11,2022-04-22,Bentley,0.3571,1.0,0.0,0.4375,at,W,19,Bentley,3.755790329134499
-12,2022-04-23,Bentley,0.3438,0.0,1.0,0.4,at,W,19,Bentley,3.755790329134499
-13,2022-04-05,Bridgeport,0.1429,0.0,0.0,0.0,at,W,49,Bridgeport,2.6724890829694328
-14,2022-04-26,Bridgeport,0.2571,1.0,2.0,0.0,at,W,49,Bridgeport,2.6724890829694328
-15,2022-02-24,Felician,0.2,1.0,3.0,0.0,vs,L,24,Felician,3.4480151228733456
-16,2022-03-05,Felician,0.3563,3.5,3.0,0.2,at,W,24,Felician,3.4480151228733456
-17,2022-03-06,Felician,0.2121,0.0,1.0,0.31623932,at,L,24,Felician,3.4480151228733456
-18,2022-04-29,Franklin Pierce,0.1613,1.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507
-19,2022-04-30,Franklin Pierce,0.2264,0.0,1.0,0.16129032,at,L,15,Franklin Pierce,3.761500606233507
-20,2022-04-30,Franklin Pierce,0.2264,0.0,1.0,0.16129032,at,W,15,Franklin Pierce,3.761500606233507
-21,2022-05-01,Franklin Pierce,0.413,2.0,0.0,0.20238095,at,W,15,Franklin Pierce,3.761500606233507
-22,2022-05-12,Le Moyne,0.3529,1.0,2.0,0.0,vs,W,34,Le Moyne,3.805714285714286
-23,2022-02-26,Mercy College,0.4028,1.5,0.5,0.0,vs,W,56,Mercy College,2.4064171122994655
-24,2022-05-27,Molloy,0.2424,1.5,2.5,0.0,neutral,L,0,Molloy,4.10538286580743
-25,2022-05-27,Molloy,0.2424,1.5,2.5,0.0,at,W,0,Molloy,4.10538286580743
-26,2022-05-29,Molloy,0.2571,2.0,2.0,0.24242424,vs,W,0,Molloy,4.10538286580743
-27,2022-04-02,New Haven,0.3333,1.0,1.5,0.0,at,W,13,New Haven,4.561151079136691
-28,2022-04-02,New Haven,0.3333,1.0,1.5,0.0,at,L,13,New Haven,4.561151079136691
-29,2022-03-11,Nyack,0.3333,3.0,1.5,0.0,neutral,W,84,Nyack,1.0
-30,2022-02-25,Queens (N.Y.),0.3333,2.0,1.0,0.0,vs,W,62,Queens (N.Y.),3.571428571428571
-31,2022-03-30,Saint Anselm,0.3636,2.0,0.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974
-32,2022-04-07,Saint Anselm,0.3182,0.0,2.0,0.36363636,at,W,17,Saint Anselm,3.5004222972972974
-33,2022-04-08,Saint Anselm,0.2895,3.0,3.0,0.33766234,at,L,17,Saint Anselm,3.5004222972972974
-34,2022-04-10,Saint Anselm,0.3492,2.0,1.5,0.30487805,at,L,17,Saint Anselm,3.5004222972972974
-35,2022-04-10,Saint Anselm,0.3492,2.0,1.5,0.30487805,at,W,17,Saint Anselm,3.5004222972972974
-36,2022-05-10,Saint Anselm,0.3824,2.0,1.0,0.0,vs,W,17,Saint Anselm,3.5004222972972974
-37,2022-05-20,Southern Conn. St.,0.3718,4.0,0.5,0.0,vs,W,76,Southern Conn. St.,4.0344827586206895
-38,2022-04-15,St. Michael's,0.2931,2.5,0.0,0.0,neutral,W,75,St. Michael's,0.7941176470588236
-39,2022-04-16,St. Michael's,0.381,0.0,1.5,0.29310345,neutral,W,75,St. Michael's,0.7941176470588236
-40,2022-02-27,St. Thomas Aquinas,0.4474,0.0,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981
-41,2022-04-13,St. Thomas Aquinas,0.3947,4.0,1.0,0.0,neutral,W,33,St. Thomas Aquinas,3.807285546415981
-42,2022-04-27,St. Thomas Aquinas,0.2703,2.0,6.0,0.0,at,W,33,St. Thomas Aquinas,3.807285546415981
-43,2022-03-25,Stonehill,0.25,1.0,2.0,0.0,neutral,W,4,Stonehill,3.5595172792100933
-44,2022-03-26,Stonehill,0.3208,1.0,0.5,0.25,neutral,W,4,Stonehill,3.5595172792100933
-45,2022-03-27,Stonehill,0.3,1.0,0.0,0.2962963,neutral,W,4,Stonehill,3.5595172792100933
-46,2022-06-07,West Chester,0.2941,1.0,0.0,0.0,vs,L,36,West Chester,10.50761421319797
-47,2022-05-19,Wilmington (Del.),0.25,2.0,0.0,0.0,vs,W,21,Wilmington (Del.),4.014740108611326
+index,Date,Opponent,bat_avg,avg_HR,opp_error,10_game_avg,Loc,W/L,index,Opponent,avg_era_by_team,Loc_encoded
+0,2013-03-09,American Int'l,0.3143,0.0,1.0,0.0,vs,W,14,American Int'l,3.759463408155133,2
+1,2013-04-19,Bentley,0.1875,0.0,2.0,0.0,neutral,L,19,Bentley,3.755790329134499,1
+2,2013-04-20,Bentley,0.2078,0.0,2.5,0.1875,neutral,W,19,Bentley,3.755790329134499,1
+3,2013-04-20,Bentley,0.2078,0.0,2.5,0.1875,neutral,L,19,Bentley,3.755790329134499,1
+4,2013-05-07,Bentley,0.2941,0.0,3.0,0.0,at,L,19,Bentley,3.755790329134499,0
+5,2013-03-09,Caldwell,0.2857,1.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986,2
+6,2013-02-22,Chestnut Hill,0.3721,0.0,1.0,0.0,vs,W,38,Chestnut Hill,0.0,2
+7,2013-02-24,Chestnut Hill Coll.,0.4468,0.0,0.0,0.0,vs,W,40,Chestnut Hill Coll.,1.4736842105263157,2
+8,2013-03-08,Concordia (N.Y.),0.2571,0.0,2.0,0.0,vs,L,28,Concordia (N.Y.),4.4920071047957375,2
+9,2013-05-05,Felician,0.2787,0.0,2.5,0.0,neutral,W,24,Felician,3.4480151228733456,1
+10,2013-05-05,Felician,0.2787,0.0,2.5,0.0,neutral,L,24,Felician,3.4480151228733456,1
+11,2013-04-10,Franklin Pierce,0.2424,0.0,3.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+12,2013-04-24,Franklin Pierce,0.2647,0.0,2.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+13,2013-05-04,Franklin Pierce,0.2,1.0,1.0,0.26470588,neutral,L,15,Franklin Pierce,3.761500606233507,1
+14,2013-05-18,Franklin Pierce,0.1556,0.0,1.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507,1
+15,2013-03-24,Le Moyne,0.129,0.0,0.0,0.0,vs,L,34,Le Moyne,3.805714285714286,2
+16,2013-02-22,LIU Post,0.2647,0.0,3.0,0.0,vs,W,37,LIU Post,3.017142857142857,2
+17,2013-03-06,Lynn University,0.2857,1.0,1.0,0.0,at,L,43,Lynn University,5.761589403973511,0
+18,2013-04-26,Mercy,0.2414,2.0,1.5,0.0,neutral,W,47,Mercy,1.966019417475728,1
+19,2013-02-23,Mercyhurst Univ.,0.1818,3.0,0.0,0.0,vs,W,39,Mercyhurst Univ.,3.0,2
+20,2013-04-13,Merrimack,0.2576,0.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+21,2013-04-14,Merrimack,0.2857,0.0,1.0,0.25757576,neutral,W,2,Merrimack,3.0035206102391085,1
+22,2013-04-06,New Haven,0.2,0.0,1.5,0.0,neutral,L,13,New Haven,4.561151079136691,1
+23,2013-04-06,New Haven,0.2,0.0,1.5,0.0,neutral,W,13,New Haven,4.561151079136691,1
+24,2013-05-16,New Haven,0.2973,0.0,1.0,0.0,at,W,13,New Haven,4.561151079136691,0
+25,2013-03-05,Nova Southeastern,0.2778,2.0,1.0,0.0,at,W,7,Nova Southeastern,9.376271186440679,0
+26,2013-05-17,Pace,0.1724,0.0,0.0,0.0,at,W,12,Pace,4.003042777877215,0
+27,2013-03-16,Queens College,0.3387,1.0,0.0,0.0,at,W,46,Queens College,1.5,0
+28,2013-03-17,Queens College,0.1887,0.0,1.0,0.33870968,at,W,46,Queens College,1.5,0
+29,2013-04-03,Saint Anselm,0.4722,1.0,6.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+30,2013-04-04,Saint Anselm,0.25,1.0,4.0,0.47222222,neutral,L,17,Saint Anselm,3.5004222972972974,1
+31,2013-04-11,Saint Anselm,0.3824,0.0,0.0,0.36111111,neutral,W,17,Saint Anselm,3.5004222972972974,1
+32,2013-04-02,Saint Michael's,0.2258,1.0,1.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+33,2013-04-17,Saint Michael's,0.2121,0.0,2.0,0.0,at,L,5,Saint Michael's,2.130794701986755,0
+34,2013-04-30,Saint Michael's,0.3143,2.0,3.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+35,2013-03-23,Saint Rose,0.1912,1.5,2.5,0.0,vs,W,16,Saint Rose,3.690340909090909,2
+36,2013-04-07,So. Connecticut,0.209,0.5,7.0,0.0,neutral,L,20,So. Connecticut,5.103092783505154,1
+37,2013-03-28,Stonehill,0.129,0.0,0.0,0.0,at,L,4,Stonehill,3.5595172792100933,0
+38,2013-03-30,Stonehill College,0.1746,0.0,1.5,0.0,at,L,27,Stonehill College,3.911854103343465,0
+39,2013-03-30,Stonehill College,0.1746,0.0,1.5,0.0,at,W,27,Stonehill College,3.911854103343465,0
+40,2013-04-27,UMass Lowell,0.2857,0.0,1.5,0.0,at,W,11,UMass Lowell,3.893805309734513,0
+41,2013-04-28,UMass Lowell,0.2,0.0,0.0,0.28571429,at,L,11,UMass Lowell,3.893805309734513,0
+42,2013-03-08,Univ of the Sciences,0.2286,0.0,0.0,0.0,vs,L,44,Univ of the Sciences,4.5,2
+43,2013-03-03,USciences,0.0769,0.0,1.0,0.0,vs,W,41,USciences,0.0,2
+44,2013-02-23,West Va. Wesleyan,0.4324,0.0,1.0,0.0,vs,W,29,West Va. Wesleyan,2.3850000000000002,2
+45,2013-05-19,Wilmington (Del.),0.0968,1.0,3.0,0.0,at,L,21,Wilmington (Del.),4.014740108611326,0
+46,2013-03-04,Wilmington Univ.,0.2414,0.0,0.0,0.0,vs,W,42,Wilmington Univ.,3.052631578947368,2
+0,2014-03-23,Adelphi,0.3,0.0,3.0,0.0,at,W,18,Adelphi,3.9623161764705883,0
+1,2014-05-11,Adelphi,0.1852,0.0,1.0,0.0,neutral,W,18,Adelphi,3.9623161764705883,1
+2,2014-03-22,Adelphi University,0.1842,0.0,2.0,0.0,at,L,53,Adelphi University,1.9186046511627906,0
+3,2014-04-06,American Int'l,0.2951,0.5,1.0,0.0,neutral,W,14,American Int'l,3.759463408155133,1
+4,2014-04-12,Assumption,0.3333,0.5,2.5,0.0,neutral,W,26,Assumption,3.972206781545303,1
+5,2014-04-13,Assumption,0.2063,0.0,1.0,0.33333333,neutral,L,26,Assumption,3.972206781545303,1
+6,2014-04-13,Assumption,0.2063,0.0,1.0,0.33333333,neutral,W,26,Assumption,3.972206781545303,1
+7,2014-03-28,Bentley,0.25,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499,0
+8,2014-03-29,Bentley,0.2381,0.0,1.0,0.25,at,L,19,Bentley,3.755790329134499,0
+9,2014-05-07,Bentley,0.3333,0.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+10,2014-02-23,Bridgeport,0.2813,0.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+11,2014-02-20,Caldwell,0.2821,0.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986,2
+12,2014-03-02,Chestnut Hill Coll.,0.3,0.0,2.0,0.0,vs,W,40,Chestnut Hill Coll.,1.4736842105263157,2
+13,2014-03-04,Dominican (N.Y.),0.3438,0.0,2.0,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898,2
+14,2014-02-22,Dowling,0.3171,0.0,1.0,0.0,vs,W,1,Dowling,2.576581734898368,2
+15,2014-03-15,Dowling,0.2059,0.0,2.0,0.0,vs,L,1,Dowling,2.576581734898368,2
+16,2014-05-17,Dowling,0.1875,0.0,1.0,0.0,vs,L,1,Dowling,2.576581734898368,2
+17,2014-02-21,Felician,0.1765,0.0,0.0,0.0,vs,L,24,Felician,3.4480151228733456,2
+18,2014-03-14,Felician,0.325,0.0,1.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+19,2014-05-15,Felician,0.359,1.0,0.0,0.0,neutral,W,24,Felician,3.4480151228733456,1
+20,2014-04-01,Franklin Pierce,0.2286,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+21,2014-04-16,Franklin Pierce,0.0417,0.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+22,2014-04-29,Franklin Pierce,0.069,0.0,1.0,0.0,at,L,15,Franklin Pierce,3.761500606233507,0
+23,2014-03-03,Lynn University,0.1042,0.0,1.0,0.0,at,L,43,Lynn University,5.761589403973511,0
+24,2014-04-18,Merrimack,0.1818,0.0,1.0,0.0,at,L,2,Merrimack,3.0035206102391085,0
+25,2014-04-19,Merrimack,0.2647,0.0,2.0,0.18181818,at,L,2,Merrimack,3.0035206102391085,0
+26,2014-04-24,Merrimack,0.2778,0.0,2.0,0.2238806,at,W,2,Merrimack,3.0035206102391085,0
+27,2014-03-15,Molloy,0.2222,0.0,0.0,0.0,vs,W,0,Molloy,4.10538286580743,2
+28,2014-05-09,New Haven,0.3333,1.0,1.0,0.0,neutral,W,13,New Haven,4.561151079136691,1
+29,2014-03-22,Pace,0.3378,1.0,1.0,0.0,at,W,12,Pace,4.003042777877215,0
+30,2014-02-21,Pfeiffer,0.3143,0.0,1.0,0.0,vs,L,48,Pfeiffer,9.0,2
+31,2014-03-07,Post,0.3714,1.0,1.0,0.0,vs,W,52,Post,1.2535714285714286,2
+32,2014-03-25,Saint Anselm,0.3438,0.0,1.0,0.0,vs,W,17,Saint Anselm,3.5004222972972974,2
+33,2014-04-03,Saint Anselm,0.2105,0.0,1.0,0.34375,vs,W,17,Saint Anselm,3.5004222972972974,2
+34,2014-04-10,Saint Anselm,0.325,1.0,2.0,0.21052632,at,W,17,Saint Anselm,3.5004222972972974,0
+35,2014-03-27,Saint Michael's,0.375,1.0,1.0,0.0,vs,W,5,Saint Michael's,2.130794701986755,2
+36,2014-04-09,Saint Michael's,0.2333,0.5,1.5,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+37,2014-04-23,Saint Michael's,0.4,0.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+38,2014-03-08,So. Connecticut,0.2857,0.0,2.0,0.0,vs,W,20,So. Connecticut,5.103092783505154,2
+39,2014-04-08,So. New Hampshire,0.129,1.0,2.0,0.0,at,L,3,So. New Hampshire,4.831858407079646,0
+40,2014-05-16,So. New Hampshire,0.2414,1.0,2.0,0.0,at,W,3,So. New Hampshire,4.831858407079646,0
+41,2014-03-07,Southern Connecticut,0.1923,0.0,1.0,0.0,vs,W,51,Southern Connecticut,2.0,2
+42,2014-04-27,Stonehill,0.1639,0.0,1.5,0.0,neutral,W,4,Stonehill,3.5595172792100933,1
+43,2014-04-27,Stonehill,0.1639,0.0,1.5,0.0,neutral,L,4,Stonehill,3.5595172792100933,1
+44,2014-05-04,Stonehill,0.1786,1.0,1.0,0.16393443,neutral,W,4,Stonehill,3.5595172792100933,1
+45,2014-05-10,Stonehill,0.3333,2.0,2.0,0.17857143,neutral,W,4,Stonehill,3.5595172792100933,1
+46,2014-05-03,U of Bridgeport,0.3443,0.5,1.0,0.0,at,W,54,U of Bridgeport,4.5,0
+47,2014-05-17,Wilmington (Del.),0.2188,0.0,2.0,0.0,at,W,21,Wilmington (Del.),4.014740108611326,0
+48,2014-03-04,Wilmington Univ.,0.4054,1.0,0.0,0.0,vs,W,42,Wilmington Univ.,3.052631578947368,2
+0,2015-04-13,American Int'l,0.3148,1.5,2.5,0.0,neutral,W,14,American Int'l,3.759463408155133,1
+1,2015-03-15,Assumption,0.2308,0.0,1.0,0.0,vs,W,26,Assumption,3.972206781545303,2
+2,2015-04-18,Assumption,0.4526,2.5,1.0,0.0,at,W,26,Assumption,3.972206781545303,0
+3,2015-04-19,Assumption,0.4318,0.0,1.0,0.45263158,at,W,26,Assumption,3.972206781545303,0
+4,2015-04-04,Bentley,0.3256,3.0,2.0,0.0,at,L,19,Bentley,3.755790329134499,0
+5,2015-04-06,Bentley,0.3235,1.0,2.0,0.3255814,at,W,19,Bentley,3.755790329134499,0
+6,2015-04-26,Bentley,0.3333,0.0,4.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+7,2015-02-20,Felician,0.25,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+8,2015-03-05,Felician,0.1875,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+9,2015-03-25,Franklin Pierce,0.125,1.0,2.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+10,2015-04-08,Franklin Pierce,0.1579,0.0,1.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507,1
+11,2015-04-22,Franklin Pierce,0.2069,1.0,2.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507,1
+12,2015-05-16,Franklin Pierce,0.1429,0.0,2.0,0.0,at,L,15,Franklin Pierce,3.761500606233507,0
+13,2015-03-07,LIU Post,0.3662,0.5,2.5,0.0,vs,W,37,LIU Post,3.017142857142857,2
+14,2015-03-04,Lynn University,0.3611,0.0,2.0,0.0,at,L,43,Lynn University,5.761589403973511,0
+15,2015-02-21,Mercy,0.0435,0.0,1.0,0.0,vs,W,47,Mercy,1.966019417475728,2
+16,2015-02-21,Mercy College,0.3095,1.0,0.0,0.0,vs,W,56,Mercy College,2.4064171122994655,2
+17,2015-03-16,Merrimack,0.25,1.0,2.0,0.0,vs,W,2,Merrimack,3.0035206102391085,2
+18,2015-04-25,Merrimack,0.3016,0.0,2.5,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+19,2015-04-26,Merrimack,0.3478,0.0,3.0,0.3015873,neutral,L,2,Merrimack,3.0035206102391085,1
+20,2015-02-13,Nova Southeastern,0.2286,0.0,2.0,0.0,at,L,7,Nova Southeastern,9.376271186440679,0
+21,2015-02-14,Nova Southeastern,0.2286,0.0,5.0,0.22857143,at,L,7,Nova Southeastern,9.376271186440679,0
+22,2015-02-15,Nova Southeastern,0.1563,1.0,2.0,0.22857143,at,L,7,Nova Southeastern,9.376271186440679,0
+23,2015-03-04,Post,0.25,0.0,1.0,0.0,vs,W,52,Post,1.2535714285714286,2
+24,2015-04-11,Saint Anselm,0.2,1.0,2.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+25,2015-04-16,Saint Anselm,0.4146,3.0,3.0,0.2,neutral,W,17,Saint Anselm,3.5004222972972974,1
+26,2015-04-21,Saint Anselm,0.3548,0.0,0.0,0.32394366,neutral,W,17,Saint Anselm,3.5004222972972974,1
+27,2015-04-14,Saint Michael's,0.2414,1.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+28,2015-04-23,Saint Michael's,0.3684,2.0,0.0,0.24137931,at,W,5,Saint Michael's,2.130794701986755,0
+29,2015-05-15,St. Thomas Aquinas,0.3333,1.0,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+30,2015-04-11,Stonehill,0.2,0.0,1.0,0.0,at,W,4,Stonehill,3.5595172792100933,0
+31,2015-05-01,Stonehill,0.303,0.0,0.0,0.0,at,W,4,Stonehill,3.5595172792100933,0
+32,2015-05-05,Stonehill,0.1429,0.0,2.0,0.3030303,neutral,L,4,Stonehill,3.5595172792100933,1
+33,2015-05-02,Stonehill College,0.2029,0.0,2.0,0.0,at,L,27,Stonehill College,3.911854103343465,0
+34,2015-02-20,U. of Bridgeport,0.3429,1.0,1.0,0.0,vs,W,55,U. of Bridgeport,1.0,2
+35,2015-02-22,U. of Bridgeport,0.2647,1.0,1.0,0.34285714,vs,W,55,U. of Bridgeport,1.0,2
+36,2015-05-14,Wilmington,0.1765,1.0,1.0,0.0,vs,L,58,Wilmington,3.0,2
+37,2015-03-05,Wilmington (DE),0.1875,0.0,0.0,0.0,vs,L,57,Wilmington (DE),1.0666666666666667,2
+0,2016-03-14,Adelphi,0.2903,0.0,1.0,0.0,vs,W,18,Adelphi,3.9623161764705883,2
+1,2016-04-10,Adelphi,0.25,1.0,2.5,0.0,neutral,W,18,Adelphi,3.9623161764705883,1
+2,2016-04-03,American Int'l,0.4143,0.0,1.5,0.0,at,W,14,American Int'l,3.759463408155133,0
+3,2016-04-16,Assumption,0.3889,2.0,1.5,0.0,neutral,W,26,Assumption,3.972206781545303,1
+4,2016-04-17,Assumption,0.3125,0.0,0.0,0.38888889,neutral,W,26,Assumption,3.972206781545303,1
+5,2016-03-26,Bentley,0.209,0.0,2.0,0.0,at,W,19,Bentley,3.755790329134499,0
+6,2016-03-29,Bentley,0.2162,1.0,0.0,0.20895522,at,W,19,Bentley,3.755790329134499,0
+7,2016-05-22,Bridgeport,0.3333,0.0,0.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+8,2016-03-13,Caldwell,0.481,1.0,0.5,0.0,vs,W,45,Caldwell,1.3029490616621986,2
+9,2016-02-26,Dominican College NY,0.3077,2.0,1.0,0.0,vs,W,59,Dominican College NY,5.0625,2
+10,2016-05-19,Dowling,0.1818,0.0,0.0,0.0,vs,L,1,Dowling,2.576581734898368,2
+11,2016-03-05,Felician,0.2131,0.0,0.5,0.0,at,W,24,Felician,3.4480151228733456,0
+12,2016-03-06,Felician,0.3235,0.5,2.0,0.21311475,at,W,24,Felician,3.4480151228733456,0
+13,2016-05-21,Felician,0.413,2.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+14,2016-03-30,Franklin Pierce,0.1471,1.0,3.0,0.0,at,L,15,Franklin Pierce,3.761500606233507,0
+15,2016-04-13,Franklin Pierce,0.1765,0.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+16,2016-04-27,Franklin Pierce,0.1,0.0,4.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507,1
+17,2016-05-23,Franklin Pierce,0.2131,0.5,0.0,0.0,at,L,15,Franklin Pierce,3.761500606233507,0
+18,2016-05-23,Franklin Pierce,0.2131,0.5,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+19,2016-03-19,Lynn,0.2222,1.0,2.0,0.0,at,L,31,Lynn,5.594594594594595,0
+20,2016-02-28,Mercy,0.3793,1.0,0.0,0.0,vs,W,47,Mercy,1.966019417475728,2
+21,2016-04-23,Merrimack,0.413,1.0,2.0,0.0,at,W,2,Merrimack,3.0035206102391085,0
+22,2016-04-24,Merrimack,0.3243,2.5,0.0,0.41304348,at,W,2,Merrimack,3.0035206102391085,0
+23,2016-05-10,Merrimack,0.303,1.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+24,2016-05-20,Molloy,0.325,2.0,3.0,0.0,vs,W,0,Molloy,4.10538286580743,2
+25,2016-03-12,Molloy College,0.413,3.0,1.0,0.0,vs,W,61,Molloy College,6.0,2
+26,2016-03-15,Nova Southeastern,0.2121,1.0,5.0,0.0,at,L,7,Nova Southeastern,9.376271186440679,0
+27,2016-02-27,Nyack College,0.3415,1.0,3.0,0.0,vs,W,60,Nyack College,0.0,2
+28,2016-04-09,Pace,0.3077,1.0,0.5,0.0,neutral,W,12,Pace,4.003042777877215,1
+29,2016-05-13,Pace,0.303,0.0,1.0,0.0,vs,W,12,Pace,4.003042777877215,2
+30,2016-04-08,Post,0.2069,0.0,1.0,0.0,neutral,W,52,Post,1.2535714285714286,1
+31,2016-03-23,Saint Anselm,0.2222,1.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974,0
+32,2016-04-15,Saint Anselm,0.2258,1.0,0.0,0.0,at,W,17,Saint Anselm,3.5004222972972974,0
+33,2016-04-29,Saint Anselm,0.3784,4.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974,0
+34,2016-03-31,Saint Michael's,0.4211,3.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+35,2016-04-19,Saint Michael's,0.2941,2.0,2.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+36,2016-05-03,Saint Michael's,0.3824,2.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+37,2016-05-12,Saint Rose,0.3333,2.0,0.0,0.0,vs,W,16,Saint Rose,3.690340909090909,2
+38,2016-05-14,Saint Rose,0.2647,0.0,1.0,0.33333333,vs,W,16,Saint Rose,3.690340909090909,2
+39,2016-03-18,So. Connecticut,0.3721,0.0,1.0,0.0,vs,W,20,So. Connecticut,5.103092783505154,2
+40,2016-04-22,So. Connecticut,0.3182,1.5,1.0,0.0,neutral,W,20,So. Connecticut,5.103092783505154,1
+41,2016-05-22,St. Thomas Aquinas,0.3333,0.0,0.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+42,2016-04-30,Stonehill,0.3375,1.0,0.5,0.0,neutral,L,4,Stonehill,3.5595172792100933,1
+43,2016-04-30,Stonehill,0.3375,1.0,0.5,0.0,neutral,W,4,Stonehill,3.5595172792100933,1
+44,2016-05-01,Stonehill,0.303,0.0,2.0,0.3375,neutral,W,4,Stonehill,3.5595172792100933,1
+45,2016-02-27,Wilmington (DE),0.1429,0.0,2.0,0.0,vs,W,57,Wilmington (DE),1.0666666666666667,2
+0,2017-04-29,Assumption,0.321,1.0,2.0,0.0,at,W,26,Assumption,3.972206781545303,0
+1,2017-04-30,Assumption,0.25,0.0,2.0,0.32098765,at,W,26,Assumption,3.972206781545303,0
+2,2017-04-22,Bentley,0.2712,0.5,0.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+3,2017-04-23,Bentley,0.2759,0.0,3.0,0.27118644,neutral,W,19,Bentley,3.755790329134499,1
+4,2017-05-09,Bentley,0.2059,0.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+5,2017-03-11,Bloomfield,0.2931,0.0,1.5,0.0,vs,W,23,Bloomfield,1.9156626506024097,2
+6,2017-02-26,Bridgeport,0.1071,2.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+7,2017-04-13,Bridgeport,0.125,0.0,1.0,0.0,neutral,W,49,Bridgeport,2.6724890829694328,1
+8,2017-03-12,Caldwell,0.2813,1.0,2.0,0.0,vs,W,45,Caldwell,1.3029490616621986,2
+9,2017-05-21,Felician,0.2647,4.0,0.0,0.0,at,W,24,Felician,3.4480151228733456,0
+10,2017-04-05,Franklin Pierce,0.1071,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+11,2017-04-18,Franklin Pierce,0.2581,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+12,2017-05-02,Franklin Pierce,0.1667,0.0,0.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+13,2017-05-12,Franklin Pierce,0.2,0.0,1.0,0.16666667,vs,L,15,Franklin Pierce,3.761500606233507,2
+14,2017-02-23,LIU Post,0.1724,0.0,2.0,0.0,vs,L,37,LIU Post,3.017142857142857,2
+15,2017-05-19,LIU Post,0.4359,3.0,3.0,0.0,neutral,W,37,LIU Post,3.017142857142857,1
+16,2017-02-25,Mercy,0.4773,2.0,0.0,0.0,vs,W,47,Mercy,1.966019417475728,2
+17,2017-02-24,Mercy College,0.2703,2.0,1.0,0.0,vs,W,56,Mercy College,2.4064171122994655,2
+18,2017-05-04,Merrimack,0.2414,1.0,0.0,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+19,2017-05-06,Merrimack,0.3288,3.5,1.0,0.24137931,neutral,W,2,Merrimack,3.0035206102391085,1
+20,2017-04-09,New Haven,0.2174,0.0,2.5,0.0,neutral,W,13,New Haven,4.561151079136691,1
+21,2017-04-09,New Haven,0.2174,0.0,2.5,0.0,neutral,L,13,New Haven,4.561151079136691,1
+22,2017-05-11,New Haven,0.1786,1.0,0.0,0.0,at,W,13,New Haven,4.561151079136691,0
+23,2017-05-12,New Haven,0.1563,0.0,2.0,0.17857143,at,L,13,New Haven,4.561151079136691,0
+24,2017-03-15,Nova Southeastern,0.2708,1.0,1.0,0.0,at,W,7,Nova Southeastern,9.376271186440679,0
+25,2017-03-13,Palm Beach Atl.,0.2727,0.0,0.0,0.0,at,W,64,Palm Beach Atl.,3.0,0
+26,2017-02-25,Queens (N.Y.),0.2069,1.0,0.0,0.0,vs,W,62,Queens (N.Y.),3.571428571428571,2
+27,2017-04-02,Saint Anselm,0.2394,0.0,0.5,0.0,vs,W,17,Saint Anselm,3.5004222972972974,2
+28,2017-04-27,Saint Anselm,0.3714,3.0,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+29,2017-04-12,Saint Michael's,0.2632,3.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+30,2017-04-28,Saint Michael's,0.2656,1.5,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+31,2017-03-25,Saint Rose,0.2381,0.0,0.5,0.0,vs,W,16,Saint Rose,3.690340909090909,2
+32,2017-03-18,Saint Thomas Aquinas,0.1897,0.0,2.0,0.0,vs,W,65,Saint Thomas Aquinas,3.5,2
+33,2017-03-18,Saint Thomas Aquinas,0.1897,0.0,2.0,0.0,vs,L,65,Saint Thomas Aquinas,3.5,2
+34,2017-03-03,Shippensburg,0.2647,1.0,3.0,0.0,at,L,63,Shippensburg,9.487951807228916,0
+35,2017-03-04,Shippensburg,0.3333,1.0,5.0,0.26470588,at,L,63,Shippensburg,9.487951807228916,0
+36,2017-03-05,Shippensburg,0.2794,0.5,0.5,0.30487805,at,W,63,Shippensburg,9.487951807228916,0
+37,2017-04-08,Southern Conn. State,0.2879,0.5,2.0,0.0,at,W,66,Southern Conn. State,3.5,0
+38,2017-05-20,St. Thomas Aquinas,0.1563,0.0,2.0,0.0,at,L,33,St. Thomas Aquinas,3.807285546415981,0
+39,2017-05-22,St. Thomas Aquinas,0.1875,2.0,0.0,0.15625,neutral,L,33,St. Thomas Aquinas,3.807285546415981,1
+40,2017-03-26,Stonehill College,0.2836,0.5,2.0,0.0,vs,W,27,Stonehill College,3.911854103343465,2
+41,2017-03-26,Stonehill College,0.2836,0.5,2.0,0.0,vs,L,27,Stonehill College,3.911854103343465,2
+42,2017-04-15,Stonehill College,0.3919,0.5,2.0,0.0,at,W,27,Stonehill College,3.911854103343465,0
+43,2017-04-17,Stonehill College,0.129,0.0,1.0,0.39189189,at,L,27,Stonehill College,3.911854103343465,0
+0,2018-04-08,American Int'l,0.2727,0.5,3.0,0.0,neutral,W,14,American Int'l,3.759463408155133,1
+1,2018-04-08,American Int'l,0.2727,0.5,3.0,0.0,neutral,L,14,American Int'l,3.759463408155133,1
+2,2018-04-18,Assumption,0.4098,1.0,0.5,0.0,neutral,W,26,Assumption,3.972206781545303,1
+3,2018-05-04,Assumption,0.3529,2.0,1.0,0.0,neutral,W,26,Assumption,3.972206781545303,1
+4,2018-05-26,Augustana,0.129,1.0,3.0,0.0,vs,L,70,Augustana,6.88235294117647,2
+5,2018-05-31,Augustana,0.2,0.0,1.0,0.12903226,vs,L,70,Augustana,6.88235294117647,2
+6,2018-03-30,Bentley,0.2821,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499,0
+7,2018-03-31,Bentley,0.3587,1.0,0.0,0.28205128,at,W,19,Bentley,3.755790329134499,0
+8,2018-03-31,Bentley,0.3587,1.0,0.0,0.28205128,at,L,19,Bentley,3.755790329134499,0
+9,2018-05-08,Bentley,0.2258,1.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+10,2018-03-09,Bloomfield,0.2353,0.0,1.0,0.0,vs,W,23,Bloomfield,1.9156626506024097,2
+11,2018-02-22,Bridgeport,0.3611,1.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+12,2018-04-07,Bridgeport,0.3148,2.0,0.5,0.0,neutral,W,49,Bridgeport,2.6724890829694328,1
+13,2018-03-12,Eckerd College,0.1034,0.0,2.0,0.0,at,L,67,Eckerd College,10.125,0
+14,2018-02-23,Felician,0.1935,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+15,2018-03-28,Franklin Pierce,0.2895,2.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+16,2018-04-11,Franklin Pierce,0.2273,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+17,2018-04-24,Franklin Pierce,0.4286,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+18,2018-05-17,Franklin Pierce,0.2727,1.0,0.0,0.0,vs,W,15,Franklin Pierce,3.761500606233507,2
+19,2018-02-25,Le Moyne,0.3429,0.0,0.0,0.0,vs,W,34,Le Moyne,3.805714285714286,2
+20,2018-05-11,Le Moyne,0.303,1.0,2.0,0.0,at,W,34,Le Moyne,3.805714285714286,0
+21,2018-02-24,LIU Post,0.2941,2.0,2.0,0.0,vs,W,37,LIU Post,3.017142857142857,2
+22,2018-02-24,Mercy College,0.4103,4.0,1.0,0.0,vs,W,56,Mercy College,2.4064171122994655,2
+23,2018-04-27,Merrimack,0.2143,0.0,1.0,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+24,2018-05-11,Merrimack,0.25,0.0,2.0,0.0,neutral,L,2,Merrimack,3.0035206102391085,1
+25,2018-04-28,Merrimack College,0.2568,0.5,2.5,0.0,at,L,69,Merrimack College,5.884615384615385,0
+26,2018-04-28,Merrimack College,0.2568,0.5,2.5,0.0,at,W,69,Merrimack College,5.884615384615385,0
+27,2018-04-29,Merrimack College,0.3333,1.0,1.0,0.25675676,at,W,69,Merrimack College,5.884615384615385,0
+28,2018-03-11,New Haven,0.2703,0.0,4.0,0.0,vs,L,13,New Haven,4.561151079136691,2
+29,2018-05-10,New Haven,0.3077,0.0,1.0,0.0,neutral,L,13,New Haven,4.561151079136691,1
+30,2018-05-18,New Haven,0.2703,0.0,0.0,0.30769231,vs,W,13,New Haven,4.561151079136691,2
+31,2018-03-13,Nova Southeastern,0.1429,0.0,4.0,0.0,at,L,7,Nova Southeastern,9.376271186440679,0
+32,2018-03-24,Pace University,0.1356,0.5,1.0,0.0,at,L,68,Pace University,2.8125,0
+33,2018-04-21,Saint Anselm,0.3846,0.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974,0
+34,2018-04-22,Saint Anselm,0.3158,0.5,1.5,0.38461538,at,W,17,Saint Anselm,3.5004222972972974,0
+35,2018-03-03,Saint Michael's,0.3548,0.5,0.5,0.0,vs,W,5,Saint Michael's,2.130794701986755,2
+36,2018-04-04,Saint Michael's,0.2895,0.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+37,2018-05-01,Saint Michael's,0.2295,0.5,0.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+38,2018-05-01,Saint Michael's,0.2295,0.5,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+39,2018-05-27,Southern Indiana,0.2581,0.0,0.0,0.0,vs,W,71,Southern Indiana,0.0,2
+40,2018-03-17,St. Thomas Aquinas,0.2321,1.5,1.0,0.0,vs,L,33,St. Thomas Aquinas,3.807285546415981,2
+41,2018-03-17,St. Thomas Aquinas,0.2321,1.5,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+42,2018-03-18,St. Thomas Aquinas,0.1429,2.0,1.0,0.23214286,vs,L,33,St. Thomas Aquinas,3.807285546415981,2
+43,2018-05-20,St. Thomas Aquinas,0.2813,1.0,0.0,0.0,neutral,W,33,St. Thomas Aquinas,3.807285546415981,1
+44,2018-05-21,St. Thomas Aquinas,0.2632,1.0,0.0,0.28125,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+45,2018-04-13,Stonehill,0.3243,0.0,0.0,0.0,neutral,W,4,Stonehill,3.5595172792100933,1
+46,2018-04-14,Stonehill,0.3151,2.0,0.5,0.32432432,neutral,W,4,Stonehill,3.5595172792100933,1
+47,2018-04-14,Stonehill,0.3151,2.0,0.5,0.32432432,neutral,L,4,Stonehill,3.5595172792100933,1
+48,2018-05-30,UC San Diego,0.25,2.0,0.0,0.0,vs,W,72,UC San Diego,4.0,2
+49,2018-03-04,West Chester,0.2353,0.0,2.5,0.0,vs,L,36,West Chester,10.50761421319797,2
+50,2018-03-10,Wilmington (Del.),0.3226,0.0,0.0,0.0,vs,W,21,Wilmington (Del.),4.014740108611326,2
+0,2019-03-16,Adelphi,0.2813,0.0,2.0,0.0,vs,W,18,Adelphi,3.9623161764705883,2
+1,2019-03-15,American Int'l,0.3514,0.0,0.0,0.0,vs,W,14,American Int'l,3.759463408155133,2
+2,2019-03-15,American Int'l,0.3514,0.0,0.0,0.0,vs,L,14,American Int'l,3.759463408155133,2
+3,2019-04-27,Assumption,0.2917,0.5,0.5,0.0,at,W,26,Assumption,3.972206781545303,0
+4,2019-04-28,Assumption,0.1818,0.0,2.0,0.29166667,at,L,26,Assumption,3.972206781545303,0
+5,2019-05-16,Assumption,0.3056,1.0,2.0,0.0,neutral,W,26,Assumption,3.972206781545303,1
+6,2019-04-18,Bentley,0.125,0.0,0.0,0.0,neutral,L,19,Bentley,3.755790329134499,1
+7,2019-04-19,Bentley,0.2368,0.0,0.0,0.125,neutral,L,19,Bentley,3.755790329134499,1
+8,2019-04-23,Bentley,0.2069,1.0,2.0,0.18571429,neutral,W,19,Bentley,3.755790329134499,1
+9,2019-02-23,Bridgeport,0.2581,0.0,2.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+10,2019-03-10,Caldwell,0.3636,0.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986,2
+11,2019-02-23,Concordia New York,0.3148,2.0,1.0,0.0,vs,W,74,Concordia New York,3.2142857142857144,2
+12,2019-02-08,CSU San Bernardino,0.2,4.0,1.0,0.0,at,W,73,CSU San Bernardino,6.230769230769231,0
+13,2019-02-09,CSU San Bernardino,0.2031,0.5,2.5,0.2,at,L,73,CSU San Bernardino,6.230769230769231,0
+14,2019-05-17,Felician,0.2432,0.0,0.0,0.0,at,W,24,Felician,3.4480151228733456,0
+15,2019-04-02,Franklin Pierce,0.3784,0.0,0.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+16,2019-04-16,Franklin Pierce,0.1351,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+17,2019-04-30,Franklin Pierce,0.3846,0.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+18,2019-05-07,Franklin Pierce,0.1875,1.0,1.0,0.38461538,neutral,L,15,Franklin Pierce,3.761500606233507,1
+19,2019-04-07,Le Moyne,0.1786,0.0,0.5,0.0,neutral,W,34,Le Moyne,3.805714285714286,1
+20,2019-04-07,Le Moyne,0.1786,0.0,0.5,0.0,neutral,L,34,Le Moyne,3.805714285714286,1
+21,2019-02-21,LIU Post,0.1724,1.0,0.0,0.0,vs,W,37,LIU Post,3.017142857142857,2
+22,2019-05-17,LIU Post,0.3077,2.0,1.0,0.0,neutral,L,37,LIU Post,3.017142857142857,1
+23,2019-05-18,LIU Post,0.3485,1.5,0.5,0.30769231,neutral,W,37,LIU Post,3.017142857142857,1
+24,2019-05-18,LIU Post,0.3485,1.5,0.5,0.30769231,at,W,37,LIU Post,3.017142857142857,0
+25,2019-02-22,Mercy,0.2333,1.0,3.0,0.0,vs,W,47,Mercy,1.966019417475728,2
+26,2019-03-01,Merrimack,0.1944,0.0,3.0,0.0,vs,W,2,Merrimack,3.0035206102391085,2
+27,2019-03-03,Merrimack,0.2593,1.0,2.0,0.19444444,vs,L,2,Merrimack,3.0035206102391085,2
+28,2019-03-03,Merrimack,0.2593,1.0,2.0,0.19444444,vs,W,2,Merrimack,3.0035206102391085,2
+29,2019-05-02,Merrimack,0.2353,1.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+30,2019-05-04,Merrimack,0.2857,0.5,1.0,0.23529412,neutral,W,2,Merrimack,3.0035206102391085,1
+31,2019-03-12,Molloy,0.2258,0.0,0.0,0.0,vs,W,0,Molloy,4.10538286580743,2
+32,2019-03-24,New Haven,0.1692,0.0,2.0,0.0,at,L,13,New Haven,4.561151079136691,0
+33,2019-03-24,New Haven,0.1692,0.0,2.0,0.0,at,W,13,New Haven,4.561151079136691,0
+34,2019-03-13,Nova Southeastern,0.3333,0.0,7.0,0.0,at,L,7,Nova Southeastern,9.376271186440679,0
+35,2019-05-24,NYIT,0.3333,2.0,4.0,0.0,neutral,L,77,NYIT,9.0,1
+36,2019-03-11,Post,0.2593,0.0,0.5,0.0,vs,W,52,Post,1.2535714285714286,2
+37,2019-03-30,Saint Anselm,0.2985,1.0,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+38,2019-03-31,Saint Anselm,0.2667,0.0,2.0,0.29850746,neutral,W,17,Saint Anselm,3.5004222972972974,1
+39,2019-04-11,Saint Michael's,0.325,0.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+40,2019-04-24,Saint Michael's,0.3243,2.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+41,2019-04-06,Saint Rose,0.2951,0.5,0.0,0.0,neutral,W,16,Saint Rose,3.690340909090909,1
+42,2019-04-05,Southern Conn. St.,0.2632,2.0,2.0,0.0,neutral,W,76,Southern Conn. St.,4.0344827586206895,1
+43,2019-05-25,Southern N.H.,0.2857,1.0,1.0,0.0,at,W,78,Southern N.H.,3.0,0
+44,2019-03-29,St. Michael's,0.3103,0.0,3.0,0.0,neutral,W,75,St. Michael's,0.7941176470588236,1
+45,2019-02-24,St. Thomas Aquinas,0.25,0.0,2.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+46,2019-04-13,Stonehill,0.2381,0.0,1.5,0.0,at,L,4,Stonehill,3.5595172792100933,0
+47,2019-04-13,Stonehill,0.2381,0.0,1.5,0.0,at,W,4,Stonehill,3.5595172792100933,0
+48,2019-04-14,Stonehill,0.2857,0.0,1.0,0.23809524,at,W,4,Stonehill,3.5595172792100933,0
+0,2020-03-07,Adelphi University,0.1667,0.0,2.0,0.0,at,L,53,Adelphi University,1.9186046511627906,0
+1,2020-03-08,Adelphi University,0.1897,0.5,0.0,0.16666667,at,W,53,Adelphi University,1.9186046511627906,0
+2,2020-02-23,Bridgeport,0.3333,2.0,0.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+3,2020-02-14,Colorado Mesa,0.2,0.0,1.0,0.0,at,L,79,Colorado Mesa,14.25,0
+4,2020-02-15,Colorado Mesa,0.2432,0.0,3.0,0.2,at,L,79,Colorado Mesa,14.25,0
+5,2020-02-16,Colorado Mesa,0.2941,0.0,0.0,0.2238806,at,L,79,Colorado Mesa,14.25,0
+6,2020-02-22,Dominican (N.Y.),0.4935,1.5,0.5,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898,2
+7,2020-02-22,Dominican (N.Y.),0.4935,1.5,0.5,0.0,at,W,50,Dominican (N.Y.),5.26530612244898,0
+8,2020-02-21,Felician,0.2632,2.0,1.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+9,2020-02-21,Mercy,0.3636,0.0,1.0,0.0,vs,W,47,Mercy,1.966019417475728,2
+10,2020-02-29,New York Tech,0.2667,0.0,1.0,0.0,at,W,80,New York Tech,1.44,0
+11,2020-03-01,New York Tech,0.2,1.0,1.5,0.26666667,at,W,80,New York Tech,1.44,0
+12,2020-03-10,Pace,0.325,1.0,0.0,0.0,at,W,12,Pace,4.003042777877215,0
+13,2020-03-09,Queens (NY),0.3429,1.0,1.0,0.0,at,W,81,Queens (NY),3.0,0
+0,2021-05-21,Adelphi,0.3333,3.0,0.5,0.0,neutral,W,18,Adelphi,3.9623161764705883,1
+1,2021-05-21,Adelphi,0.3333,3.0,0.5,0.0,at,W,18,Adelphi,3.9623161764705883,0
+2,2021-05-07,Assumption,0.3088,0.0,2.5,0.0,at,W,26,Assumption,3.972206781545303,0
+3,2021-05-08,Assumption,0.2419,0.0,1.0,0.30882353,at,L,26,Assumption,3.972206781545303,0
+4,2021-05-08,Assumption,0.2419,0.0,1.0,0.30882353,vs,L,26,Assumption,3.972206781545303,2
+5,2021-05-13,Assumption,0.2647,0.0,0.0,0.27692308,neutral,W,26,Assumption,3.972206781545303,1
+6,2021-04-24,Bentley,0.3065,0.5,3.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+7,2021-04-24,Bentley,0.3065,0.5,3.0,0.0,neutral,L,19,Bentley,3.755790329134499,1
+8,2021-04-25,Bentley,0.2658,1.0,4.0,0.30645161,neutral,L,19,Bentley,3.755790329134499,1
+9,2021-04-25,Bentley,0.2658,1.0,4.0,0.30645161,neutral,W,19,Bentley,3.755790329134499,1
+10,2021-05-27,Dominican (N.Y.),0.2581,2.0,0.0,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898,2
+11,2021-05-01,Franklin Pierce,0.3438,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+12,2021-05-02,Franklin Pierce,0.2951,1.0,2.0,0.34375,neutral,L,15,Franklin Pierce,3.761500606233507,1
+13,2021-05-02,Franklin Pierce,0.2951,1.0,2.0,0.34375,neutral,W,15,Franklin Pierce,3.761500606233507,1
+14,2021-05-16,Franklin Pierce,0.2368,1.5,1.5,0.0,neutral,L,15,Franklin Pierce,3.761500606233507,1
+15,2021-05-16,Franklin Pierce,0.2368,1.5,1.5,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+16,2021-05-17,Franklin Pierce,0.4,4.0,1.0,0.23684211,neutral,W,15,Franklin Pierce,3.761500606233507,1
+17,2021-05-28,Franklin Pierce,0.3421,2.0,4.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+18,2021-05-29,Molloy,0.3714,2.0,1.0,0.0,vs,W,0,Molloy,4.10538286580743,2
+19,2021-05-31,Molloy,0.2353,1.0,3.0,0.37142857,vs,L,0,Molloy,4.10538286580743,2
+20,2021-06-01,Molloy,0.35,1.0,1.0,0.30434783,vs,W,0,Molloy,4.10538286580743,2
+21,2021-04-09,Saint Anselm,0.3333,0.5,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+22,2021-04-10,Saint Anselm,0.3846,2.5,0.5,0.33333333,neutral,W,17,Saint Anselm,3.5004222972972974,1
+23,2021-04-17,Saint Michael's,0.3919,0.5,0.5,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+24,2021-04-18,Saint Michael's,0.3951,0.5,0.5,0.39189189,at,W,5,Saint Michael's,2.130794701986755,0
+25,2021-06-06,Seton Hill,0.125,0.0,1.0,0.0,vs,L,82,Seton Hill,4.5,2
+26,2021-03-25,Stonehill,0.2295,1.5,0.5,0.0,at,W,4,Stonehill,3.5595172792100933,0
+27,2021-03-27,Stonehill,0.3125,1.0,0.5,0.2295082,at,W,4,Stonehill,3.5595172792100933,0
+28,2021-06-08,Wingate,0.2571,1.0,0.0,0.0,vs,L,83,Wingate,3.0,2
+0,2022-03-20,Adelphi,0.1692,0.0,1.0,0.0,at,W,18,Adelphi,3.9623161764705883,0
+1,2022-03-20,Adelphi,0.1692,0.0,1.0,0.0,at,L,18,Adelphi,3.9623161764705883,0
+2,2022-03-21,Adelphi,0.3125,1.0,1.0,0.16923077,at,L,18,Adelphi,3.9623161764705883,0
+3,2022-05-13,Adelphi,0.2571,0.0,6.0,0.0,neutral,W,18,Adelphi,3.9623161764705883,1
+4,2022-06-05,Angelo State,0.2059,2.0,3.0,0.0,vs,L,85,Angelo State,7.0,2
+5,2022-03-14,Assumption,0.3421,2.0,1.0,0.0,neutral,W,26,Assumption,3.972206781545303,1
+6,2022-05-06,Assumption,0.2951,1.5,1.0,0.0,neutral,W,26,Assumption,3.972206781545303,1
+7,2022-05-07,Assumption,0.3091,0.5,1.5,0.29508197,neutral,W,26,Assumption,3.972206781545303,1
+8,2022-05-14,Assumption,0.2958,2.0,2.0,0.30172414,vs,L,26,Assumption,3.972206781545303,2
+9,2022-05-14,Assumption,0.2958,2.0,2.0,0.30172414,vs,W,26,Assumption,3.972206781545303,2
+10,2022-04-21,Bentley,0.4375,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499,0
+11,2022-04-22,Bentley,0.3571,1.0,0.0,0.4375,at,W,19,Bentley,3.755790329134499,0
+12,2022-04-23,Bentley,0.3438,0.0,1.0,0.4,at,W,19,Bentley,3.755790329134499,0
+13,2022-04-05,Bridgeport,0.1429,0.0,0.0,0.0,at,W,49,Bridgeport,2.6724890829694328,0
+14,2022-04-26,Bridgeport,0.2571,1.0,2.0,0.0,at,W,49,Bridgeport,2.6724890829694328,0
+15,2022-02-24,Felician,0.2,1.0,3.0,0.0,vs,L,24,Felician,3.4480151228733456,2
+16,2022-03-05,Felician,0.3563,3.5,3.0,0.2,at,W,24,Felician,3.4480151228733456,0
+17,2022-03-06,Felician,0.2121,0.0,1.0,0.31623932,at,L,24,Felician,3.4480151228733456,0
+18,2022-04-29,Franklin Pierce,0.1613,1.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+19,2022-04-30,Franklin Pierce,0.2264,0.0,1.0,0.16129032,at,L,15,Franklin Pierce,3.761500606233507,0
+20,2022-04-30,Franklin Pierce,0.2264,0.0,1.0,0.16129032,at,W,15,Franklin Pierce,3.761500606233507,0
+21,2022-05-01,Franklin Pierce,0.413,2.0,0.0,0.20238095,at,W,15,Franklin Pierce,3.761500606233507,0
+22,2022-05-12,Le Moyne,0.3529,1.0,2.0,0.0,vs,W,34,Le Moyne,3.805714285714286,2
+23,2022-02-26,Mercy College,0.4028,1.5,0.5,0.0,vs,W,56,Mercy College,2.4064171122994655,2
+24,2022-05-27,Molloy,0.2424,1.5,2.5,0.0,neutral,L,0,Molloy,4.10538286580743,1
+25,2022-05-27,Molloy,0.2424,1.5,2.5,0.0,at,W,0,Molloy,4.10538286580743,0
+26,2022-05-29,Molloy,0.2571,2.0,2.0,0.24242424,vs,W,0,Molloy,4.10538286580743,2
+27,2022-04-02,New Haven,0.3333,1.0,1.5,0.0,at,W,13,New Haven,4.561151079136691,0
+28,2022-04-02,New Haven,0.3333,1.0,1.5,0.0,at,L,13,New Haven,4.561151079136691,0
+29,2022-03-11,Nyack,0.3333,3.0,1.5,0.0,neutral,W,84,Nyack,1.0,1
+30,2022-02-25,Queens (N.Y.),0.3333,2.0,1.0,0.0,vs,W,62,Queens (N.Y.),3.571428571428571,2
+31,2022-03-30,Saint Anselm,0.3636,2.0,0.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+32,2022-04-07,Saint Anselm,0.3182,0.0,2.0,0.36363636,at,W,17,Saint Anselm,3.5004222972972974,0
+33,2022-04-08,Saint Anselm,0.2895,3.0,3.0,0.33766234,at,L,17,Saint Anselm,3.5004222972972974,0
+34,2022-04-10,Saint Anselm,0.3492,2.0,1.5,0.30487805,at,L,17,Saint Anselm,3.5004222972972974,0
+35,2022-04-10,Saint Anselm,0.3492,2.0,1.5,0.30487805,at,W,17,Saint Anselm,3.5004222972972974,0
+36,2022-05-10,Saint Anselm,0.3824,2.0,1.0,0.0,vs,W,17,Saint Anselm,3.5004222972972974,2
+37,2022-05-20,Southern Conn. St.,0.3718,4.0,0.5,0.0,vs,W,76,Southern Conn. St.,4.0344827586206895,2
+38,2022-04-15,St. Michael's,0.2931,2.5,0.0,0.0,neutral,W,75,St. Michael's,0.7941176470588236,1
+39,2022-04-16,St. Michael's,0.381,0.0,1.5,0.29310345,neutral,W,75,St. Michael's,0.7941176470588236,1
+40,2022-02-27,St. Thomas Aquinas,0.4474,0.0,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+41,2022-04-13,St. Thomas Aquinas,0.3947,4.0,1.0,0.0,neutral,W,33,St. Thomas Aquinas,3.807285546415981,1
+42,2022-04-27,St. Thomas Aquinas,0.2703,2.0,6.0,0.0,at,W,33,St. Thomas Aquinas,3.807285546415981,0
+43,2022-03-25,Stonehill,0.25,1.0,2.0,0.0,neutral,W,4,Stonehill,3.5595172792100933,1
+44,2022-03-26,Stonehill,0.3208,1.0,0.5,0.25,neutral,W,4,Stonehill,3.5595172792100933,1
+45,2022-03-27,Stonehill,0.3,1.0,0.0,0.2962963,neutral,W,4,Stonehill,3.5595172792100933,1
+46,2022-06-07,West Chester,0.2941,1.0,0.0,0.0,vs,L,36,West Chester,10.50761421319797,2
+47,2022-05-19,Wilmington (Del.),0.25,2.0,0.0,0.0,vs,W,21,Wilmington (Del.),4.014740108611326,2
+0,2013-03-09,American Int'l,0.3143,0.0,1.0,0.0,vs,W,14,American Int'l,3.759463408155133,2
+1,2013-04-19,Bentley,0.1875,0.0,2.0,0.0,neutral,L,19,Bentley,3.755790329134499,1
+2,2013-04-20,Bentley,0.2078,0.0,2.5,0.1875,neutral,W,19,Bentley,3.755790329134499,1
+3,2013-04-20,Bentley,0.2078,0.0,2.5,0.1875,neutral,L,19,Bentley,3.755790329134499,1
+4,2013-05-07,Bentley,0.2941,0.0,3.0,0.0,at,L,19,Bentley,3.755790329134499,0
+5,2013-03-09,Caldwell,0.2857,1.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986,2
+6,2013-02-22,Chestnut Hill,0.3721,0.0,1.0,0.0,vs,W,38,Chestnut Hill,0.0,2
+7,2013-02-24,Chestnut Hill Coll.,0.4468,0.0,0.0,0.0,vs,W,40,Chestnut Hill Coll.,1.4736842105263157,2
+8,2013-03-08,Concordia (N.Y.),0.2571,0.0,2.0,0.0,vs,L,28,Concordia (N.Y.),4.4920071047957375,2
+9,2013-05-05,Felician,0.2787,0.0,2.5,0.0,neutral,W,24,Felician,3.4480151228733456,1
+10,2013-05-05,Felician,0.2787,0.0,2.5,0.0,neutral,L,24,Felician,3.4480151228733456,1
+11,2013-04-10,Franklin Pierce,0.2424,0.0,3.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+12,2013-04-24,Franklin Pierce,0.2647,0.0,2.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+13,2013-05-04,Franklin Pierce,0.2,1.0,1.0,0.26470588,neutral,L,15,Franklin Pierce,3.761500606233507,1
+14,2013-05-18,Franklin Pierce,0.1556,0.0,1.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507,1
+15,2013-03-24,Le Moyne,0.129,0.0,0.0,0.0,vs,L,34,Le Moyne,3.805714285714286,2
+16,2013-02-22,LIU Post,0.2647,0.0,3.0,0.0,vs,W,37,LIU Post,3.017142857142857,2
+17,2013-03-06,Lynn University,0.2857,1.0,1.0,0.0,at,L,43,Lynn University,5.761589403973511,0
+18,2013-04-26,Mercy,0.2414,2.0,1.5,0.0,neutral,W,47,Mercy,1.966019417475728,1
+19,2013-02-23,Mercyhurst Univ.,0.1818,3.0,0.0,0.0,vs,W,39,Mercyhurst Univ.,3.0,2
+20,2013-04-13,Merrimack,0.2576,0.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+21,2013-04-14,Merrimack,0.2857,0.0,1.0,0.25757576,neutral,W,2,Merrimack,3.0035206102391085,1
+22,2013-04-06,New Haven,0.2,0.0,1.5,0.0,neutral,L,13,New Haven,4.561151079136691,1
+23,2013-04-06,New Haven,0.2,0.0,1.5,0.0,neutral,W,13,New Haven,4.561151079136691,1
+24,2013-05-16,New Haven,0.2973,0.0,1.0,0.0,at,W,13,New Haven,4.561151079136691,0
+25,2013-03-05,Nova Southeastern,0.2778,2.0,1.0,0.0,at,W,7,Nova Southeastern,9.376271186440679,0
+26,2013-05-17,Pace,0.1724,0.0,0.0,0.0,at,W,12,Pace,4.003042777877215,0
+27,2013-03-16,Queens College,0.3387,1.0,0.0,0.0,at,W,46,Queens College,1.5,0
+28,2013-03-17,Queens College,0.1887,0.0,1.0,0.33870968,at,W,46,Queens College,1.5,0
+29,2013-04-03,Saint Anselm,0.4722,1.0,6.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+30,2013-04-04,Saint Anselm,0.25,1.0,4.0,0.47222222,neutral,L,17,Saint Anselm,3.5004222972972974,1
+31,2013-04-11,Saint Anselm,0.3824,0.0,0.0,0.36111111,neutral,W,17,Saint Anselm,3.5004222972972974,1
+32,2013-04-02,Saint Michael's,0.2258,1.0,1.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+33,2013-04-17,Saint Michael's,0.2121,0.0,2.0,0.0,at,L,5,Saint Michael's,2.130794701986755,0
+34,2013-04-30,Saint Michael's,0.3143,2.0,3.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+35,2013-03-23,Saint Rose,0.1912,1.5,2.5,0.0,vs,W,16,Saint Rose,3.690340909090909,2
+36,2013-04-07,So. Connecticut,0.209,0.5,7.0,0.0,neutral,L,20,So. Connecticut,5.103092783505154,1
+37,2013-03-28,Stonehill,0.129,0.0,0.0,0.0,at,L,4,Stonehill,3.5595172792100933,0
+38,2013-03-30,Stonehill College,0.1746,0.0,1.5,0.0,at,L,27,Stonehill College,3.911854103343465,0
+39,2013-03-30,Stonehill College,0.1746,0.0,1.5,0.0,at,W,27,Stonehill College,3.911854103343465,0
+40,2013-04-27,UMass Lowell,0.2857,0.0,1.5,0.0,at,W,11,UMass Lowell,3.893805309734513,0
+41,2013-04-28,UMass Lowell,0.2,0.0,0.0,0.28571429,at,L,11,UMass Lowell,3.893805309734513,0
+42,2013-03-08,Univ of the Sciences,0.2286,0.0,0.0,0.0,vs,L,44,Univ of the Sciences,4.5,2
+43,2013-03-03,USciences,0.0769,0.0,1.0,0.0,vs,W,41,USciences,0.0,2
+44,2013-02-23,West Va. Wesleyan,0.4324,0.0,1.0,0.0,vs,W,29,West Va. Wesleyan,2.3850000000000002,2
+45,2013-05-19,Wilmington (Del.),0.0968,1.0,3.0,0.0,at,L,21,Wilmington (Del.),4.014740108611326,0
+46,2013-03-04,Wilmington Univ.,0.2414,0.0,0.0,0.0,vs,W,42,Wilmington Univ.,3.052631578947368,2
+0,2014-03-23,Adelphi,0.3,0.0,3.0,0.0,at,W,18,Adelphi,3.9623161764705883,0
+1,2014-05-11,Adelphi,0.1852,0.0,1.0,0.0,neutral,W,18,Adelphi,3.9623161764705883,1
+2,2014-03-22,Adelphi University,0.1842,0.0,2.0,0.0,at,L,53,Adelphi University,1.9186046511627906,0
+3,2014-04-06,American Int'l,0.2951,0.5,1.0,0.0,neutral,W,14,American Int'l,3.759463408155133,1
+4,2014-04-12,Assumption,0.3333,0.5,2.5,0.0,neutral,W,26,Assumption,3.972206781545303,1
+5,2014-04-13,Assumption,0.2063,0.0,1.0,0.33333333,neutral,L,26,Assumption,3.972206781545303,1
+6,2014-04-13,Assumption,0.2063,0.0,1.0,0.33333333,neutral,W,26,Assumption,3.972206781545303,1
+7,2014-03-28,Bentley,0.25,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499,0
+8,2014-03-29,Bentley,0.2381,0.0,1.0,0.25,at,L,19,Bentley,3.755790329134499,0
+9,2014-05-07,Bentley,0.3333,0.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+10,2014-02-23,Bridgeport,0.2813,0.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+11,2014-02-20,Caldwell,0.2821,0.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986,2
+12,2014-03-02,Chestnut Hill Coll.,0.3,0.0,2.0,0.0,vs,W,40,Chestnut Hill Coll.,1.4736842105263157,2
+13,2014-03-04,Dominican (N.Y.),0.3438,0.0,2.0,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898,2
+14,2014-02-22,Dowling,0.3171,0.0,1.0,0.0,vs,W,1,Dowling,2.576581734898368,2
+15,2014-03-15,Dowling,0.2059,0.0,2.0,0.0,vs,L,1,Dowling,2.576581734898368,2
+16,2014-05-17,Dowling,0.1875,0.0,1.0,0.0,vs,L,1,Dowling,2.576581734898368,2
+17,2014-02-21,Felician,0.1765,0.0,0.0,0.0,vs,L,24,Felician,3.4480151228733456,2
+18,2014-03-14,Felician,0.325,0.0,1.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+19,2014-05-15,Felician,0.359,1.0,0.0,0.0,neutral,W,24,Felician,3.4480151228733456,1
+20,2014-04-01,Franklin Pierce,0.2286,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+21,2014-04-16,Franklin Pierce,0.0417,0.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+22,2014-04-29,Franklin Pierce,0.069,0.0,1.0,0.0,at,L,15,Franklin Pierce,3.761500606233507,0
+23,2014-03-03,Lynn University,0.1042,0.0,1.0,0.0,at,L,43,Lynn University,5.761589403973511,0
+24,2014-04-18,Merrimack,0.1818,0.0,1.0,0.0,at,L,2,Merrimack,3.0035206102391085,0
+25,2014-04-19,Merrimack,0.2647,0.0,2.0,0.18181818,at,L,2,Merrimack,3.0035206102391085,0
+26,2014-04-24,Merrimack,0.2778,0.0,2.0,0.2238806,at,W,2,Merrimack,3.0035206102391085,0
+27,2014-03-15,Molloy,0.2222,0.0,0.0,0.0,vs,W,0,Molloy,4.10538286580743,2
+28,2014-05-09,New Haven,0.3333,1.0,1.0,0.0,neutral,W,13,New Haven,4.561151079136691,1
+29,2014-03-22,Pace,0.3378,1.0,1.0,0.0,at,W,12,Pace,4.003042777877215,0
+30,2014-02-21,Pfeiffer,0.3143,0.0,1.0,0.0,vs,L,48,Pfeiffer,9.0,2
+31,2014-03-07,Post,0.3714,1.0,1.0,0.0,vs,W,52,Post,1.2535714285714286,2
+32,2014-03-25,Saint Anselm,0.3438,0.0,1.0,0.0,vs,W,17,Saint Anselm,3.5004222972972974,2
+33,2014-04-03,Saint Anselm,0.2105,0.0,1.0,0.34375,vs,W,17,Saint Anselm,3.5004222972972974,2
+34,2014-04-10,Saint Anselm,0.325,1.0,2.0,0.21052632,at,W,17,Saint Anselm,3.5004222972972974,0
+35,2014-03-27,Saint Michael's,0.375,1.0,1.0,0.0,vs,W,5,Saint Michael's,2.130794701986755,2
+36,2014-04-09,Saint Michael's,0.2333,0.5,1.5,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+37,2014-04-23,Saint Michael's,0.4,0.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+38,2014-03-08,So. Connecticut,0.2857,0.0,2.0,0.0,vs,W,20,So. Connecticut,5.103092783505154,2
+39,2014-04-08,So. New Hampshire,0.129,1.0,2.0,0.0,at,L,3,So. New Hampshire,4.831858407079646,0
+40,2014-05-16,So. New Hampshire,0.2414,1.0,2.0,0.0,at,W,3,So. New Hampshire,4.831858407079646,0
+41,2014-03-07,Southern Connecticut,0.1923,0.0,1.0,0.0,vs,W,51,Southern Connecticut,2.0,2
+42,2014-04-27,Stonehill,0.1639,0.0,1.5,0.0,neutral,W,4,Stonehill,3.5595172792100933,1
+43,2014-04-27,Stonehill,0.1639,0.0,1.5,0.0,neutral,L,4,Stonehill,3.5595172792100933,1
+44,2014-05-04,Stonehill,0.1786,1.0,1.0,0.16393443,neutral,W,4,Stonehill,3.5595172792100933,1
+45,2014-05-10,Stonehill,0.3333,2.0,2.0,0.17857143,neutral,W,4,Stonehill,3.5595172792100933,1
+46,2014-05-03,U of Bridgeport,0.3443,0.5,1.0,0.0,at,W,54,U of Bridgeport,4.5,0
+47,2014-05-17,Wilmington (Del.),0.2188,0.0,2.0,0.0,at,W,21,Wilmington (Del.),4.014740108611326,0
+48,2014-03-04,Wilmington Univ.,0.4054,1.0,0.0,0.0,vs,W,42,Wilmington Univ.,3.052631578947368,2
+0,2015-04-13,American Int'l,0.3148,1.5,2.5,0.0,neutral,W,14,American Int'l,3.759463408155133,1
+1,2015-03-15,Assumption,0.2308,0.0,1.0,0.0,vs,W,26,Assumption,3.972206781545303,2
+2,2015-04-18,Assumption,0.4526,2.5,1.0,0.0,at,W,26,Assumption,3.972206781545303,0
+3,2015-04-19,Assumption,0.4318,0.0,1.0,0.45263158,at,W,26,Assumption,3.972206781545303,0
+4,2015-04-04,Bentley,0.3256,3.0,2.0,0.0,at,L,19,Bentley,3.755790329134499,0
+5,2015-04-06,Bentley,0.3235,1.0,2.0,0.3255814,at,W,19,Bentley,3.755790329134499,0
+6,2015-04-26,Bentley,0.3333,0.0,4.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+7,2015-02-20,Felician,0.25,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+8,2015-03-05,Felician,0.1875,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+9,2015-03-25,Franklin Pierce,0.125,1.0,2.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+10,2015-04-08,Franklin Pierce,0.1579,0.0,1.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507,1
+11,2015-04-22,Franklin Pierce,0.2069,1.0,2.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507,1
+12,2015-05-16,Franklin Pierce,0.1429,0.0,2.0,0.0,at,L,15,Franklin Pierce,3.761500606233507,0
+13,2015-03-07,LIU Post,0.3662,0.5,2.5,0.0,vs,W,37,LIU Post,3.017142857142857,2
+14,2015-03-04,Lynn University,0.3611,0.0,2.0,0.0,at,L,43,Lynn University,5.761589403973511,0
+15,2015-02-21,Mercy,0.0435,0.0,1.0,0.0,vs,W,47,Mercy,1.966019417475728,2
+16,2015-02-21,Mercy College,0.3095,1.0,0.0,0.0,vs,W,56,Mercy College,2.4064171122994655,2
+17,2015-03-16,Merrimack,0.25,1.0,2.0,0.0,vs,W,2,Merrimack,3.0035206102391085,2
+18,2015-04-25,Merrimack,0.3016,0.0,2.5,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+19,2015-04-26,Merrimack,0.3478,0.0,3.0,0.3015873,neutral,L,2,Merrimack,3.0035206102391085,1
+20,2015-02-13,Nova Southeastern,0.2286,0.0,2.0,0.0,at,L,7,Nova Southeastern,9.376271186440679,0
+21,2015-02-14,Nova Southeastern,0.2286,0.0,5.0,0.22857143,at,L,7,Nova Southeastern,9.376271186440679,0
+22,2015-02-15,Nova Southeastern,0.1563,1.0,2.0,0.22857143,at,L,7,Nova Southeastern,9.376271186440679,0
+23,2015-03-04,Post,0.25,0.0,1.0,0.0,vs,W,52,Post,1.2535714285714286,2
+24,2015-04-11,Saint Anselm,0.2,1.0,2.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+25,2015-04-16,Saint Anselm,0.4146,3.0,3.0,0.2,neutral,W,17,Saint Anselm,3.5004222972972974,1
+26,2015-04-21,Saint Anselm,0.3548,0.0,0.0,0.32394366,neutral,W,17,Saint Anselm,3.5004222972972974,1
+27,2015-04-14,Saint Michael's,0.2414,1.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+28,2015-04-23,Saint Michael's,0.3684,2.0,0.0,0.24137931,at,W,5,Saint Michael's,2.130794701986755,0
+29,2015-05-15,St. Thomas Aquinas,0.3333,1.0,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+30,2015-04-11,Stonehill,0.2,0.0,1.0,0.0,at,W,4,Stonehill,3.5595172792100933,0
+31,2015-05-01,Stonehill,0.303,0.0,0.0,0.0,at,W,4,Stonehill,3.5595172792100933,0
+32,2015-05-05,Stonehill,0.1429,0.0,2.0,0.3030303,neutral,L,4,Stonehill,3.5595172792100933,1
+33,2015-05-02,Stonehill College,0.2029,0.0,2.0,0.0,at,L,27,Stonehill College,3.911854103343465,0
+34,2015-02-20,U. of Bridgeport,0.3429,1.0,1.0,0.0,vs,W,55,U. of Bridgeport,1.0,2
+35,2015-02-22,U. of Bridgeport,0.2647,1.0,1.0,0.34285714,vs,W,55,U. of Bridgeport,1.0,2
+36,2015-05-14,Wilmington,0.1765,1.0,1.0,0.0,vs,L,58,Wilmington,3.0,2
+37,2015-03-05,Wilmington (DE),0.1875,0.0,0.0,0.0,vs,L,57,Wilmington (DE),1.0666666666666667,2
+0,2016-03-14,Adelphi,0.2903,0.0,1.0,0.0,vs,W,18,Adelphi,3.9623161764705883,2
+1,2016-04-10,Adelphi,0.25,1.0,2.5,0.0,neutral,W,18,Adelphi,3.9623161764705883,1
+2,2016-04-03,American Int'l,0.4143,0.0,1.5,0.0,at,W,14,American Int'l,3.759463408155133,0
+3,2016-04-16,Assumption,0.3889,2.0,1.5,0.0,neutral,W,26,Assumption,3.972206781545303,1
+4,2016-04-17,Assumption,0.3125,0.0,0.0,0.38888889,neutral,W,26,Assumption,3.972206781545303,1
+5,2016-03-26,Bentley,0.209,0.0,2.0,0.0,at,W,19,Bentley,3.755790329134499,0
+6,2016-03-29,Bentley,0.2162,1.0,0.0,0.20895522,at,W,19,Bentley,3.755790329134499,0
+7,2016-05-22,Bridgeport,0.3333,0.0,0.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+8,2016-03-13,Caldwell,0.481,1.0,0.5,0.0,vs,W,45,Caldwell,1.3029490616621986,2
+9,2016-02-26,Dominican College NY,0.3077,2.0,1.0,0.0,vs,W,59,Dominican College NY,5.0625,2
+10,2016-05-19,Dowling,0.1818,0.0,0.0,0.0,vs,L,1,Dowling,2.576581734898368,2
+11,2016-03-05,Felician,0.2131,0.0,0.5,0.0,at,W,24,Felician,3.4480151228733456,0
+12,2016-03-06,Felician,0.3235,0.5,2.0,0.21311475,at,W,24,Felician,3.4480151228733456,0
+13,2016-05-21,Felician,0.413,2.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+14,2016-03-30,Franklin Pierce,0.1471,1.0,3.0,0.0,at,L,15,Franklin Pierce,3.761500606233507,0
+15,2016-04-13,Franklin Pierce,0.1765,0.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+16,2016-04-27,Franklin Pierce,0.1,0.0,4.0,0.0,neutral,L,15,Franklin Pierce,3.761500606233507,1
+17,2016-05-23,Franklin Pierce,0.2131,0.5,0.0,0.0,at,L,15,Franklin Pierce,3.761500606233507,0
+18,2016-05-23,Franklin Pierce,0.2131,0.5,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+19,2016-03-19,Lynn,0.2222,1.0,2.0,0.0,at,L,31,Lynn,5.594594594594595,0
+20,2016-02-28,Mercy,0.3793,1.0,0.0,0.0,vs,W,47,Mercy,1.966019417475728,2
+21,2016-04-23,Merrimack,0.413,1.0,2.0,0.0,at,W,2,Merrimack,3.0035206102391085,0
+22,2016-04-24,Merrimack,0.3243,2.5,0.0,0.41304348,at,W,2,Merrimack,3.0035206102391085,0
+23,2016-05-10,Merrimack,0.303,1.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+24,2016-05-20,Molloy,0.325,2.0,3.0,0.0,vs,W,0,Molloy,4.10538286580743,2
+25,2016-03-12,Molloy College,0.413,3.0,1.0,0.0,vs,W,61,Molloy College,6.0,2
+26,2016-03-15,Nova Southeastern,0.2121,1.0,5.0,0.0,at,L,7,Nova Southeastern,9.376271186440679,0
+27,2016-02-27,Nyack College,0.3415,1.0,3.0,0.0,vs,W,60,Nyack College,0.0,2
+28,2016-04-09,Pace,0.3077,1.0,0.5,0.0,neutral,W,12,Pace,4.003042777877215,1
+29,2016-05-13,Pace,0.303,0.0,1.0,0.0,vs,W,12,Pace,4.003042777877215,2
+30,2016-04-08,Post,0.2069,0.0,1.0,0.0,neutral,W,52,Post,1.2535714285714286,1
+31,2016-03-23,Saint Anselm,0.2222,1.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974,0
+32,2016-04-15,Saint Anselm,0.2258,1.0,0.0,0.0,at,W,17,Saint Anselm,3.5004222972972974,0
+33,2016-04-29,Saint Anselm,0.3784,4.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974,0
+34,2016-03-31,Saint Michael's,0.4211,3.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+35,2016-04-19,Saint Michael's,0.2941,2.0,2.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+36,2016-05-03,Saint Michael's,0.3824,2.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+37,2016-05-12,Saint Rose,0.3333,2.0,0.0,0.0,vs,W,16,Saint Rose,3.690340909090909,2
+38,2016-05-14,Saint Rose,0.2647,0.0,1.0,0.33333333,vs,W,16,Saint Rose,3.690340909090909,2
+39,2016-03-18,So. Connecticut,0.3721,0.0,1.0,0.0,vs,W,20,So. Connecticut,5.103092783505154,2
+40,2016-04-22,So. Connecticut,0.3182,1.5,1.0,0.0,neutral,W,20,So. Connecticut,5.103092783505154,1
+41,2016-05-22,St. Thomas Aquinas,0.3333,0.0,0.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+42,2016-04-30,Stonehill,0.3375,1.0,0.5,0.0,neutral,L,4,Stonehill,3.5595172792100933,1
+43,2016-04-30,Stonehill,0.3375,1.0,0.5,0.0,neutral,W,4,Stonehill,3.5595172792100933,1
+44,2016-05-01,Stonehill,0.303,0.0,2.0,0.3375,neutral,W,4,Stonehill,3.5595172792100933,1
+45,2016-02-27,Wilmington (DE),0.1429,0.0,2.0,0.0,vs,W,57,Wilmington (DE),1.0666666666666667,2
+0,2017-04-29,Assumption,0.321,1.0,2.0,0.0,at,W,26,Assumption,3.972206781545303,0
+1,2017-04-30,Assumption,0.25,0.0,2.0,0.32098765,at,W,26,Assumption,3.972206781545303,0
+2,2017-04-22,Bentley,0.2712,0.5,0.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+3,2017-04-23,Bentley,0.2759,0.0,3.0,0.27118644,neutral,W,19,Bentley,3.755790329134499,1
+4,2017-05-09,Bentley,0.2059,0.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+5,2017-03-11,Bloomfield,0.2931,0.0,1.5,0.0,vs,W,23,Bloomfield,1.9156626506024097,2
+6,2017-02-26,Bridgeport,0.1071,2.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+7,2017-04-13,Bridgeport,0.125,0.0,1.0,0.0,neutral,W,49,Bridgeport,2.6724890829694328,1
+8,2017-03-12,Caldwell,0.2813,1.0,2.0,0.0,vs,W,45,Caldwell,1.3029490616621986,2
+9,2017-05-21,Felician,0.2647,4.0,0.0,0.0,at,W,24,Felician,3.4480151228733456,0
+10,2017-04-05,Franklin Pierce,0.1071,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+11,2017-04-18,Franklin Pierce,0.2581,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+12,2017-05-02,Franklin Pierce,0.1667,0.0,0.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+13,2017-05-12,Franklin Pierce,0.2,0.0,1.0,0.16666667,vs,L,15,Franklin Pierce,3.761500606233507,2
+14,2017-02-23,LIU Post,0.1724,0.0,2.0,0.0,vs,L,37,LIU Post,3.017142857142857,2
+15,2017-05-19,LIU Post,0.4359,3.0,3.0,0.0,neutral,W,37,LIU Post,3.017142857142857,1
+16,2017-02-25,Mercy,0.4773,2.0,0.0,0.0,vs,W,47,Mercy,1.966019417475728,2
+17,2017-02-24,Mercy College,0.2703,2.0,1.0,0.0,vs,W,56,Mercy College,2.4064171122994655,2
+18,2017-05-04,Merrimack,0.2414,1.0,0.0,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+19,2017-05-06,Merrimack,0.3288,3.5,1.0,0.24137931,neutral,W,2,Merrimack,3.0035206102391085,1
+20,2017-04-09,New Haven,0.2174,0.0,2.5,0.0,neutral,W,13,New Haven,4.561151079136691,1
+21,2017-04-09,New Haven,0.2174,0.0,2.5,0.0,neutral,L,13,New Haven,4.561151079136691,1
+22,2017-05-11,New Haven,0.1786,1.0,0.0,0.0,at,W,13,New Haven,4.561151079136691,0
+23,2017-05-12,New Haven,0.1563,0.0,2.0,0.17857143,at,L,13,New Haven,4.561151079136691,0
+24,2017-03-15,Nova Southeastern,0.2708,1.0,1.0,0.0,at,W,7,Nova Southeastern,9.376271186440679,0
+25,2017-03-13,Palm Beach Atl.,0.2727,0.0,0.0,0.0,at,W,64,Palm Beach Atl.,3.0,0
+26,2017-02-25,Queens (N.Y.),0.2069,1.0,0.0,0.0,vs,W,62,Queens (N.Y.),3.571428571428571,2
+27,2017-04-02,Saint Anselm,0.2394,0.0,0.5,0.0,vs,W,17,Saint Anselm,3.5004222972972974,2
+28,2017-04-27,Saint Anselm,0.3714,3.0,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+29,2017-04-12,Saint Michael's,0.2632,3.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+30,2017-04-28,Saint Michael's,0.2656,1.5,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+31,2017-03-25,Saint Rose,0.2381,0.0,0.5,0.0,vs,W,16,Saint Rose,3.690340909090909,2
+32,2017-03-18,Saint Thomas Aquinas,0.1897,0.0,2.0,0.0,vs,W,65,Saint Thomas Aquinas,3.5,2
+33,2017-03-18,Saint Thomas Aquinas,0.1897,0.0,2.0,0.0,vs,L,65,Saint Thomas Aquinas,3.5,2
+34,2017-03-03,Shippensburg,0.2647,1.0,3.0,0.0,at,L,63,Shippensburg,9.487951807228916,0
+35,2017-03-04,Shippensburg,0.3333,1.0,5.0,0.26470588,at,L,63,Shippensburg,9.487951807228916,0
+36,2017-03-05,Shippensburg,0.2794,0.5,0.5,0.30487805,at,W,63,Shippensburg,9.487951807228916,0
+37,2017-04-08,Southern Conn. State,0.2879,0.5,2.0,0.0,at,W,66,Southern Conn. State,3.5,0
+38,2017-05-20,St. Thomas Aquinas,0.1563,0.0,2.0,0.0,at,L,33,St. Thomas Aquinas,3.807285546415981,0
+39,2017-05-22,St. Thomas Aquinas,0.1875,2.0,0.0,0.15625,neutral,L,33,St. Thomas Aquinas,3.807285546415981,1
+40,2017-03-26,Stonehill College,0.2836,0.5,2.0,0.0,vs,W,27,Stonehill College,3.911854103343465,2
+41,2017-03-26,Stonehill College,0.2836,0.5,2.0,0.0,vs,L,27,Stonehill College,3.911854103343465,2
+42,2017-04-15,Stonehill College,0.3919,0.5,2.0,0.0,at,W,27,Stonehill College,3.911854103343465,0
+43,2017-04-17,Stonehill College,0.129,0.0,1.0,0.39189189,at,L,27,Stonehill College,3.911854103343465,0
+0,2018-04-08,American Int'l,0.2727,0.5,3.0,0.0,neutral,W,14,American Int'l,3.759463408155133,1
+1,2018-04-08,American Int'l,0.2727,0.5,3.0,0.0,neutral,L,14,American Int'l,3.759463408155133,1
+2,2018-04-18,Assumption,0.4098,1.0,0.5,0.0,neutral,W,26,Assumption,3.972206781545303,1
+3,2018-05-04,Assumption,0.3529,2.0,1.0,0.0,neutral,W,26,Assumption,3.972206781545303,1
+4,2018-05-26,Augustana,0.129,1.0,3.0,0.0,vs,L,70,Augustana,6.88235294117647,2
+5,2018-05-31,Augustana,0.2,0.0,1.0,0.12903226,vs,L,70,Augustana,6.88235294117647,2
+6,2018-03-30,Bentley,0.2821,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499,0
+7,2018-03-31,Bentley,0.3587,1.0,0.0,0.28205128,at,W,19,Bentley,3.755790329134499,0
+8,2018-03-31,Bentley,0.3587,1.0,0.0,0.28205128,at,L,19,Bentley,3.755790329134499,0
+9,2018-05-08,Bentley,0.2258,1.0,0.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+10,2018-03-09,Bloomfield,0.2353,0.0,1.0,0.0,vs,W,23,Bloomfield,1.9156626506024097,2
+11,2018-02-22,Bridgeport,0.3611,1.0,1.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+12,2018-04-07,Bridgeport,0.3148,2.0,0.5,0.0,neutral,W,49,Bridgeport,2.6724890829694328,1
+13,2018-03-12,Eckerd College,0.1034,0.0,2.0,0.0,at,L,67,Eckerd College,10.125,0
+14,2018-02-23,Felician,0.1935,0.0,0.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+15,2018-03-28,Franklin Pierce,0.2895,2.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+16,2018-04-11,Franklin Pierce,0.2273,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+17,2018-04-24,Franklin Pierce,0.4286,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+18,2018-05-17,Franklin Pierce,0.2727,1.0,0.0,0.0,vs,W,15,Franklin Pierce,3.761500606233507,2
+19,2018-02-25,Le Moyne,0.3429,0.0,0.0,0.0,vs,W,34,Le Moyne,3.805714285714286,2
+20,2018-05-11,Le Moyne,0.303,1.0,2.0,0.0,at,W,34,Le Moyne,3.805714285714286,0
+21,2018-02-24,LIU Post,0.2941,2.0,2.0,0.0,vs,W,37,LIU Post,3.017142857142857,2
+22,2018-02-24,Mercy College,0.4103,4.0,1.0,0.0,vs,W,56,Mercy College,2.4064171122994655,2
+23,2018-04-27,Merrimack,0.2143,0.0,1.0,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+24,2018-05-11,Merrimack,0.25,0.0,2.0,0.0,neutral,L,2,Merrimack,3.0035206102391085,1
+25,2018-04-28,Merrimack College,0.2568,0.5,2.5,0.0,at,L,69,Merrimack College,5.884615384615385,0
+26,2018-04-28,Merrimack College,0.2568,0.5,2.5,0.0,at,W,69,Merrimack College,5.884615384615385,0
+27,2018-04-29,Merrimack College,0.3333,1.0,1.0,0.25675676,at,W,69,Merrimack College,5.884615384615385,0
+28,2018-03-11,New Haven,0.2703,0.0,4.0,0.0,vs,L,13,New Haven,4.561151079136691,2
+29,2018-05-10,New Haven,0.3077,0.0,1.0,0.0,neutral,L,13,New Haven,4.561151079136691,1
+30,2018-05-18,New Haven,0.2703,0.0,0.0,0.30769231,vs,W,13,New Haven,4.561151079136691,2
+31,2018-03-13,Nova Southeastern,0.1429,0.0,4.0,0.0,at,L,7,Nova Southeastern,9.376271186440679,0
+32,2018-03-24,Pace University,0.1356,0.5,1.0,0.0,at,L,68,Pace University,2.8125,0
+33,2018-04-21,Saint Anselm,0.3846,0.0,1.0,0.0,at,W,17,Saint Anselm,3.5004222972972974,0
+34,2018-04-22,Saint Anselm,0.3158,0.5,1.5,0.38461538,at,W,17,Saint Anselm,3.5004222972972974,0
+35,2018-03-03,Saint Michael's,0.3548,0.5,0.5,0.0,vs,W,5,Saint Michael's,2.130794701986755,2
+36,2018-04-04,Saint Michael's,0.2895,0.0,1.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+37,2018-05-01,Saint Michael's,0.2295,0.5,0.0,0.0,neutral,W,5,Saint Michael's,2.130794701986755,1
+38,2018-05-01,Saint Michael's,0.2295,0.5,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+39,2018-05-27,Southern Indiana,0.2581,0.0,0.0,0.0,vs,W,71,Southern Indiana,0.0,2
+40,2018-03-17,St. Thomas Aquinas,0.2321,1.5,1.0,0.0,vs,L,33,St. Thomas Aquinas,3.807285546415981,2
+41,2018-03-17,St. Thomas Aquinas,0.2321,1.5,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+42,2018-03-18,St. Thomas Aquinas,0.1429,2.0,1.0,0.23214286,vs,L,33,St. Thomas Aquinas,3.807285546415981,2
+43,2018-05-20,St. Thomas Aquinas,0.2813,1.0,0.0,0.0,neutral,W,33,St. Thomas Aquinas,3.807285546415981,1
+44,2018-05-21,St. Thomas Aquinas,0.2632,1.0,0.0,0.28125,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+45,2018-04-13,Stonehill,0.3243,0.0,0.0,0.0,neutral,W,4,Stonehill,3.5595172792100933,1
+46,2018-04-14,Stonehill,0.3151,2.0,0.5,0.32432432,neutral,W,4,Stonehill,3.5595172792100933,1
+47,2018-04-14,Stonehill,0.3151,2.0,0.5,0.32432432,neutral,L,4,Stonehill,3.5595172792100933,1
+48,2018-05-30,UC San Diego,0.25,2.0,0.0,0.0,vs,W,72,UC San Diego,4.0,2
+49,2018-03-04,West Chester,0.2353,0.0,2.5,0.0,vs,L,36,West Chester,10.50761421319797,2
+50,2018-03-10,Wilmington (Del.),0.3226,0.0,0.0,0.0,vs,W,21,Wilmington (Del.),4.014740108611326,2
+0,2019-03-16,Adelphi,0.2813,0.0,2.0,0.0,vs,W,18,Adelphi,3.9623161764705883,2
+1,2019-03-15,American Int'l,0.3514,0.0,0.0,0.0,vs,W,14,American Int'l,3.759463408155133,2
+2,2019-03-15,American Int'l,0.3514,0.0,0.0,0.0,vs,L,14,American Int'l,3.759463408155133,2
+3,2019-04-27,Assumption,0.2917,0.5,0.5,0.0,at,W,26,Assumption,3.972206781545303,0
+4,2019-04-28,Assumption,0.1818,0.0,2.0,0.29166667,at,L,26,Assumption,3.972206781545303,0
+5,2019-05-16,Assumption,0.3056,1.0,2.0,0.0,neutral,W,26,Assumption,3.972206781545303,1
+6,2019-04-18,Bentley,0.125,0.0,0.0,0.0,neutral,L,19,Bentley,3.755790329134499,1
+7,2019-04-19,Bentley,0.2368,0.0,0.0,0.125,neutral,L,19,Bentley,3.755790329134499,1
+8,2019-04-23,Bentley,0.2069,1.0,2.0,0.18571429,neutral,W,19,Bentley,3.755790329134499,1
+9,2019-02-23,Bridgeport,0.2581,0.0,2.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+10,2019-03-10,Caldwell,0.3636,0.0,0.0,0.0,vs,W,45,Caldwell,1.3029490616621986,2
+11,2019-02-23,Concordia New York,0.3148,2.0,1.0,0.0,vs,W,74,Concordia New York,3.2142857142857144,2
+12,2019-02-08,CSU San Bernardino,0.2,4.0,1.0,0.0,at,W,73,CSU San Bernardino,6.230769230769231,0
+13,2019-02-09,CSU San Bernardino,0.2031,0.5,2.5,0.2,at,L,73,CSU San Bernardino,6.230769230769231,0
+14,2019-05-17,Felician,0.2432,0.0,0.0,0.0,at,W,24,Felician,3.4480151228733456,0
+15,2019-04-02,Franklin Pierce,0.3784,0.0,0.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+16,2019-04-16,Franklin Pierce,0.1351,0.0,1.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+17,2019-04-30,Franklin Pierce,0.3846,0.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+18,2019-05-07,Franklin Pierce,0.1875,1.0,1.0,0.38461538,neutral,L,15,Franklin Pierce,3.761500606233507,1
+19,2019-04-07,Le Moyne,0.1786,0.0,0.5,0.0,neutral,W,34,Le Moyne,3.805714285714286,1
+20,2019-04-07,Le Moyne,0.1786,0.0,0.5,0.0,neutral,L,34,Le Moyne,3.805714285714286,1
+21,2019-02-21,LIU Post,0.1724,1.0,0.0,0.0,vs,W,37,LIU Post,3.017142857142857,2
+22,2019-05-17,LIU Post,0.3077,2.0,1.0,0.0,neutral,L,37,LIU Post,3.017142857142857,1
+23,2019-05-18,LIU Post,0.3485,1.5,0.5,0.30769231,neutral,W,37,LIU Post,3.017142857142857,1
+24,2019-05-18,LIU Post,0.3485,1.5,0.5,0.30769231,at,W,37,LIU Post,3.017142857142857,0
+25,2019-02-22,Mercy,0.2333,1.0,3.0,0.0,vs,W,47,Mercy,1.966019417475728,2
+26,2019-03-01,Merrimack,0.1944,0.0,3.0,0.0,vs,W,2,Merrimack,3.0035206102391085,2
+27,2019-03-03,Merrimack,0.2593,1.0,2.0,0.19444444,vs,L,2,Merrimack,3.0035206102391085,2
+28,2019-03-03,Merrimack,0.2593,1.0,2.0,0.19444444,vs,W,2,Merrimack,3.0035206102391085,2
+29,2019-05-02,Merrimack,0.2353,1.0,2.0,0.0,neutral,W,2,Merrimack,3.0035206102391085,1
+30,2019-05-04,Merrimack,0.2857,0.5,1.0,0.23529412,neutral,W,2,Merrimack,3.0035206102391085,1
+31,2019-03-12,Molloy,0.2258,0.0,0.0,0.0,vs,W,0,Molloy,4.10538286580743,2
+32,2019-03-24,New Haven,0.1692,0.0,2.0,0.0,at,L,13,New Haven,4.561151079136691,0
+33,2019-03-24,New Haven,0.1692,0.0,2.0,0.0,at,W,13,New Haven,4.561151079136691,0
+34,2019-03-13,Nova Southeastern,0.3333,0.0,7.0,0.0,at,L,7,Nova Southeastern,9.376271186440679,0
+35,2019-05-24,NYIT,0.3333,2.0,4.0,0.0,neutral,L,77,NYIT,9.0,1
+36,2019-03-11,Post,0.2593,0.0,0.5,0.0,vs,W,52,Post,1.2535714285714286,2
+37,2019-03-30,Saint Anselm,0.2985,1.0,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+38,2019-03-31,Saint Anselm,0.2667,0.0,2.0,0.29850746,neutral,W,17,Saint Anselm,3.5004222972972974,1
+39,2019-04-11,Saint Michael's,0.325,0.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+40,2019-04-24,Saint Michael's,0.3243,2.0,0.0,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+41,2019-04-06,Saint Rose,0.2951,0.5,0.0,0.0,neutral,W,16,Saint Rose,3.690340909090909,1
+42,2019-04-05,Southern Conn. St.,0.2632,2.0,2.0,0.0,neutral,W,76,Southern Conn. St.,4.0344827586206895,1
+43,2019-05-25,Southern N.H.,0.2857,1.0,1.0,0.0,at,W,78,Southern N.H.,3.0,0
+44,2019-03-29,St. Michael's,0.3103,0.0,3.0,0.0,neutral,W,75,St. Michael's,0.7941176470588236,1
+45,2019-02-24,St. Thomas Aquinas,0.25,0.0,2.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+46,2019-04-13,Stonehill,0.2381,0.0,1.5,0.0,at,L,4,Stonehill,3.5595172792100933,0
+47,2019-04-13,Stonehill,0.2381,0.0,1.5,0.0,at,W,4,Stonehill,3.5595172792100933,0
+48,2019-04-14,Stonehill,0.2857,0.0,1.0,0.23809524,at,W,4,Stonehill,3.5595172792100933,0
+0,2020-03-07,Adelphi University,0.1667,0.0,2.0,0.0,at,L,53,Adelphi University,1.9186046511627906,0
+1,2020-03-08,Adelphi University,0.1897,0.5,0.0,0.16666667,at,W,53,Adelphi University,1.9186046511627906,0
+2,2020-02-23,Bridgeport,0.3333,2.0,0.0,0.0,vs,W,49,Bridgeport,2.6724890829694328,2
+3,2020-02-14,Colorado Mesa,0.2,0.0,1.0,0.0,at,L,79,Colorado Mesa,14.25,0
+4,2020-02-15,Colorado Mesa,0.2432,0.0,3.0,0.2,at,L,79,Colorado Mesa,14.25,0
+5,2020-02-16,Colorado Mesa,0.2941,0.0,0.0,0.2238806,at,L,79,Colorado Mesa,14.25,0
+6,2020-02-22,Dominican (N.Y.),0.4935,1.5,0.5,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898,2
+7,2020-02-22,Dominican (N.Y.),0.4935,1.5,0.5,0.0,at,W,50,Dominican (N.Y.),5.26530612244898,0
+8,2020-02-21,Felician,0.2632,2.0,1.0,0.0,vs,W,24,Felician,3.4480151228733456,2
+9,2020-02-21,Mercy,0.3636,0.0,1.0,0.0,vs,W,47,Mercy,1.966019417475728,2
+10,2020-02-29,New York Tech,0.2667,0.0,1.0,0.0,at,W,80,New York Tech,1.44,0
+11,2020-03-01,New York Tech,0.2,1.0,1.5,0.26666667,at,W,80,New York Tech,1.44,0
+12,2020-03-10,Pace,0.325,1.0,0.0,0.0,at,W,12,Pace,4.003042777877215,0
+13,2020-03-09,Queens (NY),0.3429,1.0,1.0,0.0,at,W,81,Queens (NY),3.0,0
+0,2021-05-21,Adelphi,0.3333,3.0,0.5,0.0,neutral,W,18,Adelphi,3.9623161764705883,1
+1,2021-05-21,Adelphi,0.3333,3.0,0.5,0.0,at,W,18,Adelphi,3.9623161764705883,0
+2,2021-05-07,Assumption,0.3088,0.0,2.5,0.0,at,W,26,Assumption,3.972206781545303,0
+3,2021-05-08,Assumption,0.2419,0.0,1.0,0.30882353,at,L,26,Assumption,3.972206781545303,0
+4,2021-05-08,Assumption,0.2419,0.0,1.0,0.30882353,vs,L,26,Assumption,3.972206781545303,2
+5,2021-05-13,Assumption,0.2647,0.0,0.0,0.27692308,neutral,W,26,Assumption,3.972206781545303,1
+6,2021-04-24,Bentley,0.3065,0.5,3.0,0.0,neutral,W,19,Bentley,3.755790329134499,1
+7,2021-04-24,Bentley,0.3065,0.5,3.0,0.0,neutral,L,19,Bentley,3.755790329134499,1
+8,2021-04-25,Bentley,0.2658,1.0,4.0,0.30645161,neutral,L,19,Bentley,3.755790329134499,1
+9,2021-04-25,Bentley,0.2658,1.0,4.0,0.30645161,neutral,W,19,Bentley,3.755790329134499,1
+10,2021-05-27,Dominican (N.Y.),0.2581,2.0,0.0,0.0,vs,W,50,Dominican (N.Y.),5.26530612244898,2
+11,2021-05-01,Franklin Pierce,0.3438,2.0,1.0,0.0,neutral,W,15,Franklin Pierce,3.761500606233507,1
+12,2021-05-02,Franklin Pierce,0.2951,1.0,2.0,0.34375,neutral,L,15,Franklin Pierce,3.761500606233507,1
+13,2021-05-02,Franklin Pierce,0.2951,1.0,2.0,0.34375,neutral,W,15,Franklin Pierce,3.761500606233507,1
+14,2021-05-16,Franklin Pierce,0.2368,1.5,1.5,0.0,neutral,L,15,Franklin Pierce,3.761500606233507,1
+15,2021-05-16,Franklin Pierce,0.2368,1.5,1.5,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+16,2021-05-17,Franklin Pierce,0.4,4.0,1.0,0.23684211,neutral,W,15,Franklin Pierce,3.761500606233507,1
+17,2021-05-28,Franklin Pierce,0.3421,2.0,4.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+18,2021-05-29,Molloy,0.3714,2.0,1.0,0.0,vs,W,0,Molloy,4.10538286580743,2
+19,2021-05-31,Molloy,0.2353,1.0,3.0,0.37142857,vs,L,0,Molloy,4.10538286580743,2
+20,2021-06-01,Molloy,0.35,1.0,1.0,0.30434783,vs,W,0,Molloy,4.10538286580743,2
+21,2021-04-09,Saint Anselm,0.3333,0.5,1.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+22,2021-04-10,Saint Anselm,0.3846,2.5,0.5,0.33333333,neutral,W,17,Saint Anselm,3.5004222972972974,1
+23,2021-04-17,Saint Michael's,0.3919,0.5,0.5,0.0,at,W,5,Saint Michael's,2.130794701986755,0
+24,2021-04-18,Saint Michael's,0.3951,0.5,0.5,0.39189189,at,W,5,Saint Michael's,2.130794701986755,0
+25,2021-06-06,Seton Hill,0.125,0.0,1.0,0.0,vs,L,82,Seton Hill,4.5,2
+26,2021-03-25,Stonehill,0.2295,1.5,0.5,0.0,at,W,4,Stonehill,3.5595172792100933,0
+27,2021-03-27,Stonehill,0.3125,1.0,0.5,0.2295082,at,W,4,Stonehill,3.5595172792100933,0
+28,2021-06-08,Wingate,0.2571,1.0,0.0,0.0,vs,L,83,Wingate,3.0,2
+0,2022-03-20,Adelphi,0.1692,0.0,1.0,0.0,at,W,18,Adelphi,3.9623161764705883,0
+1,2022-03-20,Adelphi,0.1692,0.0,1.0,0.0,at,L,18,Adelphi,3.9623161764705883,0
+2,2022-03-21,Adelphi,0.3125,1.0,1.0,0.16923077,at,L,18,Adelphi,3.9623161764705883,0
+3,2022-05-13,Adelphi,0.2571,0.0,6.0,0.0,neutral,W,18,Adelphi,3.9623161764705883,1
+4,2022-06-05,Angelo State,0.2059,2.0,3.0,0.0,vs,L,85,Angelo State,7.0,2
+5,2022-03-14,Assumption,0.3421,2.0,1.0,0.0,neutral,W,26,Assumption,3.972206781545303,1
+6,2022-05-06,Assumption,0.2951,1.5,1.0,0.0,neutral,W,26,Assumption,3.972206781545303,1
+7,2022-05-07,Assumption,0.3091,0.5,1.5,0.29508197,neutral,W,26,Assumption,3.972206781545303,1
+8,2022-05-14,Assumption,0.2958,2.0,2.0,0.30172414,vs,L,26,Assumption,3.972206781545303,2
+9,2022-05-14,Assumption,0.2958,2.0,2.0,0.30172414,vs,W,26,Assumption,3.972206781545303,2
+10,2022-04-21,Bentley,0.4375,0.0,0.0,0.0,at,W,19,Bentley,3.755790329134499,0
+11,2022-04-22,Bentley,0.3571,1.0,0.0,0.4375,at,W,19,Bentley,3.755790329134499,0
+12,2022-04-23,Bentley,0.3438,0.0,1.0,0.4,at,W,19,Bentley,3.755790329134499,0
+13,2022-04-05,Bridgeport,0.1429,0.0,0.0,0.0,at,W,49,Bridgeport,2.6724890829694328,0
+14,2022-04-26,Bridgeport,0.2571,1.0,2.0,0.0,at,W,49,Bridgeport,2.6724890829694328,0
+15,2022-02-24,Felician,0.2,1.0,3.0,0.0,vs,L,24,Felician,3.4480151228733456,2
+16,2022-03-05,Felician,0.3563,3.5,3.0,0.2,at,W,24,Felician,3.4480151228733456,0
+17,2022-03-06,Felician,0.2121,0.0,1.0,0.31623932,at,L,24,Felician,3.4480151228733456,0
+18,2022-04-29,Franklin Pierce,0.1613,1.0,0.0,0.0,at,W,15,Franklin Pierce,3.761500606233507,0
+19,2022-04-30,Franklin Pierce,0.2264,0.0,1.0,0.16129032,at,L,15,Franklin Pierce,3.761500606233507,0
+20,2022-04-30,Franklin Pierce,0.2264,0.0,1.0,0.16129032,at,W,15,Franklin Pierce,3.761500606233507,0
+21,2022-05-01,Franklin Pierce,0.413,2.0,0.0,0.20238095,at,W,15,Franklin Pierce,3.761500606233507,0
+22,2022-05-12,Le Moyne,0.3529,1.0,2.0,0.0,vs,W,34,Le Moyne,3.805714285714286,2
+23,2022-02-26,Mercy College,0.4028,1.5,0.5,0.0,vs,W,56,Mercy College,2.4064171122994655,2
+24,2022-05-27,Molloy,0.2424,1.5,2.5,0.0,neutral,L,0,Molloy,4.10538286580743,1
+25,2022-05-27,Molloy,0.2424,1.5,2.5,0.0,at,W,0,Molloy,4.10538286580743,0
+26,2022-05-29,Molloy,0.2571,2.0,2.0,0.24242424,vs,W,0,Molloy,4.10538286580743,2
+27,2022-04-02,New Haven,0.3333,1.0,1.5,0.0,at,W,13,New Haven,4.561151079136691,0
+28,2022-04-02,New Haven,0.3333,1.0,1.5,0.0,at,L,13,New Haven,4.561151079136691,0
+29,2022-03-11,Nyack,0.3333,3.0,1.5,0.0,neutral,W,84,Nyack,1.0,1
+30,2022-02-25,Queens (N.Y.),0.3333,2.0,1.0,0.0,vs,W,62,Queens (N.Y.),3.571428571428571,2
+31,2022-03-30,Saint Anselm,0.3636,2.0,0.0,0.0,neutral,W,17,Saint Anselm,3.5004222972972974,1
+32,2022-04-07,Saint Anselm,0.3182,0.0,2.0,0.36363636,at,W,17,Saint Anselm,3.5004222972972974,0
+33,2022-04-08,Saint Anselm,0.2895,3.0,3.0,0.33766234,at,L,17,Saint Anselm,3.5004222972972974,0
+34,2022-04-10,Saint Anselm,0.3492,2.0,1.5,0.30487805,at,L,17,Saint Anselm,3.5004222972972974,0
+35,2022-04-10,Saint Anselm,0.3492,2.0,1.5,0.30487805,at,W,17,Saint Anselm,3.5004222972972974,0
+36,2022-05-10,Saint Anselm,0.3824,2.0,1.0,0.0,vs,W,17,Saint Anselm,3.5004222972972974,2
+37,2022-05-20,Southern Conn. St.,0.3718,4.0,0.5,0.0,vs,W,76,Southern Conn. St.,4.0344827586206895,2
+38,2022-04-15,St. Michael's,0.2931,2.5,0.0,0.0,neutral,W,75,St. Michael's,0.7941176470588236,1
+39,2022-04-16,St. Michael's,0.381,0.0,1.5,0.29310345,neutral,W,75,St. Michael's,0.7941176470588236,1
+40,2022-02-27,St. Thomas Aquinas,0.4474,0.0,1.0,0.0,vs,W,33,St. Thomas Aquinas,3.807285546415981,2
+41,2022-04-13,St. Thomas Aquinas,0.3947,4.0,1.0,0.0,neutral,W,33,St. Thomas Aquinas,3.807285546415981,1
+42,2022-04-27,St. Thomas Aquinas,0.2703,2.0,6.0,0.0,at,W,33,St. Thomas Aquinas,3.807285546415981,0
+43,2022-03-25,Stonehill,0.25,1.0,2.0,0.0,neutral,W,4,Stonehill,3.5595172792100933,1
+44,2022-03-26,Stonehill,0.3208,1.0,0.5,0.25,neutral,W,4,Stonehill,3.5595172792100933,1
+45,2022-03-27,Stonehill,0.3,1.0,0.0,0.2962963,neutral,W,4,Stonehill,3.5595172792100933,1
+46,2022-06-07,West Chester,0.2941,1.0,0.0,0.0,vs,L,36,West Chester,10.50761421319797,2
+47,2022-05-19,Wilmington (Del.),0.25,2.0,0.0,0.0,vs,W,21,Wilmington (Del.),4.014740108611326,2
