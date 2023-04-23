@@ -6,6 +6,7 @@ For my first application I decided to do it on my old collegiate baseball team. 
 ### Collecting the Essential Data
 
 The first step in this project was to collect the data I needed. To enable this I created a webscraping script and optimized the data search through an iterative process with the code below. This code does:
+
     - Takes in the SNHU link to format the link to be collected later 
     - Iterates over years 2000 - 2023 
     - Indexes HTML Tables pertaining to:
