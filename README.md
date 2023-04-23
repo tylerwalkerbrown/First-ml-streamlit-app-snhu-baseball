@@ -30,7 +30,11 @@ for year in range(2000, 2023):
             hitting_log.append(pd.read_html(link, header=0)[6])
             pitching_log.append(pd.read_html(link, header=0)[7])
         except:
-            pass ```
+            pass
+            
+            
+# end of Python code
+
 
 
 ![image](https://user-images.githubusercontent.com/94020684/233863619-f715f829-cd24-4546-8ac7-f9049408a247.png)
