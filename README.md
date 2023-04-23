@@ -156,6 +156,7 @@ We can notice at around tree 300 a decrease in variance within the model. But th
 
 ![download](https://user-images.githubusercontent.com/94020684/233871367-baf4759b-6705-40f2-8090-7c2810c8c5ae.png)
 
+```python
 Confusion Matrix:
  [[299   7]
  [ 12 599]]
@@ -169,6 +170,9 @@ Classification Report:
     accuracy                           0.98       917
    macro avg       0.97      0.98      0.98       917
 weighted avg       0.98      0.98      0.98       917
+```
+![download-1](https://user-images.githubusercontent.com/94020684/233871441-5c3fb298-6448-4b57-9060-7672dc28b1fe.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/94020684/233863619-f715f829-cd24-4546-8ac7-f9049408a247.png)
