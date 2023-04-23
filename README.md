@@ -156,6 +156,19 @@ We can notice at around tree 300 a decrease in variance within the model. But th
 
 ![download](https://user-images.githubusercontent.com/94020684/233871367-baf4759b-6705-40f2-8090-7c2810c8c5ae.png)
 
+Confusion Matrix:
+ [[299   7]
+ [ 12 599]]
+ 
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.96      0.98      0.97       306
+           1       0.99      0.98      0.98       611
+
+    accuracy                           0.98       917
+   macro avg       0.97      0.98      0.98       917
+weighted avg       0.98      0.98      0.98       917
 
 
 ![image](https://user-images.githubusercontent.com/94020684/233863619-f715f829-cd24-4546-8ac7-f9049408a247.png)
