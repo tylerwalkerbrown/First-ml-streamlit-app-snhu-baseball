@@ -20,12 +20,12 @@ encoder = data['encoder']
 
 def predict(bat_avg, avg_HR, opp_error, game_avg, era_by_team, loc):
     loc_encoded = encoder.transform([loc])[0]
-    new_data = pd.DataFrame({'Batting Avg': [bat_avg],
-                             'HR': [avg_HR],
-                             'Running Opp Error': [opp_error],
-                             '10 Game Avg': [game_avg],
-                             'Loc': [loc_encoded],
-                             'avg_era_by_team': [era_by_team]})
+    new_data = pd.DataFrame({'bat_avg': [bat_avg],
+                             'avg_HR': [avg_HR],
+                             'opp_error': [opp_error],
+                             '10_game_avg': [game_avg],
+                             'avg_era_by_team': [era_by_team],
+                             'Loc_encoded': [loc_encoded]})
     
     result = model.predict(new_data)[0]
     return result
