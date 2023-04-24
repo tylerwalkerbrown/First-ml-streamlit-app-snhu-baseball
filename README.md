@@ -1,4 +1,6 @@
 # First-ml-streamlit-app-snhu-baseball
+Application Functionality Video Link: 
+https://youtu.be/4lIrpqoLcQ4
 
 ### Project Goal 
 For my first application I decided to do it on my old collegiate baseball team. For this project the goal was to come up with an interface backed my machine learning to predict wins and loses for Southern New Hampshire University. 
